@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdel%20ATIA%20PhD%20DMV&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Bio+%2B+Code+%3D+Innovation;Vétérinaire+%7C+Biopharmacien+%7C+Architecte+IA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bio+%2B+Code+%3D+Innovation;V%C3%A9t%C3%A9rinaire+%7C+Biopharmacien;Architecte+d'Intelligences+%F0%9F%A4%96" alt="Typing SVG" />
 
 # `Abdel.init()`
 
