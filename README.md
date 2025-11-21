@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFsM2E5cG5nc2E0OWZuMmRhY2h6YzlwYjFmajNnenFxeWdhZXRpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oj3wQvJCMz3u0/giphy.gif" width="120" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Abdel Avatar"/>
 
-# `Abdel.init()`
+# `Abdel ATIA PhD DMV`
 
 **Vétérinaire 🧬 | Biopharmacien ⚗️ | Architecte d'Intelligences 🤖**
 
