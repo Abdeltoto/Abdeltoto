@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Abdel+ATIA+PhD+DMV;Bio+%2B+Code+%3D+Innovation;Vétérinaire+%7C+Biopharmacien;Architecte+IA" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdel%20ATIA%20PhD%20DMV&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-# `Abdel ATIA PhD DMV`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Bio+%2B+Code+%3D+Innovation;Vétérinaire+%7C+Biopharmacien+%7C+Architecte+IA" alt="Typing SVG" />
+
+# `Abdel.init()`
 
 **Vétérinaire 🧬 | Biopharmacien ⚗️ | Architecte d'Intelligences 🤖**
 
