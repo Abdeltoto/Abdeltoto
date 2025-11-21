@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFsM2E5cG5nc2E0OWZuMmRhY2h6YzlwYjFmajNnenFxeWdhZXRpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oj3wQvJCMz3u0/giphy.gif" width="120" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Abdel Avatar"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Abdel+ATIA+PhD+DMV;Bio+%2B+Code+%3D+Innovation;Vétérinaire+%7C+Biopharmacien;Architecte+IA" alt="Typing SVG" />
 
 # `Abdel.init()`
 
 **Vétérinaire 🧬 | Biopharmacien ⚗️ | Architecte d'Intelligences 🤖**
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-teal?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="https://www.linkedin.com/in/abdelbasset-atia-dmv-msc-phd-270b962b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:abdel@tamereia.com"><img src="https://img.shields.io/badge/Email-Contact_Me-teal?style=for-the-badge&logo=gmail" alt="Email"></a>
 
 <br/>
 
@@ -41,6 +41,101 @@ Je transforme des processus bio/pharma complexes en scripts qui tournent tout se
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![DeepSeek](https://img.shields.io/badge/DeepSeek-blue?style=for-the-badge) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
+
+### 🐍 Python Stack Avancé
+
+<div align="center">
+
+| **Data Science** | **ML/DL** | **Web & API** |
+| :---: | :---: | :---: |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+
+</div>
+
+### 🤖 IA & LLM Toolkit
+
+<div align="center">
+
+| **Frameworks IA** | **Vector DB & RAG** | **Agents & Orchestration** |
+| :---: | :---: | :---: |
+| ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) | ![AutoGPT](https://img.shields.io/badge/AutoGPT-FF6B6B?style=for-the-badge&logoColor=white) |
+| ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white) | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white) | ![CrewAI](https://img.shields.io/badge/CrewAI-00D9FF?style=for-the-badge&logoColor=white) |
+| ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Weaviate](https://img.shields.io/badge/Weaviate-00C48C?style=for-the-badge&logoColor=white) | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white) |
+
+</div>
+
+### ⚡ Models & APIs
+
+<div align="center">
+
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+</div>
+
+### 🧠 Fondamentaux IA & Deep Learning
+
+<div align="center">
+
+| **Deep Learning** | **Computer Vision** | **NLP & Text** |
+| :---: | :---: | :---: |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logoColor=white) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black) | ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | ![Detectron2](https://img.shields.io/badge/Detectron2-3776AB?style=for-the-badge&logoColor=white) | ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
+
+</div>
+
+### 📊 ML Essentials & Tools
+
+<div align="center">
+
+| **Machine Learning** | **Visualization** | **MLOps** |
+| :---: | :---: | :---: |
+| ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) |
+| ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white) | ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black) |
+| ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) | ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white) |
+
+</div>
+
+### 🔬 Advanced AI Techniques
+
+```python
+class AIExpertise:
+    def __init__(self):
+        self.deep_learning = [
+            "Neural Networks (CNN, RNN, LSTM, Transformers)",
+            "Transfer Learning & Fine-tuning",
+            "GANs & Autoencoders",
+            "Attention Mechanisms"
+        ]
+        
+        self.nlp_skills = [
+            "Text Classification & Sentiment Analysis",
+            "Named Entity Recognition (NER)",
+            "Question Answering & Chatbots",
+            "Embeddings (Word2Vec, BERT, GPT)"
+        ]
+        
+        self.computer_vision = [
+            "Object Detection & Segmentation",
+            "Image Classification",
+            "Face Recognition",
+            "Medical Image Analysis"
+        ]
+        
+        self.ml_fundamentals = [
+            "Supervised & Unsupervised Learning",
+            "Feature Engineering",
+            "Model Optimization & Hyperparameter Tuning",
+            "Cross-validation & Evaluation Metrics"
+        ]
+```
 
 ---
 
@@ -88,7 +183,7 @@ class MyWork(Bio, Tech):
 
 ### 📡 Initialiser la connexion ?
 
-[📧 Email Me](mailto:tonemail@example.com) • [💼 LinkedIn](https://linkedin.com) • [🐙 GitHub](https://github.com)
+[📧 Email Me](mailto:abdel@tamereia.com) • [💼 LinkedIn](https://www.linkedin.com/in/abdelbasset-atia-dmv-msc-phd-270b962b/) • [🐙 GitHub](https://github.com)
 
 <br/>
 
