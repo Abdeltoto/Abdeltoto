@@ -232,7 +232,7 @@ class Abdel:
             "🎮 Je traite le debugging comme un jeu vidéo - niveau expert",
             "📚 Cette année: 300+ papers lus, 2 romans (priorités 😅)",
             "🤖 Je parle plus souvent à mes agents IA qu'à mes voisins",
-            "🍕 Pizza + Code = Productivité maximale (formule mathématique prouvée)"
+            
         ]
     
     def get_random_fact(self) -> str:
@@ -327,7 +327,7 @@ $ ./ultimate_dev_workflow.sh
 ┌─ Coding Session ─────────────────────────────────────────────┐
 │ [░░░░░░░░░░] 0%   "Je vais juste fix ce petit bug..."       │
 │ [████░░░░░░] 40%  "Pourquoi ça marche pas?!"                │
-│ [██████░░░░] 60%  *Googling intensifies*                     │
+│ [██████░░░░] 60%  *perpelexiting intensifies*                     │
 │ [████████░░] 80%  "EUREKA!"                                  │
 │ [██████████] 100% "It works! (Don't ask me how)"            │
 └──────────────────────────────────────────────────────────────┘
@@ -353,17 +353,15 @@ Developer Stats:
   Caffeine Level:        ████████░░ 85%
   Motivation:            ███████░░░ 75%
   Stack Overflow Tabs:   47 open
-  Unfinished Projects:   23 repos
-  Impostor Syndrome:     ██████████ 99%
+  finished Projects:     23 repos
   Actual Knowledge:      ████░░░░░░ 42%
-  Confidence:            ██████████ 100% (fake it till you make it)
+  Confidence:            ██████████ 100% Rag is the ultimate teatcher 
 
 Current Processes:
   [1] coffee.daemon      (uptime: 24/7)
   [2] vscode             (memory: ALL)
   [3] spotify            (genre: lofi beats)
   [4] stackoverflow      (tabs: infinite)
-  [5] imposter.syndrome  (status: running)
 
 ───────────────────────────────────────────────────────────────
 
