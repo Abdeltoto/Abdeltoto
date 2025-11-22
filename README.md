@@ -168,7 +168,7 @@ class MyWork(Bio, Tech):
 > **Rule #3:** `git commit` souvent, `git push` avec confiance (et une prière).
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZkdXZzNDZmMGwyZHFmYjMzam5qa3EwdXJ0M3Z0dzg1eDIyYmwwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jPMfC1dSajF1H1N9kV/giphy.gif" width="100%" alt="coding gif" style="border-radius: 10px; opacity: 0.8;"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="coding animation"/>
 </div>
 
 ---
