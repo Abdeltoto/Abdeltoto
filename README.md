@@ -15,6 +15,10 @@
 
 > *"Je ne remplace pas les humains. Je leur donne des super-pouvoirs."*
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdeltoto&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -141,6 +145,32 @@ class AIExpertise:
 
 ---
 
+## 💻 Mon Arsenal de Langages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,js,html,css,react,nodejs,fastapi" alt="Languages & Frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,django,pytorch,tensorflow,sklearn,opencv,postgres,mongodb" alt="ML & Data" />
+<br/>
+<img src="https://skillicons.dev/icons?i=redis,docker,git,github,linux,aws,azure,vscode" alt="Tools & Infra" />
+
+### 📈 Utilisation hebdomadaire
+
+```text
+🐍 Python        ████████████████████████████  85%
+⚛️ TypeScript    ████████████░░░░░░░░░░░░░░░░  35%
+🗄️ SQL           ███████████████░░░░░░░░░░░░░  45%
+📊 R             ██████████░░░░░░░░░░░░░░░░░░  30%
+🐚 Bash          ████████████████░░░░░░░░░░░░  50%
+```
+
+**Total: 40+ heures de code par semaine** ⚡
+
+</div>
+
+---
+
 ## 🚀 Projets & Expériences
 
 ```python
@@ -181,6 +211,30 @@ class MyWork(Bio, Tech):
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdeltoto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeltoto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdeltoto&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Abdeltoto&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 📡 Initialiser la connexion ?
@@ -193,3 +247,5 @@ class MyWork(Bio, Tech):
 <sub>*Aucun GPU n'a été maltraité durant la création de ce profil.*</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
