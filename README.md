@@ -28,7 +28,7 @@
 **Statut Actuel :** � En ligne & En train d'automatiser l'inautomatisable.  
 **Localisation :** Quelque part entre un laboratoire stérile et un serveur Discord.  
 **Mission :** Fusionner la biologie et le code pour créer des chimères numériques utiles.  
-**Passeport :** 🌍 64 pays visités • 6 continents explorés • ∞ cafés testés ☕
+**Passeport :** 🌍 64 pays visités • 4 continents explorés • ∞ cafés testés ☕
 
 ### 🔬 L'Anomalie
 Je suis un hybride. J'ai commencé par soigner des animaux, maintenant je soigne des pipelines de données.  
@@ -216,14 +216,14 @@ class MyWork(Bio, Tech):
 
 <div align="center">
 
-### ✈️ 64 Pays • 6 Continents • 1 Passion
+### ✈️ 64 Pays • 4 Continents • 1 Passion
 
 ```python
 travel_stats = {
     "🌍 pays_visités": 64,
-    "🗺️ continents": ["Afrique", "Europe", "Asie", "Amérique", "Océanie", "Arctique"],
+    "🗺️ continents": ["Afrique", "Europe", "Asie", "Amérique"],
     "☕ cafés_testés": float('inf'),
-    "💻 code_depuis": ["Paris", "Tokyo", "New York", "Dubai", "Sydney", "..."],
+    "💻 code_depuis": ["Paris", "Tokyo", "New York", "Dubai", "Le Caire", "..."],
     "🎒 philosophy": "Le monde est mon bureau, l'aventure mon carburant"
 }
 
@@ -232,12 +232,10 @@ print(f"🌟 Actuellement: Somewhere coding between timezones...")
 
 ### 🗺️ Ma carte du monde
 
-![](https://img.shields.io/badge/🌍_Afrique-15_pays-success?style=for-the-badge)
-![](https://img.shields.io/badge/🇪🇺_Europe-20_pays-blue?style=for-the-badge)
-![](https://img.shields.io/badge/🌏_Asie-18_pays-orange?style=for-the-badge)
-![](https://img.shields.io/badge/🌎_Amériques-8_pays-red?style=for-the-badge)
-![](https://img.shields.io/badge/🌊_Océanie-2_pays-cyan?style=for-the-badge)
-![](https://img.shields.io/badge/❄️_Arctique-1_pays-lightgrey?style=for-the-badge)
+![](https://img.shields.io/badge/🌍_Afrique-20_pays-success?style=for-the-badge)
+![](https://img.shields.io/badge/🇪🇺_Europe-25_pays-blue?style=for-the-badge)
+![](https://img.shields.io/badge/🌏_Asie-15_pays-orange?style=for-the-badge)
+![](https://img.shields.io/badge/🌎_Amériques-4_pays-red?style=for-the-badge)
 
 > *"Chaque pays m'a appris quelque chose. Chaque culture a enrichi mon code."*
 
