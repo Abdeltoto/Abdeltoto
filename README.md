@@ -212,6 +212,46 @@ class MyWork(Bio, Tech):
 
 ---
 
+## 🎲 Fun Facts About Me
+
+<div align="center">
+
+```python
+import random
+from typing import List
+
+class Abdel:
+    def __init__(self):
+        self.fun_facts: List[str] = [
+            "☕ Je code mieux après mon 3ème café (le 4ème est pour la production)",
+            "🦁 J'ai vacciné des lions en Afrique (ils sont plus gentils que certains bugs)",
+            "🌍 J'ai codé depuis 64 pays (WiFi = nouveau besoin primaire)",
+            "🎵 Mes variables portent des noms de chansons que j'écoute",
+            "🌙 Mon meilleur code naît entre minuit et 3h du matin",
+            "🐍 J'ai adopté un Python (le langage ET le serpent)",
+            "🎮 Je traite le debugging comme un jeu vidéo - niveau expert",
+            "📚 Cette année: 300+ papers lus, 2 romans (priorités 😅)",
+            "🤖 Je parle plus souvent à mes agents IA qu'à mes voisins",
+            "🍕 Pizza + Code = Productivité maximale (formule mathématique prouvée)"
+        ]
+    
+    def get_random_fact(self) -> str:
+        return random.choice(self.fun_facts)
+    
+    def get_superpower(self) -> str:
+        return "Transformer le café en code depuis 2010 ☕➡️💻"
+
+me = Abdel()
+print(me.get_random_fact())
+print(f"\n✨ Superpower: {me.get_superpower()}")
+```
+
+**🔄 Refresh cette page pour un nouveau fact !**
+
+</div>
+
+---
+
 ## 🌍 Global Citizen
 
 <div align="center">
