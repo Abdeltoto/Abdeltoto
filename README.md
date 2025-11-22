@@ -212,34 +212,74 @@ class MyWork(Bio, Tech):
 
 ---
 
-## 🌍 Citoyen du Monde
+## 🌍 Global Citizen
 
 <div align="center">
 
-### ✈️ 64 Pays • 4 Continents • 1 Passion
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/globe.png" width="50"/>
+<br/>
+<b>64</b>
+<br/>
+<sub>Pays visités</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/world-map.png" width="50"/>
+<br/>
+<b>4</b>
+<br/>
+<sub>Continents explorés</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/airplane-take-off.png" width="50"/>
+<br/>
+<b>∞</b>
+<br/>
+<sub>Aventures codées</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/cafe.png" width="50"/>
+<br/>
+<b>∞</b>
+<br/>
+<sub>Cafés découverts</sub>
+</td>
+</tr>
+</table>
 
-```python
-travel_stats = {
-    "🌍 pays_visités": 64,
-    "🗺️ continents": ["Afrique", "Europe", "Asie", "Amérique"],
-    "☕ cafés_testés": float('inf'),
-    "💻 code_depuis": ["Paris", "Tokyo", "New York", "Dubai", "Le Caire", "..."],
-    "🎒 philosophy": "Le monde est mon bureau, l'aventure mon carburant"
+<br/>
+
+```typescript
+interface TravelProfile {
+  continents: Map<string, number>;
+  philosophy: string;
+  status: string;
 }
 
-print(f"🌟 Actuellement: Somewhere coding between timezones...")
+const worldExplorer: TravelProfile = {
+  continents: new Map([
+    ["🌍 Afrique", 4],
+    ["🇪🇺 Europe", 30],
+    ["🌏 Asie", 20],
+    ["🌎 Amériques", 10]
+  ]),
+  philosophy: "Le monde est mon bureau, l'aventure mon carburant",
+  status: "🌟 Somewhere coding between timezones..."
+};
 ```
 
-### 🗺️ Ma carte du monde
+<br/>
 
-![](https://img.shields.io/badge/🌍_Afrique-4_pays-success?style=for-the-badge)
-![](https://img.shields.io/badge/🇪🇺_Europe-30_pays-blue?style=for-the-badge)
-![](https://img.shields.io/badge/🌏_Asie-20_pays-orange?style=for-the-badge)
-![](https://img.shields.io/badge/🌎_Amériques-10_pays-red?style=for-the-badge)
+<img src="https://img.shields.io/badge/🌍_Afrique-4-2ea44f?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/🇪🇺_Europe-30-0969da?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/🌏_Asie-20-d97706?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/🌎_Amériques-10-dc2626?style=flat-square&labelColor=1a1a1a"/>
 
-> *"Chaque pays m'a appris quelque chose. Chaque culture a enrichi mon code."*
+<br/>
 
-**🎯 Next destination:** `loading...`
+> *"Chaque pays, un nouveau point de vue. Chaque culture, une nouvelle façon de coder."*
 
 </div>
 
