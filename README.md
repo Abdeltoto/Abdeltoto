@@ -165,7 +165,7 @@ class AIExpertise:
 🐚 Bash          ████████████████░░░░░░░░░░░░  50%
 ```
 
-**Total: 40+ heures de code par semaine** ⚡
+**Total: 20+ heures de code par semaine** ⚡
 
 </div>
 
