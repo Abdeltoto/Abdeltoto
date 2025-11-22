@@ -219,30 +219,26 @@ class MyWork(Bio, Tech):
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/globe.png" width="50"/>
-<br/>
-<b>64</b>
+<h2>🌍</h2>
+<b style="font-size: 24px;">64</b>
 <br/>
 <sub>Pays visités</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/world-map.png" width="50"/>
-<br/>
-<b>4</b>
+<h2>🗺️</h2>
+<b style="font-size: 24px;">4</b>
 <br/>
 <sub>Continents explorés</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/airplane-take-off.png" width="50"/>
-<br/>
-<b>∞</b>
+<h2>✈️</h2>
+<b style="font-size: 24px;">∞</b>
 <br/>
 <sub>Aventures codées</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/cafe.png" width="50"/>
-<br/>
-<b>∞</b>
+<h2>☕</h2>
+<b style="font-size: 24px;">∞</b>
 <br/>
 <sub>Cafés découverts</sub>
 </td>
