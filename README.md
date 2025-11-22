@@ -144,6 +144,12 @@ class AIExpertise:
         ]
 ```
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%"/>
+
+</div>
+
 ---
 
 ## 💻 Mon Arsenal de Langages
@@ -170,9 +176,21 @@ class AIExpertise:
 
 </div>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400"/>
+
+</div>
+
 ---
 
 ## 🚀 Projets & Expériences
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="150"/>
+
+</div>
 
 ```python
 class MyWork(Bio, Tech):
@@ -291,6 +309,8 @@ const worldExplorer: TravelProfile = {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdeltoto&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600"/>
+
 </div>
 
 ---
@@ -305,7 +325,11 @@ const worldExplorer: TravelProfile = {
 
 ---
 
+## ⚡ Let's Build Something Epic!
+
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600"/>
 
 ### 📡 Initialiser la connexion ?
 
