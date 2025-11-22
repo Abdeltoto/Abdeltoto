@@ -232,10 +232,10 @@ print(f"🌟 Actuellement: Somewhere coding between timezones...")
 
 ### 🗺️ Ma carte du monde
 
-![](https://img.shields.io/badge/🌍_Afrique-20_pays-success?style=for-the-badge)
-![](https://img.shields.io/badge/🇪🇺_Europe-25_pays-blue?style=for-the-badge)
-![](https://img.shields.io/badge/🌏_Asie-15_pays-orange?style=for-the-badge)
-![](https://img.shields.io/badge/🌎_Amériques-4_pays-red?style=for-the-badge)
+![](https://img.shields.io/badge/🌍_Afrique-4_pays-success?style=for-the-badge)
+![](https://img.shields.io/badge/🇪🇺_Europe-30_pays-blue?style=for-the-badge)
+![](https://img.shields.io/badge/🌏_Asie-20_pays-orange?style=for-the-badge)
+![](https://img.shields.io/badge/🌎_Amériques-10_pays-red?style=for-the-badge)
 
 > *"Chaque pays m'a appris quelque chose. Chaque culture a enrichi mon code."*
 
