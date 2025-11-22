@@ -27,7 +27,8 @@
 
 **Statut Actuel :** � En ligne & En train d'automatiser l'inautomatisable.  
 **Localisation :** Quelque part entre un laboratoire stérile et un serveur Discord.  
-**Mission :** Fusionner la biologie et le code pour créer des chimères numériques utiles.
+**Mission :** Fusionner la biologie et le code pour créer des chimères numériques utiles.  
+**Passeport :** 🌍 64 pays visités • 6 continents explorés • ∞ cafés testés ☕
 
 ### 🔬 L'Anomalie
 Je suis un hybride. J'ai commencé par soigner des animaux, maintenant je soigne des pipelines de données.  
@@ -165,7 +166,7 @@ class AIExpertise:
 🐚 Bash          ████████████████░░░░░░░░░░░░  50%
 ```
 
-**Total: 40+ heures de code par semaine** ⚡
+**Total: 20+ heures de code par semaine** ⚡
 
 </div>
 
@@ -208,6 +209,41 @@ class MyWork(Bio, Tech):
 - ⚠️ **CaffeineDependencyError**: Le système crash si le niveau de café est < 10%.
 - ⚠️ **CuriosityOverflow**: Tendance à ouvrir 50 onglets de documentation et à oublier pourquoi.
 - ⚠️ **RefactorLoop**: "Je vais juste nettoyer cette fonction..." *[5 heures plus tard, tout le codebase est réécrit]*
+
+---
+
+## 🌍 Citoyen du Monde
+
+<div align="center">
+
+### ✈️ 64 Pays • 6 Continents • 1 Passion
+
+```python
+travel_stats = {
+    "🌍 pays_visités": 64,
+    "🗺️ continents": ["Afrique", "Europe", "Asie", "Amérique", "Océanie", "Arctique"],
+    "☕ cafés_testés": float('inf'),
+    "💻 code_depuis": ["Paris", "Tokyo", "New York", "Dubai", "Sydney", "..."],
+    "🎒 philosophy": "Le monde est mon bureau, l'aventure mon carburant"
+}
+
+print(f"🌟 Actuellement: Somewhere coding between timezones...")
+```
+
+### 🗺️ Ma carte du monde
+
+![](https://img.shields.io/badge/🌍_Afrique-15_pays-success?style=for-the-badge)
+![](https://img.shields.io/badge/🇪🇺_Europe-20_pays-blue?style=for-the-badge)
+![](https://img.shields.io/badge/🌏_Asie-18_pays-orange?style=for-the-badge)
+![](https://img.shields.io/badge/🌎_Amériques-8_pays-red?style=for-the-badge)
+![](https://img.shields.io/badge/🌊_Océanie-2_pays-cyan?style=for-the-badge)
+![](https://img.shields.io/badge/❄️_Arctique-1_pays-lightgrey?style=for-the-badge)
+
+> *"Chaque pays m'a appris quelque chose. Chaque culture a enrichi mon code."*
+
+**🎯 Next destination:** `loading...`
+
+</div>
 
 ---
 
