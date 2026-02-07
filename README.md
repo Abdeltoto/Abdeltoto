@@ -1,7 +1,5 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 CAPSULE RENDER - TOP -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161B22,60:1a1a2e,100:00D9FF&height=220&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
+<!-- 🎨 CAPSULE RENDER - COLORFUL TOP -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,25:8B5CF6,50:00D9FF,75:2ea44f,100:FFD21E&height=250&section=header&text=ABDEL%20ATIA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20PhD%20%7C%20DMV&descSize=20&descAlignY=55&descColor=00D9FF" width="100%" />
 
 <div align="center">
 
@@ -10,22 +8,15 @@
 
 <br>
 
-<!-- TYPING ANIMATION - NAME -->
+<!-- TYPING ANIMATION - SUBTITLE ALTERNANT -->
 <a href="https://github.com/Abdeltoto">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=ABDEL+ATIA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%F0%9F%A4%96+RAG+%26+Agentic+AI+Expert;%F0%9F%8E%93+IBM+%2B+Harvard+Certified;%F0%9F%92%BB+15%2B+Years+Coding;%F0%9F%8C%8D+64+Countries+Explored;%E2%98%95+Powered+by+Coffee+%26+Python" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- TYPING ANIMATION - SUBTITLE -->
-<a href="https://github.com/Abdeltoto">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=28&lines=AI+Architect+%7C+PhD+%7C+DMV;RAG+%26+Agentic+AI+Expert;IBM+%2B+Harvard+Certified;15%2B+Years+Coding+%7C+64+Countries" alt="Typing SVG" />
-</a>
-
-<br>
-
-<!-- ANIMATED TECH LINE -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+<!-- ANIMATED RAINBOW LINE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <br>
 
@@ -43,6 +34,11 @@
 
 <br>
 
+<!-- ANIMATED CODING -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500">
+
+<br>
+
 <!-- LIVE COUNTERS -->
 <img src="https://komarev.com/ghpvc/?username=Abdeltoto&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
@@ -57,8 +53,8 @@
 
 <br>
 
-<!-- ANIMATED LINE -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+<!-- ANIMATED RAINBOW LINE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -1021,47 +1017,83 @@ class DevPhilosophy:
 <br><br>
 
 <!-- ANIMATED HANDSHAKE -->
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468b5596.gif" width="60" />
-
-<br><br>
-
-<a href="https://linkedin.com/in/abdelbasset-atia-dmv-msc-phd-270b962b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
-</a>
-&nbsp;
-<a href="https://twitter.com/AbdelbassetAtia">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="38" />
-</a>
-&nbsp;
-<a href="https://tamereia.com/">
-  <img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" />
-</a>
-&nbsp;
-<a href="https://orcid.org/0009-0005-1245-5592">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="38" />
-</a>
-&nbsp;
-<a href="https://www.coursera.org/account/accomplishments/specialization/D5RCNV6UDKYT">
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="38" />
-</a>
-
-<br><br>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468b5596.gif" width="80" />
 
 <br>
 
-**Built with** ☕ + 🐍 + 🤖 **|** **Certified by**
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="16" alt="IBM" />
-+
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_logo.svg" height="16" alt="Harvard" />
-**|** **Last update:** February 2026
+<!-- TYPING "LET'S BUILD TOGETHER" -->
+<a href="https://github.com/Abdeltoto">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=400&height=30&lines=Let's+build+something+amazing!;Collaborons+ensemble+!;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<!-- SOCIAL LINKS -->
+<a href="https://linkedin.com/in/abdelbasset-atia-dmv-msc-phd-270b962b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+</a>
+&nbsp;
+<a href="https://twitter.com/AbdelbassetAtia">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" />
+</a>
+&nbsp;
+<a href="https://tamereia.com/">
+  <img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" />
+</a>
+&nbsp;
+<a href="https://orcid.org/0009-0005-1245-5592">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="40" />
+</a>
+&nbsp;
+<a href="https://www.coursera.org/account/accomplishments/specialization/D5RCNV6UDKYT">
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="40" />
+</a>
+
+<br><br>
+
+<!-- ANIMATED RAINBOW LINE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<br>
+
+<!-- ANIMATED TECH ICONS -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" />
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" />
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" />
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" />
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b0d-980f-78ca82c21808.gif" width="50" />
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" />
+
+<br><br>
+
+<!-- CERTIFIED BY WITH REAL LOGOS -->
+**Built with** ☕ + 🐍 + 🤖
+
+**Certified by**
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="20" alt="IBM" />
+&nbsp; + &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_logo.svg" height="20" alt="Harvard" />
+
+<br>
+
+**Last update:** February 2026
 
 *Aucun GPU n'a ete maltraite durant la creation de ce profil.*
 
 <br>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161B22,60:1a1a2e,100:00D9FF&height=180&section=footer&animation=twinkling" width="100%" />
+<!-- ANIMATED WAVE GOODBYE -->
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
+
+<br>
+
+<!-- 🎨 CAPSULE RENDER - COLORFUL FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD21E,25:FF6B6B,50:8B5CF6,75:00D9FF,100:2ea44f&height=200&section=footer&animation=twinkling" width="100%" />
 
 </div>
