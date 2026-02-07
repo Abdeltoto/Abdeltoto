@@ -10,49 +10,36 @@
 
 <br>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION - NAME -->
 <a href="https://github.com/Abdeltoto">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=ABDEL+ATIA+%E2%80%94+AI+Architect+%7C+PhD+%7C+DMV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=ABDEL+ATIA" alt="Typing SVG" />
 </a>
 
 <br>
 
+<!-- TYPING ANIMATION - SUBTITLE -->
 <a href="https://github.com/Abdeltoto">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=RAG+%26+Agentic+AI+Expert;IBM+%2B+Harvard+Certified;15%2B+Years+Coding+%7C+64+Countries" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=28&lines=AI+Architect+%7C+PhD+%7C+DMV;RAG+%26+Agentic+AI+Expert;IBM+%2B+Harvard+Certified;15%2B+Years+Coding+%7C+64+Countries" alt="Typing SVG" />
 </a>
 
 <br>
 
 <!-- ANIMATED TECH LINE -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
 <br>
 
-<!-- IDENTITY BADGES - LINE 1 -->
-<img src="https://img.shields.io/badge/🎓_PhD-Biopharmaceutics-8B5CF6?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🩺_DMV-Veterinary_Medicine-2ea44f?style=for-the-badge&labelColor=0d1117" />
-
-<br>
-
-<!-- IDENTITY BADGES - LINE 2 -->
-<img src="https://img.shields.io/badge/💻_Coder-Since_Childhood-00D9FF?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🤖_AI-Architect-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-
-<br><br>
-
-<!-- ANIMATED CODING GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500">
-
-<br><br>
-
-<!-- SNAKE CONTRIBUTION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdeltoto/Abdeltoto/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdeltoto/Abdeltoto/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Abdeltoto/Abdeltoto/output/github-snake-dark.svg" width="100%" />
-</picture>
+<!-- IDENTITY BADGES - 2x2 GRID -->
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/🎓_PhD-Biopharmaceutics-8B5CF6?style=for-the-badge&labelColor=0d1117" /></td>
+<td align="center"><img src="https://img.shields.io/badge/🩺_DMV-Veterinary_Medicine-2ea44f?style=for-the-badge&labelColor=0d1117" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/💻_Coder-Since_Childhood-00D9FF?style=for-the-badge&labelColor=0d1117" /></td>
+<td align="center"><img src="https://img.shields.io/badge/🤖_AI-Architect-FF6B6B?style=for-the-badge&labelColor=0d1117" /></td>
+</tr>
+</table>
 
 <br>
 
@@ -71,7 +58,7 @@
 <br>
 
 <!-- ANIMATED LINE -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
 </div>
 
