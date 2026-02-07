@@ -1097,13 +1097,13 @@ Impact: "Zero manual intervention"
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdeltoto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdeltoto&theme=tokyonight" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeltoto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdeltoto&theme=tokyonight" height="180" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdeltoto&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=444c56" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Abdeltoto&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=444c56" width="60%" />
 
 <br><br>
 
@@ -1111,8 +1111,15 @@ Impact: "Zero manual intervention"
 
 <br><br>
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=Abdeltoto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<!-- PROFILE DETAILS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdeltoto&theme=tokyonight" width="70%" />
+
+<br><br>
+
+<!-- PRODUCTIVE TIME & COMMIT LANGUAGE -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdeltoto&theme=tokyonight" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdeltoto&theme=tokyonight&utcOffset=1" height="180" />
 
 </div>
 
