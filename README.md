@@ -10,9 +10,15 @@
 
 <br>
 
-<!-- TYPING ANIMATION - MULTI LINES -->
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/Abdeltoto">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9A%A1+ABDEL+ATIA+%E2%9A%A1;AI+Architect+%7C+PhD+%7C+DMV;RAG+%26+Agentic+AI+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=ABDEL+ATIA+%E2%80%94+AI+Architect+%7C+PhD+%7C+DMV" alt="Typing SVG" />
+</a>
+
+<br>
+
+<a href="https://github.com/Abdeltoto">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=RAG+%26+Agentic+AI+Expert;IBM+%2B+Harvard+Certified;15%2B+Years+Coding+%7C+64+Countries" alt="Typing SVG" />
 </a>
 
 <br>
@@ -22,11 +28,14 @@
 
 <br>
 
-<!-- IDENTITY BADGES -->
+<!-- IDENTITY BADGES - LINE 1 -->
 <img src="https://img.shields.io/badge/🎓_PhD-Biopharmaceutics-8B5CF6?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/🩺_DMV-Veterinary_Medicine-2ea44f?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
+
+<br>
+
+<!-- IDENTITY BADGES - LINE 2 -->
 <img src="https://img.shields.io/badge/💻_Coder-Since_Childhood-00D9FF?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/🤖_AI-Architect-FF6B6B?style=for-the-badge&labelColor=0d1117" />
