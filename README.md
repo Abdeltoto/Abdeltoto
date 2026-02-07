@@ -1,39 +1,44 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 CAPSULE RENDER - TOP WAVE -->
+<!-- 🎨 CAPSULE RENDER - TOP -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00D9FF&height=200&section=header&text=&fontSize=0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161B22,60:1a1a2e,100:00D9FF&height=220&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
 
 <div align="center">
 
-<!-- ANIMATED MATRIX HEADER -->
+<!-- ANIMATED DEVELOPER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 
 <br>
 
-<!-- GLITCH NAME TYPING -->
+<!-- TYPING ANIMATION - MULTI LINES -->
 <a href="https://github.com/Abdeltoto">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=ABDEL+ATIA;AI+ARCHITECT+%7C+PhD+%7C+DMV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9A%A1+ABDEL+ATIA+%E2%9A%A1;AI+Architect+%7C+PhD+%7C+DMV;RAG+%26+Agentic+AI+Expert" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- IDENTITY DNA BADGES -->
-<picture>
-  <img src="https://img.shields.io/badge/🎓_PhD-Biopharmaceutics-8B5CF6?style=for-the-badge&labelColor=0d1117" />
-</picture>
-<picture>
-  <img src="https://img.shields.io/badge/🩺_DMV-Veterinary_Medicine-2ea44f?style=for-the-badge&labelColor=0d1117" />
-</picture>
-<picture>
-  <img src="https://img.shields.io/badge/💻_Coder-Since_Childhood-00D9FF?style=for-the-badge&labelColor=0d1117" />
-</picture>
-<picture>
-  <img src="https://img.shields.io/badge/🤖_AI-Architect-FF6B6B?style=for-the-badge&labelColor=0d1117" />
-</picture>
+<!-- ANIMATED TECH LINE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<br>
+
+<!-- IDENTITY BADGES -->
+<img src="https://img.shields.io/badge/🎓_PhD-Biopharmaceutics-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/🩺_DMV-Veterinary_Medicine-2ea44f?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/💻_Coder-Since_Childhood-00D9FF?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/🤖_AI-Architect-FF6B6B?style=for-the-badge&labelColor=0d1117" />
 
 <br><br>
 
-<!-- ANIMATED SNAKE -->
+<!-- ANIMATED CODING GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500">
+
+<br><br>
+
+<!-- SNAKE CONTRIBUTION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdeltoto/Abdeltoto/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdeltoto/Abdeltoto/output/github-snake.svg" />
@@ -43,7 +48,7 @@
 <br>
 
 <!-- LIVE COUNTERS -->
-<img src="https://komarev.com/ghpvc/?username=Abdeltoto&color=00D9FF&style=for-the-badge&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=Abdeltoto&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/badge/FOCUS-RAG_&_AGENTS-00D9FF?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
@@ -54,55 +59,116 @@
 <!-- HERO QUOTE -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Je%20ne%20remplace%20pas%20les%20humains.%20Je%20leur%20donne%20des%20super-pouvoirs.&author=Abdel%20Atia" width="70%" />
 
+<br>
+
+<!-- ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 CERTIFICATIONS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 ## 🏆 CERTIFICATIONS & CREDENTIALS
 
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
 </div>
 
 <br>
 
-<!-- IBM CERTIFICATION CARD -->
+<!-- ╔═══════════════════════════════════════════════════╗ -->
+<!-- ║           IBM RAG & AGENTIC AI                    ║ -->
+<!-- ╚═══════════════════════════════════════════════════╝ -->
+
 <table align="center">
 <tr>
 <td align="center" width="900">
 
 <br>
 
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" height="40" />
+<!-- IBM LOGO -->
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" height="45" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="45" />
 
 <br><br>
 
-### 🎯 IBM RAG & Agentic AI Specialization
+### 🤖 IBM RAG & Agentic AI Professional Certificate
+
+**8-Course Specialization | Advanced Level**
 
 <br>
 
+<!-- SKILLS BADGES WITH LOGOS -->
+<img src="https://img.shields.io/badge/RAG_Expert-FF6B6B?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Agentic_AI-00D9FF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CrewAI-00D9FF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AutoGen-4B8BBE?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Vector_Stores-8B5CF6?style=flat-square&labelColor=0d1117" />
+
+<br><br>
+
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/RAG-Expert-FF6B6B?style=flat-square&labelColor=0d1117" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Agentic_AI-Certified-00D9FF?style=flat-square&labelColor=0d1117" /></td>
-<td align="center"><img src="https://img.shields.io/badge/LangChain-Pro-1C3C3C?style=flat-square&labelColor=0d1117" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Vector_DBs-Advanced-8B5CF6?style=flat-square&labelColor=0d1117" /></td>
+<td width="50%">
+
+```
+🔗 AI Orchestration               ✅
+🤖 Agentic Workflows & Systems    ✅
+📚 Retrieval-Augmented Generation  ✅
+🧠 LLM Application Development    ✅
+```
+
+</td>
+<td width="50%">
+
+```
+⚡ Function Calling & Tools       ✅
+🗃️ Vector Stores & Embeddings     ✅
+🎭 Multimodal Prompts             ✅
+🔌 Model Context Protocol (MCP)   ✅
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+```
+✏️ Prompt Engineering             ✅
+🛡️ Responsible AI                 ✅
+🐝 BeeAI Framework               ✅
+🔄 AG2 (AutoGen 2)                ✅
+```
+
+</td>
+<td width="50%">
+
+```
+📊 Multi-Agent Systems            ✅
+🏗️ Production Deployment          ✅
+📡 Streaming & Batching           ✅
+🔍 Hybrid Search & Re-ranking     ✅
+```
+
+</td>
 </tr>
 </table>
 
-```
-📚 Retrieval-Augmented Generation    ✅     🤖 Multi-Agent Systems       ✅
-🔗 LLM Orchestration                ✅     🚀 Production Deployment     ✅
-```
+<br>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/D5RCNV6UDKYT">
-  <img src="https://img.shields.io/badge/🔗_Verify-D5RCNV6UDKYT-054ADA?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔗_VERIFY_CREDENTIAL-D5RCNV6UDKYT-054ADA?style=for-the-badge&labelColor=0d1117" height="35" />
 </a>
 
 <br><br>
@@ -113,14 +179,20 @@
 
 <br>
 
-<!-- HARVARD CS50 CERTIFICATIONS -->
+<!-- ╔═══════════════════════════════════════════════════╗ -->
+<!-- ║           HARVARD CS50x + CS50P                   ║ -->
+<!-- ╚═══════════════════════════════════════════════════╝ -->
+
 <table align="center">
 <tr>
-<td align="center" width="450">
+
+<!-- ── CS50x ── -->
+<td align="center" width="450" valign="top">
 
 <br>
 
-<img src="https://img.shields.io/badge/Harvard-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDNMNCAxMGg0djhoOHYtOGg0TDEyIDN6Ii8+PC9zdmc+&logoColor=white" height="35" />
+<!-- HARVARD LOGO -->
+<img src="https://img.shields.io/badge/Harvard_University-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzTDEgOWgzdjloMTZWOWgzTDEyIDN6TTcgMTZWOS41bDUtMyA1IDN2Ni41SDd6Ii8+PC9zdmc+&logoColor=white" height="40" />
 
 <br><br>
 
@@ -130,25 +202,46 @@
 
 <br>
 
+<!-- LANGUAGES COVERED WITH LOGOS -->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="28" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" />
+
+<br><br>
+
 ```
-💡 Algorithmic Thinking        ✅
-🧮 Data Structures             ✅
-🔧 C / Python / SQL / JS       ✅
-🌐 Web Development             ✅
+💡 Computational Thinking         ✅
+🧮 Algorithms & Complexity        ✅
+📦 Data Structures                 ✅
+🔧 Memory Management (C)          ✅
+🐍 Python Programming             ✅
+🗄️ Databases & SQL                ✅
+🌐 Web Dev (HTML/CSS/JS)          ✅
+🔒 Security & Encryption          ✅
+⚙️ Software Engineering           ✅
+🎯 Final Project                   ✅
 ```
 
+<br>
+
 <a href="https://cs50.harvard.edu/certificates/baf370d3-fba5-4786-81d1-67e191248236">
-  <img src="https://img.shields.io/badge/🔗_Verify_Certificate-CS50x-A51C30?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔗_VERIFY_CERTIFICATE-CS50x-A51C30?style=for-the-badge&labelColor=0d1117" height="30" />
 </a>
 
 <br><br>
 
 </td>
-<td align="center" width="450">
+
+<!-- ── CS50P ── -->
+<td align="center" width="450" valign="top">
 
 <br>
 
-<img src="https://img.shields.io/badge/Harvard-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDNMNCAxMGg0djhoOHYtOGg0TDEyIDN6Ii8+PC9zdmc+&logoColor=white" height="35" />
+<!-- HARVARD LOGO -->
+<img src="https://img.shields.io/badge/Harvard_University-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzTDEgOWgzdjloMTZWOWgzTDEyIDN6TTcgMTZWOS41bDUtMyA1IDN2Ni41SDd6Ii8+PC9zdmc+&logoColor=white" height="40" />
 
 <br><br>
 
@@ -158,15 +251,33 @@
 
 <br>
 
+<!-- PYTHON ECOSYSTEM LOGOS -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Regex-00D9FF?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/APIs-8B5CF6?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white" height="28" />
+
+<br><br>
+
 ```
-🐍 Python Mastery              ✅
-🧪 Unit Testing                ✅
-📦 Libraries & APIs            ✅
-⚡ OOP & Functional            ✅
+🐍 Functions & Variables          ✅
+🔀 Conditionals & Loops           ✅
+⚠️ Exceptions & Error Handling    ✅
+📦 Libraries, Modules & Packages  ✅
+🧪 Unit Testing (pytest)          ✅
+📂 File I/O & CSV                  ✅
+🔤 Regular Expressions (re)       ✅
+🏗️ OOP: Classes & Inheritance     ✅
+🎨 Decorators & Properties        ✅
+🌐 APIs & Third-Party Libs        ✅
 ```
 
+<br>
+
 <a href="https://cs50.harvard.edu/certificates/ca0bc491-2159-45cb-86c3-096971bd64ba">
-  <img src="https://img.shields.io/badge/🔗_Verify_Certificate-CS50P-A51C30?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔗_VERIFY_CERTIFICATE-CS50P-A51C30?style=for-the-badge&labelColor=0d1117" height="30" />
 </a>
 
 <br><br>
@@ -183,53 +294,62 @@
 ```mermaid
 timeline
     title 🎯 Certification Journey
-    2025 : 🎓 Harvard CS50x
-         : 🐍 Harvard CS50P
-    2026 : 🤖 IBM RAG & Agentic AI
+    2025 : 🎓 Harvard CS50x — Computer Science
+         : 🐍 Harvard CS50P — Python Programming
+    2026 : 🤖 IBM RAG & Agentic AI — 8 Courses
+         : 🚀 More coming soon...
 ```
 
+</div>
+
+<!-- ANIMATED SEPARATOR -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 👤 ABOUT -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 ## 👤 WHO AM I
 
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
 </div>
 
 <br>
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```typescript
 const ABDEL_ATIA = {
 
     // 🎓 Academic Background
     education: {
-        degrees: ["PhD", "DMV (Docteur en Médecine Vétérinaire)"],
-        specializations: ["Biopharmaceutique", "Sciences Vétérinaires"],
-        certifications: ["IBM RAG & Agentic AI", "Harvard CS50x", "Harvard CS50P"],
-        research: "Recherche avancée en santé animale & molécules"
+        degrees: ["PhD", "DMV (Docteur en Medecine Veterinaire)"],
+        specializations: ["Biopharmaceutique", "Sciences Veterinaires"],
+        certifications: [
+            "IBM RAG & Agentic AI (8 courses)",
+            "Harvard CS50x",
+            "Harvard CS50P"
+        ],
+        research: "Recherche avancee en sante animale & molecules"
     },
 
     // 💻 Code DNA
     coding: {
-        started: "Depuis mon jeune âge 👦",
-        passion: "Autodidacte passionné depuis toujours",
+        started: "Depuis mon jeune age 👦",
+        passion: "Autodidacte passionne depuis toujours",
         evolution: "BASIC → C → Python → AI/ML → RAG & Agents",
         years_of_experience: "15+ ans"
-    },
-
-    // 🎯 Current Focus
-    expertise: {
-        primary: "RAG Systems & Agentic AI",
-        certified_by: ["IBM", "Harvard University"],
-        stack: ["LangChain", "LangGraph", "CrewAI", "Vector DBs"]
     },
 
     // 🌍 Life in Numbers
@@ -240,12 +360,44 @@ const ABDEL_ATIA = {
         coffee_dependency: "CRITICAL ☕"
     },
 
-    // 💡 Core Belief
     motto: "Automate the boring. Amplify the human.",
-    origin: "Codeur depuis l'enfance → Vétérinaire → PhD → AI Architect"
+    origin: "Codeur enfant → Veterinaire → PhD → AI Architect"
 
 } as const;
 ```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="280">
+
+<br><br>
+
+**🏫 Certified by**
+
+<br>
+
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" height="30" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Harvard_University-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzTDEgOWgzdjloMTZWOWgzTDEyIDN6TTcgMTZWOS41bDUtMyA1IDN2Ni41SDd6Ii8+PC9zdmc+&logoColor=white" height="30" />
+
+<br><br>
+
+**🌍 64 Countries**
+<br>
+**📚 300+ Papers/Year**
+<br>
+**☕ ∞ Coffees**
+<br>
+**👓 15+ Years Coding**
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -256,7 +408,9 @@ const ABDEL_ATIA = {
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
 
 ### 🧒 L'Origine
 
@@ -267,7 +421,9 @@ const ABDEL_ATIA = {
 ```
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b0d-980f-78ca82c21808.gif" width="80">
 
 ### 🎓 L'Academique
 
@@ -278,19 +434,23 @@ const ABDEL_ATIA = {
 ```
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
 
 ### 🚀 L'Evolution IA
 
 ```diff
 + 💻 Fusion Bio + Code
 + 🤖 AI Systems Engineer
-+ 🎯 IBM + Harvard Certified (2025-2026)
++ 🎯 IBM + Harvard (2025-2026)
 ```
 
 </td>
 </tr>
 </table>
+
+<br>
 
 **Le Fil Rouge :** Le code m'accompagne depuis l'enfance. La biologie m'a donne la rigueur scientifique. L'IA me permet de tout fusionner.
 
@@ -298,42 +458,70 @@ const ABDEL_ATIA = {
 
 </details>
 
+<!-- ANIMATED SEPARATOR -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK -->
+<!-- 🛠️ TECH ARSENAL -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 ## 🛠️ TECH ARSENAL
 
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
+<br><br>
+
+<!-- ANIMATED LANGUAGE ICONS -->
+<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" /></a>
+&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b0d-980f-78ca82c21808.gif" width="70" /></a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" /></a>
+&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70" /></a>
+&nbsp;&nbsp;
+<a href="https://aws.amazon.com/"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" /></a>
+
+<br><br>
+
 </div>
 
-<br>
+<!-- AI & LLM STACK -->
+<details open>
+<summary><div align="center"><h3>🤖 AI & LLM Stack</h3></div></summary>
 
 <div align="center">
 
-<!-- AI & LLM -->
-<details open>
-<summary><h3>🤖 AI & LLM Stack</h3></summary>
 <br>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-00D9FF?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-4B8BBE?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen_/_AG2-4B8BBE?style=for-the-badge)
+![BeeAI](https://img.shields.io/badge/BeeAI-FFD21E?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge)
 
+</div>
 </details>
 
-<!-- VECTOR DBS -->
+<!-- VECTOR DBS & RAG -->
 <details open>
-<summary><h3>🗄️ Vector DBs & RAG Infrastructure</h3></summary>
+<summary><div align="center"><h3>🗄️ Vector DBs & RAG Infrastructure</h3></div></summary>
+
+<div align="center">
+
 <br>
 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
@@ -343,40 +531,63 @@ const ABDEL_ATIA = {
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge)
 
+</div>
 </details>
 
 <!-- LLM MODELS -->
 <details open>
-<summary><h3>🧠 LLM Models</h3></summary>
+<summary><div align="center"><h3>🧠 LLM Models I Work With</h3></div></summary>
+
+<div align="center">
+
 <br>
 
-![GPT-4](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_3.5/4-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.0-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama_3.x-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_R1-4D6BFE?style=for-the-badge)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge)
 
+</div>
 </details>
 
-<!-- ML & LANGUAGES -->
+<!-- LANGUAGES & ML -->
 <details open>
-<summary><h3>📊 Languages & ML</h3></summary>
+<summary><div align="center"><h3>📊 Languages, ML & Data Science</h3></div></summary>
+
+<div align="center">
+
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<br>
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+</div>
 </details>
 
-<!-- INFRA & TOOLS -->
+<!-- INFRA & DEVOPS -->
 <details>
-<summary><h3>⚙️ Infrastructure & DevOps</h3></summary>
+<summary><div align="center"><h3>⚙️ Infrastructure & DevOps</h3></div></summary>
+
+<div align="center">
+
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -386,24 +597,52 @@ const ABDEL_ATIA = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</details>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
 
 </div>
+</details>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 EXPERTISE -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- MONITORING & OBSERVABILITY -->
+<details>
+<summary><div align="center"><h3>📡 Monitoring & Observability</h3></div></summary>
+
+<div align="center">
 
 <br>
 
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+</div>
+</details>
+
+<!-- ANIMATED SEPARATOR -->
 <div align="center">
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎯 DEEP EXPERTISE -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 ## 🎯 DEEP EXPERTISE
 
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
 </div>
 
 <br>
@@ -411,12 +650,14 @@ const ABDEL_ATIA = {
 ```python
 class CertifiedAIExpert:
     """
-    🏆 IBM RAG & Agentic AI | Harvard CS50x | Harvard CS50P
+    🏆 IBM RAG & Agentic AI (8 courses)
+    🎓 Harvard CS50x — Computer Science
+    🐍 Harvard CS50P — Python Programming
     """
 
     def __init__(self):
 
-        # 🔍 RAG Mastery
+        # ═══ IBM RAG & AGENTIC AI ═══
         self.rag = {
             "chunking":   ["semantic", "recursive", "agentic", "late chunking"],
             "embeddings": ["OpenAI ada-002", "Cohere", "BGE-M3", "Nomic"],
@@ -424,28 +665,35 @@ class CertifiedAIExpert:
             "generation": ["RAG fusion", "CRAG", "self-RAG", "corrective RAG"]
         }
 
-        # 🤖 Agentic AI
         self.agents = {
-            "frameworks":    ["LangGraph", "CrewAI", "AutoGen", "Semantic Kernel"],
+            "frameworks":    ["LangGraph", "CrewAI", "AutoGen/AG2", "BeeAI", "Semantic Kernel"],
             "patterns":      ["ReAct", "Plan-Execute", "Tree of Thoughts", "Reflexion"],
             "orchestration": ["multi-agent debate", "hierarchical agents", "swarm"],
-            "memory":        ["conversation buffer", "entity memory", "knowledge graphs"]
+            "protocols":     ["MCP (Model Context Protocol)", "function calling", "tool use"]
         }
 
-        # 🏗️ Production-Grade
+        # ═══ HARVARD CS50x ═══
+        self.cs_foundations = {
+            "algorithms":      ["sorting", "searching", "graph traversal", "dynamic programming"],
+            "data_structures": ["arrays", "linked lists", "trees", "hash tables", "tries"],
+            "languages":       ["C", "Python", "SQL", "JavaScript", "HTML/CSS"],
+            "concepts":        ["memory management", "pointers", "encryption", "TCP/IP"]
+        }
+
+        # ═══ HARVARD CS50P ═══
+        self.python_mastery = {
+            "core":      ["functions", "variables", "conditionals", "loops", "exceptions"],
+            "advanced":  ["OOP", "inheritance", "decorators", "properties", "generators"],
+            "testing":   ["unit testing", "pytest", "assert", "debugging"],
+            "practical": ["regex", "file I/O", "CSV", "APIs", "third-party libraries"]
+        }
+
+        # ═══ PRODUCTION ═══
         self.production = {
-            "api":          ["FastAPI", "gRPC", "WebSockets"],
+            "api":          ["FastAPI", "gRPC", "WebSockets", "streaming"],
             "infra":        ["Docker", "Kubernetes", "AWS", "GCP"],
             "monitoring":   ["LangSmith", "Langfuse", "Weights & Biases"],
-            "optimization": ["caching", "batching", "streaming", "quantization"]
-        }
-
-        # 🎓 CS Foundations (Harvard)
-        self.cs_foundations = {
-            "algorithms":    ["sorting", "searching", "graph traversal", "dynamic programming"],
-            "data_structures": ["arrays", "linked lists", "trees", "hash tables"],
-            "languages":     ["C", "Python", "SQL", "JavaScript"],
-            "paradigms":     ["OOP", "functional", "imperative"]
+            "optimization": ["caching", "batching", "quantization", "guardrails"]
         }
 
     def deliver(self) -> dict:
@@ -453,22 +701,31 @@ class CertifiedAIExpert:
             "🎯 RAG Systems":    "Documents → Knowledge → Action",
             "🤖 AI Agents":      "Autonomous reasoning & execution",
             "🎓 CS Foundations":  "Harvard-validated fundamentals",
-            "⚡ Production":     "Scalable, monitored, optimized"
+            "🐍 Python":         "Deep mastery, tested & certified",
+            "⚡ Production":     "Scalable, monitored, responsible"
         }
 ```
+
+<!-- ANIMATED SEPARATOR -->
+<div align="center">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🚀 PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 ## 🚀 PROJECTS IN PRODUCTION
 
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
 </div>
 
 <br>
@@ -515,7 +772,7 @@ Impact: "90% faster research"
 Stack:
   - LangGraph + CrewAI
   - Claude 3.5 + GPT-4
-  - Custom Tools
+  - Custom Tools + MCP
 
 Agents:
   ✅ Researcher (literature)
@@ -584,47 +841,54 @@ Impact: "Zero manual intervention"
 </tr>
 </table>
 
+<!-- ANIMATED SEPARATOR -->
+<div align="center">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌍 GLOBAL FOOTPRINT -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 ## 🌍 GLOBAL FOOTPRINT
 
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
+<br><br>
+
+<!-- ANIMATED GLOBE -->
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 
 <br><br>
 
 <table>
 <tr>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/64-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br>
-<b>🌍 Countries</b>
+<td align="center" width="160">
+<h2>🌍 64</h2>
+<b>Countries</b>
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/4-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br>
-<b>🗺️ Continents</b>
+<td align="center" width="160">
+<h2>🗺️ 4</h2>
+<b>Continents</b>
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/∞-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br>
-<b>☕ Coffees</b>
+<td align="center" width="160">
+<h2>☕ ∞</h2>
+<b>Coffees</b>
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/300+-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br>
-<b>📚 Papers/Year</b>
+<td align="center" width="160">
+<h2>📚 300+</h2>
+<b>Papers/Year</b>
 </td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/3-0d1117?style=for-the-badge&labelColor=0d1117" />
-<br>
-<b>🏆 Certifications</b>
+<td align="center" width="160">
+<h2>🏆 3</h2>
+<b>Certifications</b>
 </td>
 </tr>
 </table>
@@ -635,18 +899,25 @@ Impact: "Zero manual intervention"
 
 </div>
 
+<!-- ANIMATED SEPARATOR -->
+<div align="center">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 ## 📊 GITHUB ANALYTICS
 
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 <br><br>
 
@@ -669,18 +940,26 @@ Impact: "Zero manual intervention"
 
 </div>
 
+<!-- ANIMATED SEPARATOR -->
+<div align="center">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 💡 PHILOSOPHY & BUGS -->
+<!-- 💡 PHILOSOPHY -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 ## 💡 PHILOSOPHY
 
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
 </div>
 
 <br>
@@ -696,7 +975,7 @@ class DevPhilosophy:
         "The best prompt is the one you never have to write twice"
     ]
 
-    MOTTO = "Au nom du Prompt, du Modèle et de la Sainte Itération 🙏"
+    MOTTO = "Au nom du Prompt, du Modele et de la Sainte Iteration 🙏"
 
     def daily_standup(self) -> str:
         return """
@@ -723,39 +1002,51 @@ class DevPhilosophy:
 + ✅ HarvardEffect: Now explains everything with O(n) notation (feature)
 ```
 
+<!-- ANIMATED SEPARATOR -->
+<div align="center">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📡 CONNECT -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
 
 ## 📡 LET'S CONNECT
 
-<img src="https://img.shields.io/badge/══════════════════════════════════════════════════-0d1117?style=flat-square" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
+<br><br>
+
+<!-- ANIMATED HANDSHAKE -->
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468b5596.gif" width="60" />
 
 <br><br>
 
 <a href="https://linkedin.com/in/abdelbasset-atia-dmv-msc-phd-270b962b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://twitter.com/AbdelbassetAtia">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="38" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://tamereia.com/">
-  <img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://orcid.org/0009-0005-1245-5592">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="38" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.coursera.org/account/accomplishments/specialization/D5RCNV6UDKYT">
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="38" />
 </a>
 
 <br><br>
@@ -764,13 +1055,17 @@ class DevPhilosophy:
 
 <br>
 
-**Built with** ☕ + 🐍 + 🤖 **|** **Certified by** IBM + Harvard **|** **Last update:** February 2026
+**Built with** ☕ + 🐍 + 🤖 **|** **Certified by**
+<img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" height="18" />
++
+<img src="https://img.shields.io/badge/Harvard-A51C30?style=flat-square" height="18" />
+**|** **Last update:** February 2026
 
 *Aucun GPU n'a ete maltraite durant la creation de ce profil.*
 
 <br>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00D9FF&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161B22,60:1a1a2e,100:00D9FF&height=180&section=footer&animation=twinkling" width="100%" />
 
 </div>
