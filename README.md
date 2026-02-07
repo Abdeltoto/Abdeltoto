@@ -103,10 +103,10 @@
 
 <br>
 
-<!-- IBM LOGO -->
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" height="45" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="45" />
+<!-- IBM REAL LOGO -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="50" alt="IBM" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="40" />
 
 <br><br>
 
@@ -200,8 +200,8 @@
 
 <br>
 
-<!-- HARVARD LOGO -->
-<img src="https://img.shields.io/badge/Harvard_University-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzTDEgOWgzdjloMTZWOWgzTDEyIDN6TTcgMTZWOS41bDUtMyA1IDN2Ni41SDd6Ii8+PC9zdmc+&logoColor=white" height="40" />
+<!-- HARVARD REAL LOGO -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_logo.svg" height="45" alt="Harvard University" />
 
 <br><br>
 
@@ -249,8 +249,8 @@
 
 <br>
 
-<!-- HARVARD LOGO -->
-<img src="https://img.shields.io/badge/Harvard_University-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzTDEgOWgzdjloMTZWOWgzTDEyIDN6TTcgMTZWOS41bDUtMyA1IDN2Ni41SDd6Ii8+PC9zdmc+&logoColor=white" height="40" />
+<!-- HARVARD REAL LOGO -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_logo.svg" height="45" alt="Harvard University" />
 
 <br><br>
 
@@ -388,11 +388,11 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="28" alt="IBM" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Harvard_University-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzTDEgOWgzdjloMTZWOWgzTDEyIDN6TTcgMTZWOS41bDUtMyA1IDN2Ni41SDd6Ii8+PC9zdmc+&logoColor=white" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_logo.svg" height="28" alt="Harvard University" />
 
 <br><br>
 
@@ -1065,9 +1065,9 @@ class DevPhilosophy:
 <br>
 
 **Built with** ☕ + 🐍 + 🤖 **|** **Certified by**
-<img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white" height="18" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="16" alt="IBM" />
 +
-<img src="https://img.shields.io/badge/Harvard-A51C30?style=flat-square" height="18" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_logo.svg" height="16" alt="Harvard" />
 **|** **Last update:** February 2026
 
 *Aucun GPU n'a ete maltraite durant la creation de ce profil.*
