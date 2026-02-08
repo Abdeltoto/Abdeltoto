@@ -183,8 +183,8 @@
 
 <br>
 
-<!-- HARVARD BADGE -->
-<img src="https://img.shields.io/badge/HARVARD-UNIVERSITY-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDEgMjFoMjJMMTIgMnptMCAzLjk5TDE5LjUzIDE5SDQuNDdMMTIgNS45OXoiLz48L3N2Zz4=&logoColor=white&labelColor=1E1E1E" height="50" alt="Harvard University" />
+<!-- HARVARD LOGO -->
+<img src="harvard_logo.png" height="55" alt="Harvard University" />
 
 <br><br>
 
@@ -232,8 +232,8 @@
 
 <br>
 
-<!-- HARVARD BADGE -->
-<img src="https://img.shields.io/badge/HARVARD-UNIVERSITY-A51C30?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDEgMjFoMjJMMTIgMnptMCAzLjk5TDE5LjUzIDE5SDQuNDdMMTIgNS45OXoiLz48L3N2Zz4=&logoColor=white&labelColor=1E1E1E" height="50" alt="Harvard University" />
+<!-- HARVARD LOGO -->
+<img src="harvard_logo.png" height="55" alt="Harvard University" />
 
 <br><br>
 
@@ -375,7 +375,7 @@ const ABDEL_ATIA = {
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HARVARD-A51C30?style=for-the-badge&logoColor=white" height="32" alt="Harvard University" />
+<img src="harvard_logo.png" height="35" alt="Harvard University" />
 
 <br><br>
 
@@ -1269,7 +1269,7 @@ class DevPhilosophy:
 &nbsp;
 <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" height="22" alt="IBM" />
 &nbsp; + &nbsp;
-<img src="https://img.shields.io/badge/HARVARD-A51C30?style=flat-square&logoColor=white" height="22" alt="Harvard" />
+<img src="harvard_logo.png" height="22" alt="Harvard" />
 
 <br>
 
