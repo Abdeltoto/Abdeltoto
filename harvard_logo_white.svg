@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <!-- Harvard Shield -->
+  <g transform="translate(10, 5) scale(0.85)">
+    <!-- Shield shape -->
+    <path d="M5 5 L5 65 Q5 95 50 95 Q95 95 95 65 L95 5 Z" fill="#A51C30" stroke="#1E1E1E" stroke-width="3"/>
+    <!-- Top row - two books -->
+    <!-- Book 1 (VE) -->
+    <g transform="translate(14, 12)">
+      <rect x="0" y="0" width="28" height="22" rx="1" fill="white" stroke="#333" stroke-width="0.8"/>
+      <line x1="14" y1="0" x2="14" y2="22" stroke="#333" stroke-width="0.5"/>
+      <text x="14" y="15" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-weight="bold" fill="#333">VE</text>
+    </g>
+    <!-- Book 2 (RI) -->
+    <g transform="translate(56, 12)">
+      <rect x="0" y="0" width="28" height="22" rx="1" fill="white" stroke="#333" stroke-width="0.8"/>
+      <line x1="14" y1="0" x2="14" y2="22" stroke="#333" stroke-width="0.5"/>
+      <text x="14" y="15" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-weight="bold" fill="#333">RI</text>
+    </g>
+    <!-- Bottom row - one book -->
+    <!-- Book 3 (TAS) -->
+    <g transform="translate(35, 48)">
+      <rect x="0" y="0" width="28" height="22" rx="1" fill="white" stroke="#333" stroke-width="0.8"/>
+      <line x1="14" y1="0" x2="14" y2="22" stroke="#333" stroke-width="0.5"/>
+      <text x="14" y="15" text-anchor="middle" font-family="Georgia, serif" font-size="8" font-weight="bold" fill="#333">TAS</text>
+    </g>
+  </g>
+  <!-- HARVARD text -->
+  <text x="115" y="48" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="normal" letter-spacing="6" fill="white">HARVARD</text>
+  <!-- UNIVERSITY text -->
+  <text x="117" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="normal" letter-spacing="10" fill="white">UNIVERSITY</text>
+</svg>
