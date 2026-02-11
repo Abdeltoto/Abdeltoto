@@ -7,7 +7,9 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 <br>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdeltoto&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeltoto&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdeltoto&theme=tokyonight)
 <!-- TYPING ANIMATION - SUBTITLE ALTERNANT -->
 <a href="https://github.com/Abdeltoto">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%F0%9F%A4%96+RAG+%26+Agentic+AI+Expert;%F0%9F%8E%93+IBM+%2B+Harvard+Certified;%F0%9F%92%BB+15%2B+Years+Coding;%F0%9F%8C%8D+64+Countries+Explored;%E2%98%95+Powered+by+Coffee+%26+Python" alt="Typing SVG" />
