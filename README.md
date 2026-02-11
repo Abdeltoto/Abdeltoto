@@ -185,7 +185,7 @@
 <br>
 
 <!-- HARVARD LOGO -->
-<img src="harvard_coat_of_arms.svg" height="55" alt="Harvard University" />
+<img src="harvard_coat_of_arms.svg" height="80" alt="Harvard University" />
 
 <br><br>
 
@@ -234,7 +234,7 @@
 <br>
 
 <!-- HARVARD LOGO -->
-<img src="harvard_coat_of_arms.svg" height="55" alt="Harvard University" />
+<img src="harvard_coat_of_arms.svg" height="80" alt="Harvard University" />
 
 <br><br>
 
@@ -376,7 +376,7 @@ const ABDEL_ATIA = {
 
 <br><br>
 
-<img src="harvard_coat_of_arms.svg" height="35" alt="Harvard University" />
+<img src="harvard_coat_of_arms.svg" height="50" alt="Harvard University" />
 
 <br><br>
 
@@ -1270,7 +1270,7 @@ class DevPhilosophy:
 &nbsp;
 <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" height="22" alt="IBM" />
 &nbsp; + &nbsp;
-<img src="harvard_coat_of_arms.svg" height="22" alt="Harvard" />
+<img src="harvard_coat_of_arms.svg" height="30" alt="Harvard" />
 
 <br>
 
