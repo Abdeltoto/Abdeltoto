@@ -788,13 +788,30 @@ const ABDEL_ATIA = {
 
 <br><br>
 
-![PubMed API](https://img.shields.io/badge/PubMed_API-326599?style=for-the-badge)
+<!-- 🧬 DNA SEQUENCING & METAGENOMICS -->
+![NCBI BLAST](https://img.shields.io/badge/NCBI_BLAST+-2563eb?style=for-the-badge)
+![SILVA](https://img.shields.io/badge/SILVA_138.2-10b981?style=for-the-badge)
+![16S rRNA](https://img.shields.io/badge/16S_rRNA-FF6B6B?style=for-the-badge)
+![FASTQ](https://img.shields.io/badge/FASTQ_Parsing-8B5CF6?style=for-the-badge)
+![Paired-End](https://img.shields.io/badge/Paired--End_Assembly-F59E0B?style=for-the-badge)
 ![Biopython](https://img.shields.io/badge/Biopython-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+
+<!-- 📊 BIOSTATISTICS & ANALYSIS -->
+![PERMANOVA](https://img.shields.io/badge/PERMANOVA-326599?style=for-the-badge)
+![ANOSIM](https://img.shields.io/badge/ANOSIM-20558A?style=for-the-badge)
+![PCoA](https://img.shields.io/badge/PCoA_Ordination-0EA5E9?style=for-the-badge)
+![Bray-Curtis](https://img.shields.io/badge/Bray--Curtis-7C3AED?style=for-the-badge)
+![Shannon](https://img.shields.io/badge/Shannon_Diversity-059669?style=for-the-badge)
+![Rarefaction](https://img.shields.io/badge/Rarefaction_Curves-DC2626?style=for-the-badge)
+
+<!-- 🔬 RESEARCH TOOLS -->
+![PubMed API](https://img.shields.io/badge/PubMed_API-326599?style=for-the-badge)
+![NCBI Entrez](https://img.shields.io/badge/NCBI_Entrez-20558A?style=for-the-badge)
 ![RDKit](https://img.shields.io/badge/RDKit-3776AB?style=for-the-badge)
-![NCBI](https://img.shields.io/badge/NCBI_Tools-20558A?style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-CC2927?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![BIOM](https://img.shields.io/badge/BIOM_1.0-1E3A5F?style=for-the-badge)
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
 
 </div>
@@ -865,6 +882,16 @@ class CertifiedAIExpert:
             "practical": ["regex", "file I/O", "CSV", "APIs", "third-party libraries"]
         }
 
+        # ═══ 🧬 BIOINFORMATICS (SeqDNA 16S) ═══
+        self.bioinformatics = {
+            "sequencing":    ["16S rRNA metabarcoding", "FASTQ parsing", "Phred quality"],
+            "assembly":      ["paired-end R1+R2", "consensus scoring", "overlap merge"],
+            "identification":["NCBI BLAST+ (megablast)", "SILVA 138.2", "k-mer indexing"],
+            "diversity":     ["Shannon", "Simpson", "Chao1", "Bray-Curtis", "Jaccard"],
+            "statistics":    ["PERMANOVA", "ANOSIM", "PCoA ordination", "rarefaction"],
+            "pipelines":     ["Biopython", "BIOM 1.0 export", "PDF reports", "Flask SaaS"]
+        }
+
         # ═══ PRODUCTION ═══
         self.production = {
             "api":          ["FastAPI", "gRPC", "WebSockets", "streaming"],
@@ -877,6 +904,7 @@ class CertifiedAIExpert:
         return {
             "🎯 RAG Systems":    "Documents → Knowledge → Action",
             "🤖 AI Agents":      "Autonomous reasoning & execution",
+            "🧬 Bioinformatics": "FASTQ → Species identification",
             "🎓 CS Foundations":  "Harvard-validated fundamentals",
             "🐍 Python":         "Deep mastery, tested & certified",
             "⚡ Production":     "Scalable, monitored, responsible"
@@ -967,7 +995,7 @@ Impact: "20h/week automated"
 
 <div align="center">
 
-#### 🧬 BioMed AI Assistant
+#### 🧬 SeqDNA 16S — DNA Sequencing Platform
 
 ![](https://img.shields.io/badge/🟢_ACTIVE-8B5CF6?style=for-the-badge&labelColor=0d1117)
 
@@ -975,17 +1003,20 @@ Impact: "20h/week automated"
 
 ```yaml
 Stack:
-  - RAG + PubMed API
-  - Specialized embeddings
-  - Streamlit UI
+  - Python + Flask (SPA)
+  - NCBI BLAST+ & SILVA 138.2
+  - Chart.js + fpdf2 reports
+  - SQLite + Auth multi-users
 
 Features:
-  ✅ 10K+ papers indexed
-  ✅ Automated summaries
-  ✅ Smart alerts
-  ✅ Q&A with sources
+  ✅ 16S rRNA metabarcoding pipeline
+  ✅ Paired-end R1+R2 assembly (Phred)
+  ✅ PERMANOVA, ANOSIM, PCoA, Bray-Curtis
+  ✅ Rarefaction curves & taxonomic trees
+  ✅ PDF reports + BIOM 1.0 export
+  ✅ SaaS: Free / Pro / Admin plans
 
-Impact: "Literature review: 3h → 20min"
+Impact: "FASTQ → Species ID in minutes"
 ```
 
 </td>
