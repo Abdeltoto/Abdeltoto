@@ -88,7 +88,7 @@
 <br>
 
 <!-- IBM BADGE -->
-<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="50" alt="IBM" />
+<img src="ibm_logo.svg" height="50" alt="IBM" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="40" />
 
@@ -372,7 +372,7 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="32" alt="IBM" />
+<img src="ibm_logo.svg" height="50" alt="IBM" />
 
 <br><br>
 
@@ -1268,7 +1268,7 @@ class DevPhilosophy:
 
 **Certified by**
 &nbsp;
-<img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" height="22" alt="IBM" />
+<img src="ibm_logo.svg" height="30" alt="IBM" />
 &nbsp; + &nbsp;
 <img src="harvard_coat_of_arms.svg" height="60" alt="Harvard" />
 
