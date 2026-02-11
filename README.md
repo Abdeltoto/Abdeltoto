@@ -1,4 +1,7 @@
 <!-- 🎨 CAPSULE RENDER - COLORFUL TOP -->
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Listen-orange?logo=soundcloud&logoColor=white)](https://soundcloud.com/hollywoodtrampdj)
+
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,25:8B5CF6,50:00D9FF,75:2ea44f,100:FFD21E&height=250&section=header&text=ABDEL%20ATIA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20PhD%20%7C%20DMV&descSize=20&descAlignY=55&descColor=00D9FF" width="100%" />
 
 <div align="center">
