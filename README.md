@@ -60,6 +60,58 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔨 CURRENTLY BUILDING -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
+## 🔨 CURRENTLY BUILDING
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+![WIP](https://img.shields.io/badge/🚧_WIP-SeqDNA_v2-8B5CF6?style=for-the-badge&labelColor=0d1117)
+
+**SeqDNA 16S Platform v2**
+Passage vers FastAPI + async pipeline + export QIIME2
+
+</td>
+<td align="center" width="300">
+
+![WIP](https://img.shields.io/badge/🚧_WIP-Agentic_RAG-00D9FF?style=for-the-badge&labelColor=0d1117)
+
+**Agentic RAG Framework**
+Multi-agent avec LangGraph + self-correcting + MCP
+
+</td>
+<td align="center" width="300">
+
+![WIP](https://img.shields.io/badge/🚧_WIP-Bio_AI_Bridge-FF6B6B?style=for-the-badge&labelColor=0d1117)
+
+**Bio × AI Research Bridge**
+LLM appliqués aux données de santé animale & génomique
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 CERTIFICATIONS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -348,7 +400,7 @@ const ABDEL_ATIA = {
     // 🌍 Life in Numbers
     stats: {
         countries_visited: 64,
-        continents_explored: 4,
+        continents_explored: 5,
         papers_read_yearly: 300,
         coffee_dependency: "CRITICAL ☕"
     },
@@ -380,7 +432,7 @@ const ABDEL_ATIA = {
 
 <br><br>
 
-**🌍 64 Countries**
+**🌍 64 Countries | 5 Continents**
 <br>
 **📚 300+ Papers/Year**
 <br>
@@ -962,6 +1014,12 @@ Features:
 Impact: "90% faster research"
 ```
 
+<div align="center">
+<a href="https://github.com/Abdeltoto?tab=repositories">
+  <img src="https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</div>
+
 </td>
 <td width="50%" valign="top">
 
@@ -987,6 +1045,12 @@ Agents:
 
 Impact: "20h/week automated"
 ```
+
+<div align="center">
+<a href="https://github.com/Abdeltoto?tab=repositories">
+  <img src="https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</div>
 
 </td>
 </tr>
@@ -1019,6 +1083,12 @@ Features:
 Impact: "FASTQ → Species ID in minutes"
 ```
 
+<div align="center">
+<a href="https://github.com/Abdeltoto?tab=repositories">
+  <img src="https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</div>
+
 </td>
 <td width="50%" valign="top">
 
@@ -1044,6 +1114,12 @@ Features:
 
 Impact: "Zero manual intervention"
 ```
+
+<div align="center">
+<a href="https://github.com/Abdeltoto?tab=repositories">
+  <img src="https://img.shields.io/badge/→_View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</div>
 
 </td>
 </tr>
@@ -1083,7 +1159,7 @@ Impact: "Zero manual intervention"
 <b>Countries</b>
 </td>
 <td align="center" width="160">
-<h2>🗺️ 4</h2>
+<h2>🗺️ 5</h2>
 <b>Continents</b>
 </td>
 <td align="center" width="160">
@@ -1104,6 +1180,14 @@ Impact: "Zero manual intervention"
 <br>
 
 > *« Le monde est mon bureau. Le WiFi, ma seule contrainte. »*
+
+<br>
+
+**🗣️ Languages spoken:**
+&nbsp;
+![French](https://img.shields.io/badge/Français-Native-2ea44f?style=flat-square&labelColor=0d1117)
+![Arabic](https://img.shields.io/badge/العربية-Native-FF6B6B?style=flat-square&labelColor=0d1117)
+![English](https://img.shields.io/badge/English-Fluent-00D9FF?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -1126,6 +1210,11 @@ Impact: "Zero manual intervention"
 ## 📊 GITHUB ANALYTICS
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
+<br><br>
+
+<!-- GITHUB TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=Abdeltoto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
 <br><br>
 
@@ -1216,6 +1305,62 @@ class DevPhilosophy:
 + ✅ AgentAddiction: Creating AI agents for everything (feature, not bug)
 + ✅ HarvardEffect: Now explains everything with O(n) notation (feature)
 ```
+
+<!-- ANIMATED SEPARATOR -->
+<div align="center">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📄 RESEARCH & PUBLICATIONS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
+## 📄 RESEARCH & PUBLICATIONS
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Domaines de recherche**
+
+```
+🧬 Microbiome & métagénomique 16S rRNA
+💊 Biopharmacologie & molécules actives
+🦁 Santé animale & médecine vétérinaire
+🤖 IA appliquée aux sciences du vivant
+```
+
+</td>
+<td align="center" width="50%">
+
+**Identifiants académiques**
+
+<a href="https://orcid.org/0009-0005-1245-5592">
+  <img src="https://img.shields.io/badge/ORCID-0009--0005--1245--5592-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Atia+A">
+  <img src="https://img.shields.io/badge/PubMed-Search_Publications-326599?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- ANIMATED SEPARATOR -->
 <div align="center">
