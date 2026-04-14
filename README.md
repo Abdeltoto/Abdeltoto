@@ -804,27 +804,21 @@ Impact: "Zero manual intervention"
 
 <br><br>
 
-## 🌐 OPEN SOURCE & CONTRIBUTIONS
+## 🌐 OPEN SOURCE CONTRIBUTIONS
 
 <br>
 
 <img src="https://img.shields.io/badge/15_PRs_Merged-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/48_PRs_Total-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/66+_Public_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 <br><br>
 
 </div>
 
-<!-- MERGED PRs — TIER 1: HIGH-IMPACT -->
+<!-- MERGED CONTRIBUTIONS -->
 
 <table>
 <tr>
 <td align="center" width="900">
-
-<br>
-
-### 🏆 Merged Contributions — Code in Production
 
 <br>
 
@@ -835,12 +829,12 @@ Impact: "Zero manual intervention"
 <a href="https://github.com/superdoc-dev/superdoc"><img src="https://img.shields.io/badge/SuperDoc-6366F1?style=for-the-badge" height="30" /></a>
 </td>
 <td>
-<b><a href="https://github.com/superdoc-dev/superdoc">superdoc-dev/superdoc</a></b> — Modern document editing<br>
+<b><a href="https://github.com/superdoc-dev/superdoc">superdoc-dev/superdoc</a></b><br>
 <img src="https://img.shields.io/badge/7_PRs_Merged-2ea44f?style=flat-square" />
-<img src="https://img.shields.io/badge/released_on_@next-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/community-FFD21E?style=flat-square&labelColor=0d1117" /><br>
+<img src="https://img.shields.io/badge/released_on_@next-6366F1?style=flat-square" /><br>
+<sub>Built the full OMML → MathML conversion layer: equation arrays, matrices, n-ary operators, group characters, phantoms, accents, and pre-sub-superscripts. Enables Word math equations to render natively in the browser.</sub><br>
 <sub>
-<a href="https://github.com/superdoc-dev/superdoc/pull/2754">m:eqArr</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2753">m:matrix</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2752">m:nary</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2751">m:groupChr</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2749">m:phant</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2748">m:acc</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2747">m:sPre</a>
+<a href="https://github.com/superdoc-dev/superdoc/pull/2754">#2754</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2753">#2753</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2752">#2752</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2751">#2751</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2749">#2749</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2748">#2748</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2747">#2747</a>
 </sub>
 </td>
 </tr>
@@ -853,10 +847,11 @@ Impact: "Zero manual intervention"
 <a href="https://github.com/palantir/palantir-mcp"><img src="https://img.shields.io/badge/Palantir-1C1E21?style=for-the-badge&logo=palantir&logoColor=white" height="30" /></a>
 </td>
 <td>
-<b><a href="https://github.com/palantir/palantir-mcp">palantir/palantir-mcp</a></b> — Palantir MCP Server<br>
+<b><a href="https://github.com/palantir/palantir-mcp">palantir/palantir-mcp</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" />
 <img src="https://img.shields.io/badge/autorelease-00D9FF?style=flat-square" /><br>
-<sub><a href="https://github.com/palantir/palantir-mcp/pull/25">fix: add shell: true for Windows npx spawn compatibility</a></sub>
+<sub>Fixed cross-platform compatibility — Palantir's MCP server couldn't spawn on Windows. Added <code>shell: true</code> to the npx child process, unblocking all Windows developers.</sub><br>
+<sub><a href="https://github.com/palantir/palantir-mcp/pull/25">#25</a></sub>
 </td>
 </tr>
 </table>
@@ -868,9 +863,10 @@ Impact: "Zero manual intervention"
 <a href="https://github.com/DeepCritical/DeepCritical"><img src="https://img.shields.io/badge/DeepCritical-DC382D?style=for-the-badge" height="30" /></a>
 </td>
 <td>
-<b><a href="https://github.com/DeepCritical/DeepCritical">DeepCritical/DeepCritical</a></b> — AI-driven Critical Analysis for Drug Discovery<br>
+<b><a href="https://github.com/DeepCritical/DeepCritical">DeepCritical/DeepCritical</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
-<sub><a href="https://github.com/DeepCritical/DeepCritical/pull/231">feat: implement MAFFT multiple sequence alignment MCP server</a></sub>
+<sub>Implemented a full MCP server for MAFFT multiple sequence alignment — bridging bioinformatics tooling with the AI agent ecosystem. Allows LLM agents to run protein/DNA alignments autonomously.</sub><br>
+<sub><a href="https://github.com/DeepCritical/DeepCritical/pull/231">#231</a></sub>
 </td>
 </tr>
 </table>
@@ -882,9 +878,10 @@ Impact: "Zero manual intervention"
 <a href="https://github.com/microDM/ProBioPred"><img src="https://img.shields.io/badge/ProBioPred-059669?style=for-the-badge" height="30" /></a>
 </td>
 <td>
-<b><a href="https://github.com/microDM/ProBioPred">microDM/ProBioPred</a></b> — Probiotic Prediction Tool<br>
+<b><a href="https://github.com/microDM/ProBioPred">microDM/ProBioPred</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
-<sub><a href="https://github.com/microDM/ProBioPred/pull/1">Fix typos, add pyproject.toml, CONTRIBUTING.md and .gitignore</a></sub>
+<sub>Modernized the project scaffolding — added <code>pyproject.toml</code>, <code>CONTRIBUTING.md</code>, and <code>.gitignore</code> to make this probiotic prediction tool pip-installable and contributor-friendly.</sub><br>
+<sub><a href="https://github.com/microDM/ProBioPred/pull/1">#1</a></sub>
 </td>
 </tr>
 </table>
@@ -896,9 +893,10 @@ Impact: "Zero manual intervention"
 <img src="https://img.shields.io/badge/Awesome-FC60A8?style=for-the-badge&logo=awesome-lists&logoColor=white" height="30" />
 </td>
 <td>
-<b>Awesome Curated Lists</b> — Community knowledge bases<br>
+<b>Awesome Bioinformatics & Computational Biology</b><br>
 <img src="https://img.shields.io/badge/2_PRs_Merged-2ea44f?style=flat-square" /><br>
-<sub><a href="https://github.com/danielecook/Awesome-Bioinformatics/pull/127">Awesome-Bioinformatics: Add Scanpy</a> · <a href="https://github.com/inoue0426/awesome-computational-biology/pull/50">awesome-computational-biology: Add EvoDiff</a></sub>
+<sub>Enriched two major curated lists used by thousands of researchers — added Scanpy (the standard scRNA-seq toolkit) and EvoDiff (protein generation via diffusion models).</sub><br>
+<sub><a href="https://github.com/danielecook/Awesome-Bioinformatics/pull/127">Awesome-Bioinformatics #127</a> · <a href="https://github.com/inoue0426/awesome-computational-biology/pull/50">awesome-computational-biology #50</a></sub>
 </td>
 </tr>
 </table>
@@ -910,9 +908,10 @@ Impact: "Zero manual intervention"
 <a href="https://github.com/rmindel/gsd-for-cursor"><img src="https://img.shields.io/badge/GSD-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30" /></a>
 </td>
 <td>
-<b><a href="https://github.com/rmindel/gsd-for-cursor">rmindel/gsd-for-cursor</a></b> — Meta-prompting system for Cursor IDE<br>
+<b><a href="https://github.com/rmindel/gsd-for-cursor">rmindel/gsd-for-cursor</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
-<sub><a href="https://github.com/rmindel/gsd-for-cursor/pull/3">fix: use ~/.cursor/ instead of ~/.claude/ in hooks</a></sub>
+<sub>Fixed broken hooks path — the Cursor IDE adaptation was still pointing to <code>~/.claude/</code> instead of <code>~/.cursor/</code>, causing silent failures for all Cursor users.</sub><br>
+<sub><a href="https://github.com/rmindel/gsd-for-cursor/pull/3">#3</a></sub>
 </td>
 </tr>
 </table>
@@ -923,56 +922,11 @@ Impact: "Zero manual intervention"
 </tr>
 </table>
 
-<br>
-
-<!-- OPEN PRs — IN REVIEW -->
-<details>
-<summary><div align="center"><h3>🔄 Open PRs — Under Review</h3></div></summary>
-
 <div align="center">
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="130"><a href="https://github.com/biopython/biopython"><img src="https://img.shields.io/badge/Biopython-FFD43B?style=for-the-badge&logo=python&logoColor=black" height="28" /></a></td>
-<td><b>biopython/biopython</b> — 3 PRs: <a href="https://github.com/biopython/biopython/pull/5177">mmCIF obsolete handling</a> · <a href="https://github.com/biopython/biopython/pull/5176">AFDBList for AlphaFold</a> · <a href="https://github.com/biopython/biopython/pull/5175">assert→if/raise</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/GMOD/jbrowse-components"><img src="https://img.shields.io/badge/JBrowse_2-DC382D?style=for-the-badge" height="28" /></a></td>
-<td><b>GMOD/jbrowse-components</b> — 2 PRs: <a href="https://github.com/GMOD/jbrowse-components/pull/5526">pileup soft-clip layout</a> · <a href="https://github.com/GMOD/jbrowse-components/pull/5525">memory pruning</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/palantir/blueprint"><img src="https://img.shields.io/badge/Palantir_Blueprint-1C1E21?style=for-the-badge&logo=palantir&logoColor=white" height="28" /></a></td>
-<td><b>palantir/blueprint</b> — <a href="https://github.com/palantir/blueprint/pull/7890">feat: add bordered prop to Section</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/vllm-project/vllm-omni"><img src="https://img.shields.io/badge/vLLM_Omni-00D9FF?style=for-the-badge" height="28" /></a></td>
-<td><b>vllm-project/vllm-omni</b> — 2 PRs: <a href="https://github.com/vllm-project/vllm-omni/pull/1385">L1 unit tests</a> · <a href="https://github.com/vllm-project/vllm-omni/pull/1384">L5 stability framework</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/superdoc-dev/superdoc"><img src="https://img.shields.io/badge/SuperDoc-6366F1?style=for-the-badge" height="28" /></a></td>
-<td><b>superdoc-dev/superdoc</b> — 2 PRs: <a href="https://github.com/superdoc-dev/superdoc/pull/2750">m:box/borderBox</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2743">column line rendering</a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/DeepCritical/DeepCritical"><img src="https://img.shields.io/badge/DeepCritical-DC382D?style=for-the-badge" height="28" /></a></td>
-<td><b>DeepCritical/DeepCritical</b> — <a href="https://github.com/DeepCritical/DeepCritical/pull/232">refactor: centralize model config</a></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/More-8B5CF6?style=for-the-badge" height="28" /></td>
-<td><b>+12 more</b> across marklubin/synix, OLC-Bioinformatics, REGOVAR, C3BI-pasteur-fr, alexkh/inforno, and others</td>
-</tr>
-</table>
-
-</div>
-
-</details>
-
-<div align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/Domains-Bioinformatics_·_AI_·_Document_Processing_·_Dev_Tools-00D9FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Domains-Bioinformatics_·_AI_Agents_·_Document_Processing_·_Dev_Tools-00D9FF?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
