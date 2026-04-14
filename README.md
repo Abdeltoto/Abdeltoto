@@ -808,57 +808,171 @@ Impact: "Zero manual intervention"
 
 <br>
 
+<img src="https://img.shields.io/badge/15_PRs_Merged-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/48_PRs_Total-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/66+_Public_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br><br>
+
 </div>
+
+<!-- MERGED PRs — TIER 1: HIGH-IMPACT -->
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="900">
 
-#### 🧬 Bioinformatics & Genomics
+<br>
 
-Forked and contributed to key tools in the bioinformatics ecosystem:
+### 🏆 Merged Contributions — Code in Production
 
-[![Biopython](https://img.shields.io/badge/Biopython-FFD43B?style=flat-square&logo=python&logoColor=black)](https://github.com/Abdeltoto/biopython)
-[![COWBAT](https://img.shields.io/badge/COWBAT-2ea44f?style=flat-square)](https://github.com/Abdeltoto/COWBAT)
-[![ConFindr](https://img.shields.io/badge/ConFindr-00D9FF?style=flat-square)](https://github.com/Abdeltoto/ConFindr)
-[![staramr](https://img.shields.io/badge/staramr-FF6B6B?style=flat-square)](https://github.com/Abdeltoto/staramr)
-[![SISTR](https://img.shields.io/badge/SISTR-8B5CF6?style=flat-square)](https://github.com/Abdeltoto/sistr_cmd)
-[![Neptune](https://img.shields.io/badge/Neptune-0467DF?style=flat-square)](https://github.com/Abdeltoto/neptune)
-[![Q2Pipe](https://img.shields.io/badge/Q2Pipe-FF7000?style=flat-square)](https://github.com/Abdeltoto/Q2Pipe)
-[![IRIDA](https://img.shields.io/badge/IRIDA-326CE5?style=flat-square)](https://github.com/Abdeltoto/irida)
-[![JBrowse 2](https://img.shields.io/badge/JBrowse_2-DC382D?style=flat-square)](https://github.com/Abdeltoto/jbrowse-components)
-[![metaProbiotics](https://img.shields.io/badge/metaProbiotics-059669?style=flat-square)](https://github.com/Abdeltoto/metaProbiotics)
-[![AutoBA](https://img.shields.io/badge/AutoBA-4B8BBE?style=flat-square)](https://github.com/Abdeltoto/autoba)
+<br>
 
+<!-- SUPERDOC -->
+<table>
+<tr>
+<td width="80" align="center">
+<a href="https://github.com/superdoc-dev/superdoc"><img src="https://img.shields.io/badge/SuperDoc-6366F1?style=for-the-badge" height="30" /></a>
 </td>
-<td width="50%" valign="top">
+<td>
+<b><a href="https://github.com/superdoc-dev/superdoc">superdoc-dev/superdoc</a></b> — Modern document editing<br>
+<img src="https://img.shields.io/badge/7_PRs_Merged-2ea44f?style=flat-square" />
+<img src="https://img.shields.io/badge/released_on_@next-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/community-FFD21E?style=flat-square&labelColor=0d1117" /><br>
+<sub>
+<a href="https://github.com/superdoc-dev/superdoc/pull/2754">m:eqArr</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2753">m:matrix</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2752">m:nary</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2751">m:groupChr</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2749">m:phant</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2748">m:acc</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2747">m:sPre</a>
+</sub>
+</td>
+</tr>
+</table>
 
-#### 🤖 AI, Agents & RAG
+<!-- PALANTIR -->
+<table>
+<tr>
+<td width="80" align="center">
+<a href="https://github.com/palantir/palantir-mcp"><img src="https://img.shields.io/badge/Palantir-1C1E21?style=for-the-badge&logo=palantir&logoColor=white" height="30" /></a>
+</td>
+<td>
+<b><a href="https://github.com/palantir/palantir-mcp">palantir/palantir-mcp</a></b> — Palantir MCP Server<br>
+<img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" />
+<img src="https://img.shields.io/badge/autorelease-00D9FF?style=flat-square" /><br>
+<sub><a href="https://github.com/palantir/palantir-mcp/pull/25">fix: add shell: true for Windows npx spawn compatibility</a></sub>
+</td>
+</tr>
+</table>
 
-Active contributor to the AI/agent tooling ecosystem:
+<!-- DEEPCRITICAL -->
+<table>
+<tr>
+<td width="80" align="center">
+<a href="https://github.com/DeepCritical/DeepCritical"><img src="https://img.shields.io/badge/DeepCritical-DC382D?style=for-the-badge" height="30" /></a>
+</td>
+<td>
+<b><a href="https://github.com/DeepCritical/DeepCritical">DeepCritical/DeepCritical</a></b> — AI-driven Critical Analysis for Drug Discovery<br>
+<img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
+<sub><a href="https://github.com/DeepCritical/DeepCritical/pull/231">feat: implement MAFFT multiple sequence alignment MCP server</a></sub>
+</td>
+</tr>
+</table>
 
-[![complex-RAG-guide](https://img.shields.io/badge/complex--RAG--guide-FF6B6B?style=flat-square)](https://github.com/Abdeltoto/complex-RAG-guide-AA)
-[![VideoRAG](https://img.shields.io/badge/VideoRAG-8B5CF6?style=flat-square)](https://github.com/Abdeltoto/VideoRAG_AA)
-[![vLLM-Omni](https://img.shields.io/badge/vLLM--Omni-00D9FF?style=flat-square)](https://github.com/Abdeltoto/vllm-omni_AA)
-[![everything-claude-code](https://img.shields.io/badge/everything--claude--code-D97757?style=flat-square)](https://github.com/Abdeltoto/everything-claude-code_AA)
-[![awesome-skills](https://img.shields.io/badge/900%2B_Agentic_Skills-FFD21E?style=flat-square)](https://github.com/Abdeltoto/antigravity-awesome-skills)
-[![Open-Sora](https://img.shields.io/badge/Open--Sora-0467DF?style=flat-square)](https://github.com/Abdeltoto/open-sora)
-[![Synix](https://img.shields.io/badge/Synix-2ea44f?style=flat-square)](https://github.com/Abdeltoto/synix)
-[![Palantir MCP](https://img.shields.io/badge/Palantir_MCP-1C3C3C?style=flat-square)](https://github.com/Abdeltoto/palantir-mcp)
-[![DeepCritical](https://img.shields.io/badge/DeepCritical-DC382D?style=flat-square)](https://github.com/Abdeltoto/DeepCritical__AA)
-[![Spec Kit](https://img.shields.io/badge/Spec_Kit-512BD4?style=flat-square)](https://github.com/Abdeltoto/spec-kit)
+<!-- PROBIOPED -->
+<table>
+<tr>
+<td width="80" align="center">
+<a href="https://github.com/microDM/ProBioPred"><img src="https://img.shields.io/badge/ProBioPred-059669?style=for-the-badge" height="30" /></a>
+</td>
+<td>
+<b><a href="https://github.com/microDM/ProBioPred">microDM/ProBioPred</a></b> — Probiotic Prediction Tool<br>
+<img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
+<sub><a href="https://github.com/microDM/ProBioPred/pull/1">Fix typos, add pyproject.toml, CONTRIBUTING.md and .gitignore</a></sub>
+</td>
+</tr>
+</table>
+
+<!-- AWESOME LISTS -->
+<table>
+<tr>
+<td width="80" align="center">
+<img src="https://img.shields.io/badge/Awesome-FC60A8?style=for-the-badge&logo=awesome-lists&logoColor=white" height="30" />
+</td>
+<td>
+<b>Awesome Curated Lists</b> — Community knowledge bases<br>
+<img src="https://img.shields.io/badge/2_PRs_Merged-2ea44f?style=flat-square" /><br>
+<sub><a href="https://github.com/danielecook/Awesome-Bioinformatics/pull/127">Awesome-Bioinformatics: Add Scanpy</a> · <a href="https://github.com/inoue0426/awesome-computational-biology/pull/50">awesome-computational-biology: Add EvoDiff</a></sub>
+</td>
+</tr>
+</table>
+
+<!-- GSD FOR CURSOR -->
+<table>
+<tr>
+<td width="80" align="center">
+<a href="https://github.com/rmindel/gsd-for-cursor"><img src="https://img.shields.io/badge/GSD-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30" /></a>
+</td>
+<td>
+<b><a href="https://github.com/rmindel/gsd-for-cursor">rmindel/gsd-for-cursor</a></b> — Meta-prompting system for Cursor IDE<br>
+<img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
+<sub><a href="https://github.com/rmindel/gsd-for-cursor/pull/3">fix: use ~/.cursor/ instead of ~/.claude/ in hooks</a></sub>
+</td>
+</tr>
+</table>
+
+<br>
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<!-- OPEN PRs — IN REVIEW -->
+<details>
+<summary><div align="center"><h3>🔄 Open PRs — Under Review</h3></div></summary>
+
 <div align="center">
 
 <br>
 
-<img src="https://img.shields.io/badge/66+_Public_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/60+_Forked_Contributions-2ea44f?style=for-the-badge&logo=gitfork&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Bioinformatics_&_AI-00D9FF?style=for-the-badge" />
+<table>
+<tr>
+<td align="center" width="130"><a href="https://github.com/biopython/biopython"><img src="https://img.shields.io/badge/Biopython-FFD43B?style=for-the-badge&logo=python&logoColor=black" height="28" /></a></td>
+<td><b>biopython/biopython</b> — 3 PRs: <a href="https://github.com/biopython/biopython/pull/5177">mmCIF obsolete handling</a> · <a href="https://github.com/biopython/biopython/pull/5176">AFDBList for AlphaFold</a> · <a href="https://github.com/biopython/biopython/pull/5175">assert→if/raise</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/GMOD/jbrowse-components"><img src="https://img.shields.io/badge/JBrowse_2-DC382D?style=for-the-badge" height="28" /></a></td>
+<td><b>GMOD/jbrowse-components</b> — 2 PRs: <a href="https://github.com/GMOD/jbrowse-components/pull/5526">pileup soft-clip layout</a> · <a href="https://github.com/GMOD/jbrowse-components/pull/5525">memory pruning</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/palantir/blueprint"><img src="https://img.shields.io/badge/Palantir_Blueprint-1C1E21?style=for-the-badge&logo=palantir&logoColor=white" height="28" /></a></td>
+<td><b>palantir/blueprint</b> — <a href="https://github.com/palantir/blueprint/pull/7890">feat: add bordered prop to Section</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/vllm-project/vllm-omni"><img src="https://img.shields.io/badge/vLLM_Omni-00D9FF?style=for-the-badge" height="28" /></a></td>
+<td><b>vllm-project/vllm-omni</b> — 2 PRs: <a href="https://github.com/vllm-project/vllm-omni/pull/1385">L1 unit tests</a> · <a href="https://github.com/vllm-project/vllm-omni/pull/1384">L5 stability framework</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/superdoc-dev/superdoc"><img src="https://img.shields.io/badge/SuperDoc-6366F1?style=for-the-badge" height="28" /></a></td>
+<td><b>superdoc-dev/superdoc</b> — 2 PRs: <a href="https://github.com/superdoc-dev/superdoc/pull/2750">m:box/borderBox</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2743">column line rendering</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/DeepCritical/DeepCritical"><img src="https://img.shields.io/badge/DeepCritical-DC382D?style=for-the-badge" height="28" /></a></td>
+<td><b>DeepCritical/DeepCritical</b> — <a href="https://github.com/DeepCritical/DeepCritical/pull/232">refactor: centralize model config</a></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/More-8B5CF6?style=for-the-badge" height="28" /></td>
+<td><b>+12 more</b> across marklubin/synix, OLC-Bioinformatics, REGOVAR, C3BI-pasteur-fr, alexkh/inforno, and others</td>
+</tr>
+</table>
+
+</div>
+
+</details>
+
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/Domains-Bioinformatics_·_AI_·_Document_Processing_·_Dev_Tools-00D9FF?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
