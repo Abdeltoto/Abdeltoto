@@ -1,5 +1,5 @@
 ﻿<!-- 🎨 CAPSULE RENDER - HEADER -->
-<img src="https://raw.githubusercontent.com/Abdeltoto/Abdeltoto/main/hero.svg" alt="Abdel Atia — AI Architect · PhD · DMV" width="100%" />
+<img src="hero.svg" alt="Abdel Atia — AI Architect · PhD · DMV" width="100%" />
 
 <div align="center">
 
