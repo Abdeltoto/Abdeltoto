@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Abdel Atia  AI Architect, PhD, DMV">
+  <defs>
+    <!-- Chrome metallic gradient: bright top, dark mid-band, bright bottom -->
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#ffffff"/>
+      <stop offset="18%" stop-color="#e2e8f0"/>
+      <stop offset="38%" stop-color="#94a3b8"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="62%" stop-color="#94a3b8"/>
+      <stop offset="82%" stop-color="#e2e8f0"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <!-- Iridescent overlay for subtle holographic tint on the chrome -->
+    <linearGradient id="iridescent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#FF6B6B" stop-opacity="0.45"/>
+      <stop offset="33%"  stop-color="#8B5CF6" stop-opacity="0.45"/>
+      <stop offset="66%"  stop-color="#00D9FF" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2ea44f" stop-opacity="0.45"/>
+    </linearGradient>
+
+    <!-- Accent gradient for subtitle -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#00D9FF"/>
+      <stop offset="50%"  stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#FF6B6B"/>
+    </linearGradient>
+
+    <!-- Frame gradient line -->
+    <linearGradient id="frameLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#FF6B6B" stop-opacity="0"/>
+      <stop offset="15%"  stop-color="#FF6B6B" stop-opacity="0.85"/>
+      <stop offset="40%"  stop-color="#8B5CF6"/>
+      <stop offset="60%"  stop-color="#00D9FF"/>
+      <stop offset="85%"  stop-color="#2ea44f" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#FFD21E" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Lift shadow for both light & dark backgrounds -->
+    <filter id="lift" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+
+    <!-- Shimmer sweep gradient (animated) -->
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="48%"  stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="52%"  stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+                        from="-1400 0" to="1400 0" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Frame: top double line -->
+  <line x1="60"   y1="50" x2="1140" y2="50" stroke="url(#frameLine)" stroke-width="1"/>
+  <line x1="60"   y1="53" x2="1140" y2="53" stroke="url(#frameLine)" stroke-width="0.6" opacity="0.55"/>
+
+  <!-- Corner brackets -->
+  <path d="M 60 85 L 60 50 L 95 50"      fill="none" stroke="#FF6B6B" stroke-width="2" stroke-linecap="square"/>
+  <path d="M 1140 85 L 1140 50 L 1105 50" fill="none" stroke="#FFD21E" stroke-width="2" stroke-linecap="square"/>
+  <path d="M 60 195 L 60 230 L 95 230"     fill="none" stroke="#8B5CF6" stroke-width="2" stroke-linecap="square"/>
+  <path d="M 1140 195 L 1140 230 L 1105 230" fill="none" stroke="#00D9FF" stroke-width="2" stroke-linecap="square"/>
+
+  <!-- Title: chrome base + iridescent tint + animated shimmer overlay -->
+  <g filter="url(#lift)">
+    <text x="600" y="150" font-family="Helvetica, Arial, sans-serif" font-size="92"
+          font-weight="900" letter-spacing="6" text-anchor="middle"
+          fill="url(#chrome)" stroke="#0f172a" stroke-width="1" paint-order="stroke fill">
+      ABDEL ATIA
+    </text>
+    <text x="600" y="150" font-family="Helvetica, Arial, sans-serif" font-size="92"
+          font-weight="900" letter-spacing="6" text-anchor="middle"
+          fill="url(#iridescent)" opacity="0.4">
+      ABDEL ATIA
+    </text>
+    <text x="600" y="150" font-family="Helvetica, Arial, sans-serif" font-size="92"
+          font-weight="900" letter-spacing="6" text-anchor="middle"
+          fill="url(#shimmer)">
+      ABDEL ATIA
+    </text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="600" y="195" font-family="Helvetica, Arial, sans-serif" font-size="20"
+        font-weight="600" letter-spacing="8" text-anchor="middle"
+        fill="url(#accent)">
+    AI ARCHITECT  ·  PhD  ·  DMV
+  </text>
+
+  <!-- Frame: bottom double line -->
+  <line x1="60"   y1="230" x2="1140" y2="230" stroke="url(#frameLine)" stroke-width="1"/>
+  <line x1="60"   y1="233" x2="1140" y2="233" stroke="url(#frameLine)" stroke-width="0.6" opacity="0.55"/>
+</svg>
