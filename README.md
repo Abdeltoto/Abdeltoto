@@ -22,26 +22,29 @@
 <!-- IDENTITY BADGES -->
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🎓_PhD-Biopharmaceutics-8B5CF6?style=for-the-badge&labelColor=0d1117" /></td>
-<td align="center"><img src="https://img.shields.io/badge/🩺_DMV-Veterinary_Medicine-2ea44f?style=for-the-badge&labelColor=0d1117" /></td>
+<td align="center"><img src="https://img.shields.io/badge/🎓_PhD-Biopharmaceutics-8B5CF6?style=for-the-badge&labelColor=24292e" /></td>
+<td align="center"><img src="https://img.shields.io/badge/🩺_DMV-Veterinary_Medicine-2ea44f?style=for-the-badge&labelColor=24292e" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/💻_Coder-Since_Childhood-00D9FF?style=for-the-badge&labelColor=0d1117" /></td>
-<td align="center"><img src="https://img.shields.io/badge/🤖_AI-Architect-FF6B6B?style=for-the-badge&labelColor=0d1117" /></td>
+<td align="center"><img src="https://img.shields.io/badge/💻_Coder-Since_Childhood-00D9FF?style=for-the-badge&labelColor=24292e" /></td>
+<td align="center"><img src="https://img.shields.io/badge/🤖_AI-Architect-FF6B6B?style=for-the-badge&labelColor=24292e" /></td>
 </tr>
 </table>
 
 <!-- LIVE COUNTERS -->
 <img src="https://komarev.com/ghpvc/?username=Abdeltoto&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-RAG_&_AGENTS-00D9FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FOCUS-RAG_&_AGENTS-00D9FF?style=for-the-badge&labelColor=24292e" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-58A6FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-58A6FF?style=for-the-badge&labelColor=24292e" />
 
 <br><br>
 
 <!-- HERO QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20don't%20replace%20humans.%20I%20give%20them%20superpowers.&author=Abdel%20Atia" width="70%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20don't%20replace%20humans.%20I%20give%20them%20superpowers.&author=Abdel%20Atia">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=I%20don't%20replace%20humans.%20I%20give%20them%20superpowers.&author=Abdel%20Atia" width="70%" />
+</picture>
 
 </div>
 
@@ -202,18 +205,18 @@ const ABDEL_ATIA = {
 <br>
 
 <img src="https://img.shields.io/badge/Merged_PRs-15-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Upstream_OSS-13-00D9FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Public_repos-71-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Upstream_OSS-13-00D9FF?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Public_repos-71-8B5CF6?style=for-the-badge&labelColor=24292e" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🚀_Shipped_today-SuperDoc_v1.27.0_·_2026--04--17-FF6B6B?style=flat-square&logoColor=white&labelColor=0d1117" />
-<a href="https://github.com/superdoc-dev/superdoc/releases/tag/v1.27.0"><img src="https://img.shields.io/badge/view_release-6366F1?style=flat-square&labelColor=0d1117" /></a>
+<img src="https://img.shields.io/badge/🚀_Shipped_today-SuperDoc_v1.27.0_·_2026--04--17-FF6B6B?style=flat-square&logoColor=white&labelColor=24292e" />
+<a href="https://github.com/superdoc-dev/superdoc/releases/tag/v1.27.0"><img src="https://img.shields.io/badge/view_release-6366F1?style=flat-square&labelColor=24292e" /></a>
 <br>
 <sub>My OMML→MathML converters (radical/sqrt, group char, phantom, n-ary, eqArr, accents, pre-sub, limits) are in the v1.27.0 stable release notes.</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Last_upstream_merge-2026--04--14_·_superdoc__2753-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=0d1117" />
-<a href="https://github.com/superdoc-dev/superdoc/pull/2753"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=0d1117" /></a>
+<img src="https://img.shields.io/badge/Last_upstream_merge-2026--04--14_·_superdoc__2753-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
+<a href="https://github.com/superdoc-dev/superdoc/pull/2753"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
 
 <br>
 <sub>Snapshot: April 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 13 PRs merged into third-party repos + 2 on my own public repos (below)</sub>
@@ -239,7 +242,7 @@ const ABDEL_ATIA = {
 <td>
 <b><a href="https://github.com/superdoc-dev/superdoc">superdoc-dev/superdoc</a></b><br>
 <img src="https://img.shields.io/badge/7_PRs_Merged-2ea44f?style=flat-square" />
-<a href="https://github.com/superdoc-dev/superdoc/releases/tag/v1.27.0"><img src="https://img.shields.io/badge/shipped_in_v1.27.0-FF6B6B?style=flat-square&labelColor=0d1117" /></a><br>
+<a href="https://github.com/superdoc-dev/superdoc/releases/tag/v1.27.0"><img src="https://img.shields.io/badge/shipped_in_v1.27.0-FF6B6B?style=flat-square&labelColor=24292e" /></a><br>
 <sub>Built the full OMML → MathML conversion layer: equation arrays, matrices, n-ary operators, group characters, phantoms, accents, and pre-sub-superscripts. Enables Word math equations to render natively in the browser. <b>Featured in the v1.27.0 stable release notes (2026-04-17).</b></sub><br>
 <sub>
 <a href="https://github.com/superdoc-dev/superdoc/pull/2754">#2754</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2753">#2753</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2752">#2752</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2751">#2751</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2749">#2749</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2748">#2748</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2747">#2747</a>
@@ -336,7 +339,7 @@ const ABDEL_ATIA = {
 <table>
 <tr>
 <td width="80" align="center">
-<a href="https://github.com/Abdeltoto/vllm-omni_AA"><img src="https://img.shields.io/badge/vllm--omni-00D9FF?style=for-the-badge&labelColor=0d1117" height="30" /></a>
+<a href="https://github.com/Abdeltoto/vllm-omni_AA"><img src="https://img.shields.io/badge/vllm--omni-00D9FF?style=for-the-badge&labelColor=24292e" height="30" /></a>
 </td>
 <td>
 <b><a href="https://github.com/Abdeltoto/vllm-omni_AA">Abdeltoto/vllm-omni_AA</a></b><br>
@@ -348,7 +351,7 @@ const ABDEL_ATIA = {
 <table>
 <tr>
 <td width="80" align="center">
-<a href="https://github.com/Abdeltoto/FacilityMapper_dbg"><img src="https://img.shields.io/badge/FacilityMapper-8B5CF6?style=for-the-badge&labelColor=0d1117" height="30" /></a>
+<a href="https://github.com/Abdeltoto/FacilityMapper_dbg"><img src="https://img.shields.io/badge/FacilityMapper-8B5CF6?style=for-the-badge&labelColor=24292e" height="30" /></a>
 </td>
 <td>
 <b><a href="https://github.com/Abdeltoto/FacilityMapper_dbg">Abdeltoto/FacilityMapper_dbg</a></b><br>
@@ -365,7 +368,7 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="https://img.shields.io/badge/Domains-Bioinformatics_·_AI_Agents_·_Document_Processing_·_Dev_Tools-00D9FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Domains-Bioinformatics_·_AI_Agents_·_Document_Processing_·_Dev_Tools-00D9FF?style=for-the-badge&labelColor=24292e" />
 
 </div>
 
@@ -451,21 +454,21 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="https://img.shields.io/badge/RAG_Expert-FF6B6B?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Agentic_AI-00D9FF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CrewAI-00D9FF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AutoGen-4B8BBE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Vector_Stores-FFD21E?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF7000?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-2ea44f?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/RAG_Expert-FF6B6B?style=flat-square&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Agentic_AI-00D9FF?style=flat-square&labelColor=24292e" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=24292e" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&labelColor=24292e" />
+<img src="https://img.shields.io/badge/CrewAI-00D9FF?style=flat-square&labelColor=24292e" />
+<img src="https://img.shields.io/badge/AutoGen-4B8BBE?style=flat-square&labelColor=24292e" />
+<img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Vector_Stores-FFD21E?style=flat-square&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF7000?style=flat-square&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-2ea44f?style=flat-square&labelColor=24292e" />
 
 <br><br>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/D5RCNV6UDKYT">
-  <img src="https://img.shields.io/badge/🔗_VERIFY_CREDENTIAL-D5RCNV6UDKYT-054ADA?style=for-the-badge&labelColor=0d1117" height="35" />
+  <img src="https://img.shields.io/badge/🔗_VERIFY_CREDENTIAL-D5RCNV6UDKYT-054ADA?style=for-the-badge&labelColor=24292e" height="35" />
 </a>
 
 <br><br>
@@ -517,28 +520,28 @@ const ABDEL_ATIA = {
 <br>
 
 <a href="https://cs50.harvard.edu/certificates/ca0bc491-2159-45cb-86c3-096971bd64ba">
-  <img src="https://img.shields.io/badge/🔗_CS50x-A51C30?style=for-the-badge&labelColor=0d1117" height="28" />
+  <img src="https://img.shields.io/badge/🔗_CS50x-A51C30?style=for-the-badge&labelColor=24292e" height="28" />
 </a>
 <a href="https://cs50.harvard.edu/certificates/baf370d3-fba5-4786-81d1-67e191248236">
-  <img src="https://img.shields.io/badge/🔗_CS50P-A51C30?style=for-the-badge&labelColor=0d1117" height="28" />
+  <img src="https://img.shields.io/badge/🔗_CS50P-A51C30?style=for-the-badge&labelColor=24292e" height="28" />
 </a>
 <a href="https://cs50.harvard.edu/certificates/112b4e54-bacf-405c-92f7-0bca16685f80">
-  <img src="https://img.shields.io/badge/🔗_CS50_SQL-A51C30?style=for-the-badge&labelColor=0d1117" height="28" />
+  <img src="https://img.shields.io/badge/🔗_CS50_SQL-A51C30?style=for-the-badge&labelColor=24292e" height="28" />
 </a>
 <a href="https://cs50.harvard.edu/certificates/04d752f4-c970-4a2f-81ee-a3a053b6d472">
-  <img src="https://img.shields.io/badge/🔗_CS50AI-A51C30?style=for-the-badge&labelColor=0d1117" height="28" />
+  <img src="https://img.shields.io/badge/🔗_CS50AI-A51C30?style=for-the-badge&labelColor=24292e" height="28" />
 </a>
 
 <br>
 
 <a href="https://cs50.harvard.edu/certificates/b5c43bab-edc7-4638-a799-45a7357709de">
-  <img src="https://img.shields.io/badge/🔗_CS50W-A51C30?style=for-the-badge&labelColor=0d1117" height="28" />
+  <img src="https://img.shields.io/badge/🔗_CS50W-A51C30?style=for-the-badge&labelColor=24292e" height="28" />
 </a>
 <a href="https://cs50.harvard.edu/certificates/5cd2523d-96e5-400e-866c-385dfe1e6f81">
-  <img src="https://img.shields.io/badge/🔗_CS50R-A51C30?style=for-the-badge&labelColor=0d1117" height="28" />
+  <img src="https://img.shields.io/badge/🔗_CS50R-A51C30?style=for-the-badge&labelColor=24292e" height="28" />
 </a>
 <a href="https://cs50.harvard.edu/certificates/26bd53fc-604c-446e-b103-d8d759827d16">
-  <img src="https://img.shields.io/badge/🔗_CS50_Cybersecurity-A51C30?style=for-the-badge&labelColor=0d1117" height="28" />
+  <img src="https://img.shields.io/badge/🔗_CS50_Cybersecurity-A51C30?style=for-the-badge&labelColor=24292e" height="28" />
 </a>
 
 <br><br>
@@ -584,7 +587,10 @@ timeline
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,c,r,js,ts,html,css,bash,docker,kubernetes,aws,gcp,git,github,linux,vscode,postgres,redis,mongodb,flask,fastapi,django,pytorch,tensorflow,sqlite&perline=13&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,r,js,ts,html,css,bash,docker,kubernetes,aws,gcp,git,github,linux,vscode,postgres,redis,mongodb,flask,fastapi,django,pytorch,tensorflow,sqlite&perline=13&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python,c,r,js,ts,html,css,bash,docker,kubernetes,aws,gcp,git,github,linux,vscode,postgres,redis,mongodb,flask,fastapi,django,pytorch,tensorflow,sqlite&perline=13&theme=light" />
+</picture>
 
 <br><br>
 
@@ -870,7 +876,7 @@ timeline
 
 #### 🔍 Enterprise RAG Platform
 
-![](https://img.shields.io/badge/🟢_PRODUCTION-00D9FF?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🟢_PRODUCTION-00D9FF?style=for-the-badge&labelColor=24292e)
 
 </div>
 
@@ -896,7 +902,7 @@ Impact: "90% faster research"
 
 #### 🤖 Multi-Agent Research System
 
-![](https://img.shields.io/badge/🟢_DEPLOYED-58A6FF?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🟢_DEPLOYED-58A6FF?style=for-the-badge&labelColor=24292e)
 
 </div>
 
@@ -924,7 +930,7 @@ Impact: "20h/week automated"
 
 #### 🧬 SeqDNA 16S — DNA Sequencing Platform
 
-![](https://img.shields.io/badge/🟢_ACTIVE-8B5CF6?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🟢_ACTIVE-8B5CF6?style=for-the-badge&labelColor=24292e)
 
 </div>
 
@@ -953,7 +959,7 @@ Impact: "FASTQ → Species ID in minutes"
 
 #### ⚡ Intelligent Pipelines
 
-![](https://img.shields.io/badge/🟢_OPTIMIZED-FF6B6B?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🟢_OPTIMIZED-FF6B6B?style=for-the-badge&labelColor=24292e)
 
 </div>
 
@@ -993,31 +999,55 @@ Impact: "Zero manual intervention"
 <br>
 
 <!-- GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=Abdeltoto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Abdeltoto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdeltoto&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+</picture>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdeltoto&theme=tokyonight" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdeltoto&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdeltoto&theme=default" height="180" />
+</picture>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdeltoto&theme=tokyonight" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdeltoto&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdeltoto&theme=default" height="180" />
+</picture>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Abdeltoto&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=444c56" width="60%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Abdeltoto&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=444c56">
+  <img src="https://streak-stats.demolab.com/?user=Abdeltoto&theme=default&hide_border=true&background=ffffff&ring=0969DA&fire=FF6B6B&currStreakLabel=0969DA&sideLabels=24292e&dates=586069" width="60%" />
+</picture>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdeltoto&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&area_color=00D9FF" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abdeltoto&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&area_color=00D9FF">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdeltoto&bg_color=ffffff&color=0969DA&line=0969DA&point=FF6B6B&area=true&hide_border=true&area_color=0969DA" width="95%" />
+</picture>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdeltoto&theme=tokyonight" width="70%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdeltoto&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdeltoto&theme=default" width="70%" />
+</picture>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdeltoto&theme=tokyonight" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdeltoto&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdeltoto&theme=default" height="180" />
+</picture>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdeltoto&theme=tokyonight&utcOffset=1" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdeltoto&theme=tokyonight&utcOffset=1">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdeltoto&theme=default&utcOffset=1" height="180" />
+</picture>
 
 </div>
 
