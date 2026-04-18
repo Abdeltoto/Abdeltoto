@@ -1,32 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Abdel Atia - AI Architect, PhD, DMV">
   <defs>
     <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#ffffff"/>
-      <stop offset="18%"  stop-color="#e2e8f0"/>
-      <stop offset="38%"  stop-color="#94a3b8"/>
-      <stop offset="50%"  stop-color="#1e293b"/>
-      <stop offset="62%"  stop-color="#94a3b8"/>
-      <stop offset="82%"  stop-color="#e2e8f0"/>
+      <stop offset="0%"  stop-color="#ffffff"/>
+      <stop offset="18%" stop-color="#e2e8f0"/>
+      <stop offset="38%" stop-color="#94a3b8">
+        <animate attributeName="offset" values="0.38;0.30;0.38" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#1e293b">
+        <animate attributeName="offset" values="0.50;0.55;0.50" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="62%" stop-color="#94a3b8">
+        <animate attributeName="offset" values="0.62;0.70;0.62" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="82%" stop-color="#e2e8f0"/>
       <stop offset="100%" stop-color="#ffffff"/>
     </linearGradient>
 
-    <linearGradient id="chromeHighlight" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.85"/>
-      <stop offset="45%"  stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="55%"  stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.4"/>
+    <linearGradient id="iridescent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF6B6B" stop-opacity="0.45">
+        <animate attributeName="stop-color" values="#FF6B6B;#8B5CF6;#00D9FF;#FF6B6B" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.45">
+        <animate attributeName="stop-color" values="#8B5CF6;#00D9FF;#FF6B6B;#8B5CF6" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0.45">
+        <animate attributeName="stop-color" values="#00D9FF;#FF6B6B;#8B5CF6;#00D9FF" dur="9s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
 
-    <linearGradient id="iridescent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%"   stop-color="#FF6B6B" stop-opacity="0.45"/>
-      <stop offset="33%"  stop-color="#8B5CF6" stop-opacity="0.45"/>
-      <stop offset="66%"  stop-color="#00D9FF" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#2ea44f" stop-opacity="0.45"/>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0"    stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5"  stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1"    stop-color="#ffffff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1200 0" to="1200 0" dur="4s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="#00D9FF"/>
-      <stop offset="50%"  stop-color="#8B5CF6"/>
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
       <stop offset="100%" stop-color="#FF6B6B"/>
     </linearGradient>
 
@@ -39,6 +52,14 @@
       <stop offset="100%" stop-color="#FFD21E" stop-opacity="0"/>
     </linearGradient>
 
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
     <filter id="lift" x="-10%" y="-30%" width="120%" height="160%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
       <feOffset dx="0" dy="3"/>
@@ -48,33 +69,70 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <clipPath id="titleClip">
+      <text x="600" y="150" font-family="Helvetica, Arial, sans-serif" font-size="92"
+            font-weight="900" letter-spacing="6" text-anchor="middle">ABDEL ATIA</text>
+    </clipPath>
   </defs>
 
-  <line x1="60" y1="50" x2="1140" y2="50" stroke="url(#frameLine)" stroke-width="1"/>
+  <line x1="60" y1="50" x2="1140" y2="50" stroke="url(#frameLine)" stroke-width="1">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </line>
   <line x1="60" y1="53" x2="1140" y2="53" stroke="url(#frameLine)" stroke-width="0.6" opacity="0.55"/>
 
-  <path d="M 60 85 L 60 50 L 95 50"        fill="none" stroke="#FF6B6B" stroke-width="2"/>
-  <path d="M 1140 85 L 1140 50 L 1105 50"  fill="none" stroke="#FFD21E" stroke-width="2"/>
-  <path d="M 60 195 L 60 230 L 95 230"     fill="none" stroke="#8B5CF6" stroke-width="2"/>
-  <path d="M 1140 195 L 1140 230 L 1105 230" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <g filter="url(#glow)">
+    <path d="M 60 85 L 60 50 L 95 50" fill="none" stroke="#FF6B6B" stroke-width="2">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 1140 85 L 1140 50 L 1105 50" fill="none" stroke="#FFD21E" stroke-width="2">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" begin="0.75s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 60 195 L 60 230 L 95 230" fill="none" stroke="#8B5CF6" stroke-width="2">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 1140 195 L 1140 230 L 1105 230" fill="none" stroke="#00D9FF" stroke-width="2">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" begin="2.25s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g>
+    <circle cx="200" cy="100" r="2.5" fill="#FF6B6B">
+      <animate attributeName="cy" values="100;82;100" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="180" r="2" fill="#8B5CF6">
+      <animate attributeName="cy" values="180;162;180" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="100" r="2.5" fill="#00D9FF">
+      <animate attributeName="cy" values="100;118;100" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="190" r="2" fill="#2ea44f">
+      <animate attributeName="cy" values="190;208;190" dur="6.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="200" r="1.5" fill="#FFD21E">
+      <animate attributeName="cx" values="150;185;150" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="90" r="1.5" fill="#FF6B6B">
+      <animate attributeName="cx" values="1050;1015;1050" dur="7.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
   <g filter="url(#lift)">
     <text x="600" y="150" font-family="Helvetica, Arial, sans-serif" font-size="92"
           font-weight="900" letter-spacing="6" text-anchor="middle"
-          fill="url(#chrome)" stroke="#0f172a" stroke-width="1">
-      ABDEL ATIA
-    </text>
+          fill="url(#chrome)" stroke="#0f172a" stroke-width="1">ABDEL ATIA</text>
     <text x="600" y="150" font-family="Helvetica, Arial, sans-serif" font-size="92"
           font-weight="900" letter-spacing="6" text-anchor="middle"
-          fill="url(#iridescent)" opacity="0.4">
-      ABDEL ATIA
-    </text>
-    <text x="600" y="150" font-family="Helvetica, Arial, sans-serif" font-size="92"
-          font-weight="900" letter-spacing="6" text-anchor="middle"
-          fill="url(#chromeHighlight)" opacity="0.6">
-      ABDEL ATIA
-    </text>
+          fill="url(#iridescent)" opacity="0.4">ABDEL ATIA</text>
   </g>
+
+  <rect x="0" y="80" width="1200" height="100" fill="url(#scan)" clip-path="url(#titleClip)"/>
 
   <text x="600" y="195" font-family="Helvetica, Arial, sans-serif" font-size="20"
         font-weight="600" letter-spacing="8" text-anchor="middle"
@@ -82,6 +140,8 @@
     AI ARCHITECT  &#183;  PhD  &#183;  DMV
   </text>
 
-  <line x1="60" y1="230" x2="1140" y2="230" stroke="url(#frameLine)" stroke-width="1"/>
+  <line x1="60" y1="230" x2="1140" y2="230" stroke="url(#frameLine)" stroke-width="1">
+    <animate attributeName="opacity" values="1;0.6;1" dur="4s" repeatCount="indefinite"/>
+  </line>
   <line x1="60" y1="233" x2="1140" y2="233" stroke="url(#frameLine)" stroke-width="0.6" opacity="0.55"/>
 </svg>
