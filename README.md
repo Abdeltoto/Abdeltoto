@@ -204,8 +204,8 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="https://img.shields.io/badge/Merged_PRs-15-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Upstream_OSS-13-00D9FF?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Merged_PRs-16-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Upstream_OSS-14-00D9FF?style=for-the-badge&labelColor=24292e" />
 <img src="https://img.shields.io/badge/Public_repos-71-8B5CF6?style=for-the-badge&labelColor=24292e" />
 
 <br>
@@ -219,7 +219,7 @@ const ABDEL_ATIA = {
 <a href="https://github.com/superdoc-dev/superdoc/pull/2753"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
 
 <br>
-<sub>Snapshot: April 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 13 PRs merged into third-party repos + 2 on my own public repos (below)</sub>
+<sub>Snapshot: April 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 14 PRs merged into third-party repos + 2 on my own public repos (below)</sub>
 
 <br><br>
 
@@ -241,11 +241,11 @@ const ABDEL_ATIA = {
 </td>
 <td>
 <b><a href="https://github.com/superdoc-dev/superdoc">superdoc-dev/superdoc</a></b><br>
-<img src="https://img.shields.io/badge/7_PRs_Merged-2ea44f?style=flat-square" />
+<img src="https://img.shields.io/badge/8_PRs_Merged-2ea44f?style=flat-square" />
 <a href="https://github.com/superdoc-dev/superdoc/releases/tag/v1.27.0"><img src="https://img.shields.io/badge/shipped_in_v1.27.0-FF6B6B?style=flat-square&labelColor=24292e" /></a><br>
-<sub>Built the full OMML → MathML conversion layer: equation arrays, matrices, n-ary operators, group characters, phantoms, accents, and pre-sub-superscripts. Enables Word math equations to render natively in the browser. <b>Featured in the v1.27.0 stable release notes (2026-04-17).</b></sub><br>
+<sub>Built the full OMML → MathML conversion layer: equation arrays, matrices, n-ary operators, group characters, phantoms, accents, pre-sub-superscripts, and box/borderBox containers. Enables Word math equations to render natively in the browser. <b>Featured in the v1.27.0 stable release notes (2026-04-17).</b></sub><br>
 <sub>
-<a href="https://github.com/superdoc-dev/superdoc/pull/2754">#2754</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2753">#2753</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2752">#2752</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2751">#2751</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2749">#2749</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2748">#2748</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2747">#2747</a>
+<a href="https://github.com/superdoc-dev/superdoc/pull/2754">#2754</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2753">#2753</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2752">#2752</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2751">#2751</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2750">#2750</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2749">#2749</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2748">#2748</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2747">#2747</a>
 </sub>
 </td>
 </tr>
