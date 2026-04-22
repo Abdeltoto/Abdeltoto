@@ -227,19 +227,14 @@ const ABDEL_ATIA = {
 
 <!-- MERGED CONTRIBUTIONS -->
 
-<table>
-<tr>
-<td align="center" width="900">
-
-<br>
-
 <!-- SUPERDOC -->
 <table>
 <tr>
-<td width="80" align="center">
-<a href="https://github.com/superdoc-dev/superdoc"><img src="https://img.shields.io/badge/SuperDoc-6366F1?style=for-the-badge" height="30" /></a>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/superdoc-dev/superdoc"><img src="https://img.shields.io/badge/SuperDoc-6366F1?style=for-the-badge" height="40" /></a>
 </td>
-<td>
+<td align="left">
 <b><a href="https://github.com/superdoc-dev/superdoc">superdoc-dev/superdoc</a></b><br>
 <img src="https://img.shields.io/badge/8_PRs_Merged-2ea44f?style=flat-square" />
 <a href="https://github.com/superdoc-dev/superdoc/releases/tag/v1.27.0"><img src="https://img.shields.io/badge/shipped_in_v1.27.0-FF6B6B?style=flat-square&labelColor=24292e" /></a><br>
@@ -254,10 +249,11 @@ const ABDEL_ATIA = {
 <!-- PALANTIR -->
 <table>
 <tr>
-<td width="80" align="center">
-<a href="https://github.com/palantir/palantir-mcp"><img src="https://img.shields.io/badge/Palantir-1C1E21?style=for-the-badge&logo=palantir&logoColor=white" height="30" /></a>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/palantir/palantir-mcp"><img src="https://img.shields.io/badge/Palantir-1C1E21?style=for-the-badge&logo=palantir&logoColor=white" height="40" /></a>
 </td>
-<td>
+<td align="left">
 <b><a href="https://github.com/palantir/palantir-mcp">palantir/palantir-mcp</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
 <sub>Fixed cross-platform compatibility — Palantir's MCP server couldn't spawn on Windows. Added <code>shell: true</code> to the npx child process, unblocking all Windows developers.</sub><br>
@@ -269,10 +265,11 @@ const ABDEL_ATIA = {
 <!-- DEEPCRITICAL -->
 <table>
 <tr>
-<td width="80" align="center">
-<a href="https://github.com/DeepCritical/DeepCritical"><img src="https://img.shields.io/badge/DeepCritical-DC382D?style=for-the-badge" height="30" /></a>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/DeepCritical/DeepCritical"><img src="https://img.shields.io/badge/DeepCritical-DC382D?style=for-the-badge" height="40" /></a>
 </td>
-<td>
+<td align="left">
 <b><a href="https://github.com/DeepCritical/DeepCritical">DeepCritical/DeepCritical</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
 <sub>Implemented a full MCP server for MAFFT multiple sequence alignment — bridging bioinformatics tooling with the AI agent ecosystem. Allows LLM agents to run protein/DNA alignments autonomously.</sub><br>
@@ -284,10 +281,11 @@ const ABDEL_ATIA = {
 <!-- PROBIOPED -->
 <table>
 <tr>
-<td width="80" align="center">
-<a href="https://github.com/microDM/ProBioPred"><img src="https://img.shields.io/badge/ProBioPred-059669?style=for-the-badge" height="30" /></a>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/microDM/ProBioPred"><img src="https://img.shields.io/badge/ProBioPred-059669?style=for-the-badge" height="40" /></a>
 </td>
-<td>
+<td align="left">
 <b><a href="https://github.com/microDM/ProBioPred">microDM/ProBioPred</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
 <sub>Modernized the project scaffolding — added <code>pyproject.toml</code>, <code>CONTRIBUTING.md</code>, and <code>.gitignore</code> to make this probiotic prediction tool pip-installable and contributor-friendly.</sub><br>
@@ -299,10 +297,11 @@ const ABDEL_ATIA = {
 <!-- AWESOME LISTS -->
 <table>
 <tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/Awesome-FC60A8?style=for-the-badge&logo=awesome-lists&logoColor=white" height="30" />
+<td width="140" align="left" valign="top">
+<br>
+<img src="https://img.shields.io/badge/Awesome-FC60A8?style=for-the-badge&logo=awesome-lists&logoColor=white" height="40" />
 </td>
-<td>
+<td align="left">
 <b>Awesome Bioinformatics & Computational Biology</b><br>
 <img src="https://img.shields.io/badge/2_PRs_Merged-2ea44f?style=flat-square" /><br>
 <sub>Enriched two major curated lists used by thousands of researchers — added Scanpy (the standard scRNA-seq toolkit) and EvoDiff (protein generation via diffusion models).</sub><br>
@@ -314,10 +313,11 @@ const ABDEL_ATIA = {
 <!-- GSD FOR CURSOR -->
 <table>
 <tr>
-<td width="80" align="center">
-<a href="https://github.com/rmindel/gsd-for-cursor"><img src="https://img.shields.io/badge/GSD-000000?style=for-the-badge&logo=cursor&logoColor=white" height="30" /></a>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/rmindel/gsd-for-cursor"><img src="https://img.shields.io/badge/GSD-000000?style=for-the-badge&logo=cursor&logoColor=white" height="40" /></a>
 </td>
-<td>
+<td align="left">
 <b><a href="https://github.com/rmindel/gsd-for-cursor">rmindel/gsd-for-cursor</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
 <sub>Fixed broken hooks path — the Cursor IDE adaptation was still pointing to <code>~/.claude/</code> instead of <code>~/.cursor/</code>, causing silent failures for all Cursor users.</sub><br>
@@ -326,40 +326,31 @@ const ABDEL_ATIA = {
 </tr>
 </table>
 
+<!-- OWN PUBLIC REPOS -->
+<table>
+<tr>
+<td width="140" align="left" valign="top">
 <br>
-
+<a href="https://github.com/Abdeltoto/vllm-omni_AA"><img src="https://img.shields.io/badge/vLLM_Omni-00D9FF?style=for-the-badge&labelColor=24292e" height="40" /></a>
 </td>
-</tr>
-</table>
-
-<!-- OWN PUBLIC REPOS (merged PRs — tooling & hygiene) -->
-<table>
-<tr>
-<td align="center" width="900">
-<table>
-<tr>
-<td width="80" align="center">
-<a href="https://github.com/Abdeltoto/vllm-omni_AA"><img src="https://img.shields.io/badge/vllm--omni-00D9FF?style=for-the-badge&labelColor=24292e" height="30" /></a>
-</td>
-<td>
+<td align="left">
 <b><a href="https://github.com/Abdeltoto/vllm-omni_AA">Abdeltoto/vllm-omni_AA</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
 <sub><a href="https://github.com/Abdeltoto/vllm-omni_AA/pull/1">#1</a> — [CI/Build] Add L5 stability and reliability test framework</sub>
 </td>
 </tr>
 </table>
+
 <table>
 <tr>
-<td width="80" align="center">
-<a href="https://github.com/Abdeltoto/FacilityMapper_dbg"><img src="https://img.shields.io/badge/FacilityMapper-8B5CF6?style=for-the-badge&labelColor=24292e" height="30" /></a>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/Abdeltoto/FacilityMapper_dbg"><img src="https://img.shields.io/badge/FacilityMapper-8B5CF6?style=for-the-badge&labelColor=24292e" height="40" /></a>
 </td>
-<td>
+<td align="left">
 <b><a href="https://github.com/Abdeltoto/FacilityMapper_dbg">Abdeltoto/FacilityMapper_dbg</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
 <sub><a href="https://github.com/Abdeltoto/FacilityMapper_dbg/pull/1">#1</a> — Add <code>.gitignore</code></sub>
-</td>
-</tr>
-</table>
 </td>
 </tr>
 </table>
