@@ -206,6 +206,7 @@ const ABDEL_ATIA = {
 
 <img src="https://img.shields.io/badge/Merged_PRs-16-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Upstream_OSS-14-00D9FF?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Reviews_Posted-4-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
 <img src="https://img.shields.io/badge/Public_repos-71-8B5CF6?style=for-the-badge&labelColor=24292e" />
 
 <br>
@@ -215,8 +216,8 @@ const ABDEL_ATIA = {
 <br>
 <sub>My OMML→MathML converters (radical/sqrt, group char, phantom, n-ary, eqArr, accents, pre-sub, limits) are in the v1.27.0 stable release notes.</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Last_upstream_merge-2026--04--14_·_superdoc__2753-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
-<a href="https://github.com/superdoc-dev/superdoc/pull/2753"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
+<img src="https://img.shields.io/badge/Last_upstream_merge-2026--04--20_·_superdoc__2750-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
+<a href="https://github.com/superdoc-dev/superdoc/pull/2750"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
 
 <br>
 <sub>Snapshot: April 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 14 PRs merged into third-party repos + 2 on my own public repos (below)</sub>
@@ -224,6 +225,22 @@ const ABDEL_ATIA = {
 <br><br>
 
 </div>
+
+<!-- CODE REVIEWS — high-visibility headliner (17K★ project) -->
+<table>
+<tr>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/HKUDS/RAG-Anything"><img src="https://img.shields.io/badge/Reviews-6366F1?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
+</td>
+<td align="left">
+<b>Code reviews on <a href="https://github.com/HKUDS/RAG-Anything">HKUDS/RAG-Anything</a></b> <img src="https://img.shields.io/badge/17K★-FFC700?style=flat-square&labelColor=24292e" /><br>
+<img src="https://img.shields.io/badge/4_PRs_Reviewed-6366F1?style=flat-square" /><br>
+<sub>Substantive technical reviews on community PRs in the all-in-one RAG framework — covering kwarg forwarding, multimodal storage propagation, and subprocess timeout safety. Approvals + actionable nits left for upstream maintainers.</sub><br>
+<sub><a href="https://github.com/HKUDS/RAG-Anything/pull/258">#258</a> · <a href="https://github.com/HKUDS/RAG-Anything/pull/247">#247</a> · <a href="https://github.com/HKUDS/RAG-Anything/pull/250">#250</a> · <a href="https://github.com/HKUDS/RAG-Anything/pull/254">#254</a></sub>
+</td>
+</tr>
+</table>
 
 <!-- MERGED CONTRIBUTIONS -->
 
