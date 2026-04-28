@@ -1,5 +1,5 @@
 ﻿<!-- 🎨 CAPSULE RENDER - HEADER -->
-<img src="hero.svg" alt="Abdel Atia — AI Architect · PhD · DMV" width="100%" />
+<img src="assets/hero.svg" alt="Abdel Atia — AI Architect · PhD · DMV" width="100%" />
 
 <div align="center">
 
@@ -112,11 +112,11 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="ibmlogo.png" height="60" alt="IBM" />
+<img src="assets/ibmlogo.png" height="60" alt="IBM" />
 
 <br><br>
 
-<img src="Harvard-Emblem (1).png" height="100" alt="Harvard University" />
+<img src="assets/harvard-emblem.png" height="100" alt="Harvard University" />
 
 <br><br>
 
@@ -204,10 +204,10 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="https://img.shields.io/badge/Merged_PRs-16-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Upstream_OSS-14-00D9FF?style=for-the-badge&labelColor=24292e" />
-<img src="https://img.shields.io/badge/Reviews_Posted-4-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
-<img src="https://img.shields.io/badge/Public_repos-71-8B5CF6?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Merged_PRs-17-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Upstream_OSS-16-00D9FF?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Reviews_Posted-5-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Public_repos-79-8B5CF6?style=for-the-badge&labelColor=24292e" />
 
 <br>
 
@@ -216,28 +216,64 @@ const ABDEL_ATIA = {
 <br>
 <sub>My OMML→MathML converters (radical/sqrt, group char, phantom, n-ary, eqArr, accents, pre-sub, limits) are in the v1.27.0 stable release notes.</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Last_upstream_merge-2026--04--20_·_superdoc__2750-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
-<a href="https://github.com/superdoc-dev/superdoc/pull/2750"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
+<img src="https://img.shields.io/badge/Last_upstream_merge-2026--04--26_·_elabftw__6786-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
+<a href="https://github.com/elabftw/elabftw/pull/6786"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
 
 <br>
-<sub>Snapshot: April 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 14 PRs merged into third-party repos + 2 on my own public repos (below)</sub>
+<sub>Snapshot: April 26, 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 16 PRs merged into third-party repos + 1 on my own public repos (below)</sub>
 
 <br><br>
 
 </div>
 
-<!-- CODE REVIEWS — high-visibility headliner (17K★ project) -->
+<!-- CODE REVIEWS — single icon, collapsible entries (scikit-learn 63K★ + RAG-Anything 17K★) -->
 <table>
 <tr>
 <td width="140" align="left" valign="top">
 <br>
-<a href="https://github.com/HKUDS/RAG-Anything"><img src="https://img.shields.io/badge/Reviews-6366F1?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
+<img src="https://img.shields.io/badge/Reviews-6366F1?style=for-the-badge&logo=github&logoColor=white" height="40" />
 </td>
 <td align="left">
-<b>Code reviews on <a href="https://github.com/HKUDS/RAG-Anything">HKUDS/RAG-Anything</a></b> <img src="https://img.shields.io/badge/17K★-FFC700?style=flat-square&labelColor=24292e" /><br>
-<img src="https://img.shields.io/badge/4_PRs_Reviewed-6366F1?style=flat-square" /><br>
-<sub>Substantive technical reviews on community PRs in the all-in-one RAG framework — covering kwarg forwarding, multimodal storage propagation, and subprocess timeout safety. Approvals + actionable nits left for upstream maintainers.</sub><br>
-<sub><a href="https://github.com/HKUDS/RAG-Anything/pull/258">#258</a> · <a href="https://github.com/HKUDS/RAG-Anything/pull/247">#247</a> · <a href="https://github.com/HKUDS/RAG-Anything/pull/250">#250</a> · <a href="https://github.com/HKUDS/RAG-Anything/pull/254">#254</a></sub>
+<b>Code reviews posted on third-party OSS</b><br>
+<img src="https://img.shields.io/badge/5_PRs_Reviewed-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Click_to_expand_each-24292e?style=flat-square" />
+<br><br>
+
+<details>
+<summary><b><a href="https://github.com/scikit-learn/scikit-learn">scikit-learn/scikit-learn</a></b> &nbsp;<img src="https://img.shields.io/badge/63K★-FFC700?style=flat-square&labelColor=24292e" />&nbsp;<img src="https://img.shields.io/badge/1_PR_Reviewed-6366F1?style=flat-square" /></summary>
+<br>
+<ul>
+<li>
+<a href="https://github.com/scikit-learn/scikit-learn/pull/33819">#33819</a> — <b>DOC: Note <code>alpha_per_target</code> incompatibility with <code>cv</code> in RidgeCV</b><br>
+<sub>Reviewed a documentation fix on the world's most-used classical-ML library — clarifying that <code>RidgeCV</code>'s <code>alpha_per_target</code> is incompatible with custom CV splitters. Caught the missing <code>versionadded</code> directive and suggested cleaner phrasing.</sub>
+</li>
+</ul>
+</details>
+
+<details>
+<summary><b><a href="https://github.com/HKUDS/RAG-Anything">HKUDS/RAG-Anything</a></b> &nbsp;<img src="https://img.shields.io/badge/17K★-FFC700?style=flat-square&labelColor=24292e" />&nbsp;<img src="https://img.shields.io/badge/4_PRs_Reviewed-6366F1?style=flat-square" /></summary>
+<br>
+<sub><i>Substantive technical reviews on community PRs in the all-in-one RAG framework — kwarg forwarding, multimodal storage propagation, and subprocess timeout safety. Approvals + actionable nits left for upstream maintainers.</i></sub>
+<ul>
+<li>
+<a href="https://github.com/HKUDS/RAG-Anything/pull/258">#258</a> — <b>fix: forward <code>system_prompt</code> parameter in <code>aquery_with_multimodal</code></b><br>
+<sub>Ensures the <code>system_prompt</code> override is propagated through the multimodal async query path so callers can actually customise it. Approval + nits.</sub>
+</li>
+<li>
+<a href="https://github.com/HKUDS/RAG-Anything/pull/247">#247</a> — <b>fix: pass <code>entity_chunks</code> / <code>relation_chunks</code> storages to <code>merge_nodes_and_edges</code></b> <sub>(fixes #241)</sub><br>
+<sub>Without it, downstream merge calls silently dropped the chunk-level KG storages and broke retrieval. Approval + actionable nits.</sub>
+</li>
+<li>
+<a href="https://github.com/HKUDS/RAG-Anything/pull/250">#250</a> — <b>fix: pass <code>entity_chunks_storage</code> and <code>relation_chunks_storage</code> to all <code>merge_nodes_and_edges</code> calls</b><br>
+<sub>Companion fix to #247 — ensures <i>every</i> call site forwards the chunk storages, not just the first one. Cross-checked the call graph and confirmed no remaining leaks.</sub>
+</li>
+<li>
+<a href="https://github.com/HKUDS/RAG-Anything/pull/254">#254</a> — <b>fix: add timeout parameter to MinerU subprocess to prevent indefinite hang</b><br>
+<sub>Subprocess-safety fix — the MinerU CLI invocation could hang forever on bad PDFs and freeze whole pipelines. Suggested making the timeout configurable instead of hard-coded.</sub>
+</li>
+</ul>
+</details>
+
 </td>
 </tr>
 </table>
@@ -249,7 +285,7 @@ const ABDEL_ATIA = {
 <tr>
 <td width="140" align="left" valign="top">
 <br>
-<a href="https://github.com/superdoc-dev/superdoc"><img src="https://img.shields.io/badge/SuperDoc-6366F1?style=for-the-badge" height="40" /></a>
+<a href="https://github.com/superdoc-dev/superdoc"><img src="assets/superdoc-logo.jpg" alt="SuperDoc" height="40" /></a>
 </td>
 <td align="left">
 <b><a href="https://github.com/superdoc-dev/superdoc">superdoc-dev/superdoc</a></b><br>
@@ -300,7 +336,7 @@ const ABDEL_ATIA = {
 <tr>
 <td width="140" align="left" valign="top">
 <br>
-<a href="https://github.com/microDM/ProBioPred"><img src="https://img.shields.io/badge/ProBioPred-059669?style=for-the-badge" height="40" /></a>
+<a href="https://github.com/microDM/ProBioPred"><img src="assets/probiopred-logo.png" alt="ProBioPred" height="40" /></a>
 </td>
 <td align="left">
 <b><a href="https://github.com/microDM/ProBioPred">microDM/ProBioPred</a></b><br>
@@ -327,12 +363,44 @@ const ABDEL_ATIA = {
 </tr>
 </table>
 
+<!-- ELABFTW -->
+<table>
+<tr>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/elabftw/elabftw"><img src="assets/elabftw_logo.png" alt="eLabFTW" height="40" /></a>
+</td>
+<td align="left">
+<b><a href="https://github.com/elabftw/elabftw">elabftw/elabftw</a></b> <img src="https://img.shields.io/badge/Electronic_Lab_Notebook-29ABE2?style=flat-square&labelColor=24292e" /><br>
+<img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
+<sub>Hardened account-creation security in the most popular open-source ELN — removed the Sysadmin option from the user-creation dropdown and added a Cypress regression test. Closes <a href="https://github.com/elabftw/elabftw/issues/6781">#6781</a>.</sub><br>
+<sub><a href="https://github.com/elabftw/elabftw/pull/6786">#6786</a></sub>
+</td>
+</tr>
+</table>
+
+<!-- SENAITE -->
+<table>
+<tr>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/senaite/senaite.com"><img src="assets/senaite-logo.png" alt="SENAITE" height="40" /></a>
+</td>
+<td align="left">
+<b><a href="https://github.com/senaite/senaite.com">senaite/senaite.com</a></b> <img src="https://img.shields.io/badge/LIMS-2ea44f?style=flat-square&labelColor=24292e" /><br>
+<img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
+<sub>Clarified the public Docker quick-start docs for the SENAITE LIMS — explicit <code>2.x</code> rolling tag guidance and confirmation that no <code>latest</code> tag is published. Reduces a real onboarding footgun for lab IT teams.</sub><br>
+<sub><a href="https://github.com/senaite/senaite.com/pull/2">#2</a></sub>
+</td>
+</tr>
+</table>
+
 <!-- GSD FOR CURSOR -->
 <table>
 <tr>
 <td width="140" align="left" valign="top">
 <br>
-<a href="https://github.com/rmindel/gsd-for-cursor"><img src="https://img.shields.io/badge/GSD-000000?style=for-the-badge&logo=cursor&logoColor=white" height="40" /></a>
+<a href="https://github.com/rmindel/gsd-for-cursor"><img src="assets/cursor-logo.png" alt="Cursor IDE" height="40" /></a>
 </td>
 <td align="left">
 <b><a href="https://github.com/rmindel/gsd-for-cursor">rmindel/gsd-for-cursor</a></b><br>
@@ -348,7 +416,7 @@ const ABDEL_ATIA = {
 <tr>
 <td width="140" align="left" valign="top">
 <br>
-<a href="https://github.com/Abdeltoto/vllm-omni_AA"><img src="https://img.shields.io/badge/vLLM_Omni-00D9FF?style=for-the-badge&labelColor=24292e" height="40" /></a>
+<a href="https://github.com/Abdeltoto/vllm-omni_AA"><img src="assets/vllm-omni-logo.png" alt="vLLM-Omni" height="40" /></a>
 </td>
 <td align="left">
 <b><a href="https://github.com/Abdeltoto/vllm-omni_AA">Abdeltoto/vllm-omni_AA</a></b><br>
@@ -358,25 +426,11 @@ const ABDEL_ATIA = {
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="140" align="left" valign="top">
-<br>
-<a href="https://github.com/Abdeltoto/FacilityMapper_dbg"><img src="https://img.shields.io/badge/FacilityMapper-8B5CF6?style=for-the-badge&labelColor=24292e" height="40" /></a>
-</td>
-<td align="left">
-<b><a href="https://github.com/Abdeltoto/FacilityMapper_dbg">Abdeltoto/FacilityMapper_dbg</a></b><br>
-<img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
-<sub><a href="https://github.com/Abdeltoto/FacilityMapper_dbg/pull/1">#1</a> — Add <code>.gitignore</code></sub>
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 <br>
 
-<img src="https://img.shields.io/badge/Domains-Bioinformatics_·_AI_Agents_·_Document_Processing_·_Dev_Tools-00D9FF?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Domains-Bioinformatics_·_AI_Agents_·_Document_Processing_·_ELN_·_LIMS_·_Dev_Tools-00D9FF?style=for-the-badge&labelColor=24292e" />
 
 </div>
 
@@ -450,7 +504,7 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="ibmlogo.png" height="50" alt="IBM" />
+<img src="assets/ibmlogo.png" height="50" alt="IBM" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="40" />
 
@@ -1175,13 +1229,13 @@ class DevPhilosophy:
 **Built with** ☕ + 🐍 + 🤖
 &nbsp;&nbsp;|&nbsp;&nbsp;
 **Certified by**
-<img src="ibmlogo.png" height="22" alt="IBM" />
+<img src="assets/ibmlogo.png" height="22" alt="IBM" />
 +
 <img src="https://img.shields.io/badge/Harvard-A51C30?style=flat-square&logoColor=white" height="22" alt="Harvard" />
 
 <br>
 
-**Last update:** April 2026
+**Last update:** April 26, 2026
 
 *No GPU was harmed in the making of this profile.*
 
