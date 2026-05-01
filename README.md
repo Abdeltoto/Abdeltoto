@@ -216,8 +216,8 @@ const ABDEL_ATIA = {
 <br>
 <sub>My OMML→MathML converters (radical/sqrt, group char, phantom, n-ary, eqArr, accents, pre-sub, limits) are in the v1.27.0 stable release notes.</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Last_upstream_merge-2026--04--26_·_elabftw__6786-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
-<a href="https://github.com/elabftw/elabftw/pull/6786"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
+<img src="https://img.shields.io/badge/Last_upstream_merge-2026--04--26_·_pylabrobot__1010-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
+<a href="https://github.com/PyLabRobot/pylabrobot/pull/1010"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
 
 <br>
 <sub>Snapshot: April 26, 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 16 PRs merged into third-party repos + 1 on my own public repos (below)</sub>
@@ -407,6 +407,22 @@ const ABDEL_ATIA = {
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
 <sub>Fixed broken hooks path — the Cursor IDE adaptation was still pointing to <code>~/.claude/</code> instead of <code>~/.cursor/</code>, causing silent failures for all Cursor users.</sub><br>
 <sub><a href="https://github.com/rmindel/gsd-for-cursor/pull/3">#3</a></sub>
+</td>
+</tr>
+</table>
+
+<!-- PYLABROBOT -->
+<table>
+<tr>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/PyLabRobot/pylabrobot"><img src="https://img.shields.io/badge/PyLabRobot-2563EB?style=for-the-badge" height="40" /></a>
+</td>
+<td align="left">
+<b><a href="https://github.com/PyLabRobot/pylabrobot">PyLabRobot/pylabrobot</a></b><br>
+<img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
+<sub>Hardened the thermocycler driver in this hardware-agnostic Python liquid-handling library — raises an explicit error when hold-time data is unavailable instead of silently returning incorrect values, preventing protocol execution against bad state.</sub><br>
+<sub><a href="https://github.com/PyLabRobot/pylabrobot/pull/1010">#1010</a></sub>
 </td>
 </tr>
 </table>
