@@ -204,23 +204,26 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="https://img.shields.io/badge/Merged_PRs-17-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Upstream_OSS-16-00D9FF?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Merged_PRs-27-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Upstream_OSS-21-00D9FF?style=for-the-badge&labelColor=24292e" />
 <img src="https://img.shields.io/badge/Reviews_Posted-5-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
-<img src="https://img.shields.io/badge/Public_repos-79-8B5CF6?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Public_repos-84-8B5CF6?style=for-the-badge&labelColor=24292e" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🚀_Shipped_today-SuperDoc_v1.27.0_·_2026--04--17-FF6B6B?style=flat-square&logoColor=white&labelColor=24292e" />
+<img src="https://img.shields.io/badge/🚀_Release_highlight-SuperDoc_v1.27.0_·_2026--04--17-FF6B6B?style=flat-square&logoColor=white&labelColor=24292e" />
 <a href="https://github.com/superdoc-dev/superdoc/releases/tag/v1.27.0"><img src="https://img.shields.io/badge/view_release-6366F1?style=flat-square&labelColor=24292e" /></a>
 <br>
 <sub>My OMML→MathML converters (radical/sqrt, group char, phantom, n-ary, eqArr, accents, pre-sub, limits) are in the v1.27.0 stable release notes.</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Last_upstream_merge-2026--04--26_·_pylabrobot__1010-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
-<a href="https://github.com/PyLabRobot/pylabrobot/pull/1010"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
+<img src="https://img.shields.io/badge/Last_upstream_merge-2026--05--06_·_RAG--Anything__262-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
+<a href="https://github.com/HKUDS/RAG-Anything/pull/262"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
 
 <br>
-<sub>Snapshot: April 26, 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 16 PRs merged into third-party repos + 1 on my own public repos (below)</sub>
+<sub>Earlier upstream merges same week: <a href="https://github.com/apache/hamilton/pull/1559">apache/hamilton #1559</a> / <a href="https://github.com/apache/hamilton/pull/1560">#1560</a> — 2026-05-03.</sub>
+
+<br>
+<sub>Snapshot: May 10, 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 21 merged into third-party/upstream repos + 6 merges on Abdeltoto public repos (27 total)</sub>
 
 <br><br>
 
@@ -280,6 +283,22 @@ const ABDEL_ATIA = {
 
 <!-- MERGED CONTRIBUTIONS -->
 
+<!-- RAG-ANYTHING (merged code, not only reviews) -->
+<table>
+<tr>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/HKUDS/RAG-Anything"><img src="assets/rag-anything-logo.png" alt="RAG-Anything" height="40" /></a>
+</td>
+<td align="left">
+<b><a href="https://github.com/HKUDS/RAG-Anything">HKUDS/RAG-Anything</a></b><br>
+<img src="https://img.shields.io/badge/2_PRs_Merged-2ea44f?style=flat-square" /><br>
+<sub>Merged upstream improvements to the multimodal RAG ingestion path: replaces the Docling <b>CLI subprocess</b> with the <b>Python API</b> for more reliable PDF parsing (<a href="https://github.com/HKUDS/RAG-Anything/pull/261">#261</a>), and adds an <b>OMML equation extraction</b> utility for DOCX so Word math can flow into downstream pipelines (<a href="https://github.com/HKUDS/RAG-Anything/pull/262">#262</a>).</sub><br>
+<sub><a href="https://github.com/HKUDS/RAG-Anything/pull/261">#261</a> · <a href="https://github.com/HKUDS/RAG-Anything/pull/262">#262</a> — merged 2026-05-06</sub>
+</td>
+</tr>
+</table>
+
 <!-- SUPERDOC -->
 <table>
 <tr>
@@ -291,7 +310,7 @@ const ABDEL_ATIA = {
 <b><a href="https://github.com/superdoc-dev/superdoc">superdoc-dev/superdoc</a></b><br>
 <img src="https://img.shields.io/badge/8_PRs_Merged-2ea44f?style=flat-square" />
 <a href="https://github.com/superdoc-dev/superdoc/releases/tag/v1.27.0"><img src="https://img.shields.io/badge/shipped_in_v1.27.0-FF6B6B?style=flat-square&labelColor=24292e" /></a><br>
-<sub>Built the full OMML → MathML conversion layer: equation arrays, matrices, n-ary operators, group characters, phantoms, accents, pre-sub-superscripts, and box/borderBox containers. Enables Word math equations to render natively in the browser. <b>Featured in the v1.27.0 stable release notes (2026-04-17).</b></sub><br>
+<sub>Built the full OMML → MathML conversion layer: equation arrays, matrices, n-ary operators, group characters, phantoms, accents, pre-sub-superscripts, and box/borderBox containers. Enables Word math equations to render natively in the browser. Core stack is <b>featured in the v1.27.0 stable release notes (2026-04-17)</b>; <a href="https://github.com/superdoc-dev/superdoc/pull/2750">#2750</a> (<code>m:box</code>/<code>m:borderBox</code>) merged shortly after the tag (2026-04-20).</sub><br>
 <sub>
 <a href="https://github.com/superdoc-dev/superdoc/pull/2754">#2754</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2753">#2753</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2752">#2752</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2751">#2751</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2750">#2750</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2749">#2749</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2748">#2748</a> · <a href="https://github.com/superdoc-dev/superdoc/pull/2747">#2747</a>
 </sub>
@@ -416,13 +435,29 @@ const ABDEL_ATIA = {
 <tr>
 <td width="140" align="left" valign="top">
 <br>
-<a href="https://github.com/PyLabRobot/pylabrobot"><img src="https://img.shields.io/badge/PyLabRobot-2563EB?style=for-the-badge" height="40" /></a>
+<a href="https://github.com/PyLabRobot/pylabrobot"><img src="assets/pylabrobot-logo.png" alt="PyLabRobot" height="40" /></a>
 </td>
 <td align="left">
 <b><a href="https://github.com/PyLabRobot/pylabrobot">PyLabRobot/pylabrobot</a></b><br>
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
 <sub>Hardened the thermocycler driver in this hardware-agnostic Python liquid-handling library — raises an explicit error when hold-time data is unavailable instead of silently returning incorrect values, preventing protocol execution against bad state.</sub><br>
 <sub><a href="https://github.com/PyLabRobot/pylabrobot/pull/1010">#1010</a></sub>
+</td>
+</tr>
+</table>
+
+<!-- APACHE HAMILTON -->
+<table>
+<tr>
+<td width="140" align="left" valign="top">
+<br>
+<a href="https://github.com/apache/hamilton"><img src="assets/apache-hamilton-logo.png" alt="Apache Hamilton" height="40" /></a>
+</td>
+<td align="left">
+<b><a href="https://github.com/apache/hamilton">apache/hamilton</a></b><br>
+<img src="https://img.shields.io/badge/2_PRs_Merged-2ea44f?style=flat-square" /><br>
+<sub>Improved the developer experience for this ASF dataflow framework — fixed async builder fluent typing and corrected the parameterized <code>resolve</code> documentation example.</sub><br>
+<sub><a href="https://github.com/apache/hamilton/pull/1560">#1560</a> · <a href="https://github.com/apache/hamilton/pull/1559">#1559</a></sub>
 </td>
 </tr>
 </table>
@@ -1251,7 +1286,7 @@ class DevPhilosophy:
 
 <br>
 
-**Last update:** April 26, 2026
+**Last update:** May 10, 2026
 
 *No GPU was harmed in the making of this profile.*
 
