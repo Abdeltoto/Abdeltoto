@@ -204,8 +204,8 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="https://img.shields.io/badge/Merged_PRs-27-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Upstream_OSS-21-00D9FF?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Merged_PRs-29-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Upstream_OSS-23-00D9FF?style=for-the-badge&labelColor=24292e" />
 <img src="https://img.shields.io/badge/Reviews_Posted-5-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
 <img src="https://img.shields.io/badge/Public_repos-84-8B5CF6?style=for-the-badge&labelColor=24292e" />
 
@@ -216,14 +216,14 @@ const ABDEL_ATIA = {
 <br>
 <sub>My OMML→MathML converters (radical/sqrt, group char, phantom, n-ary, eqArr, accents, pre-sub, limits) are in the v1.27.0 stable release notes.</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Last_upstream_merge-2026--05--06_·_RAG--Anything__262-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
-<a href="https://github.com/HKUDS/RAG-Anything/pull/262"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
+<img src="https://img.shields.io/badge/Last_upstream_merge-2026--05--23_·_awesome--neuroscience__34-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
+<a href="https://github.com/analyticalmonk/awesome-neuroscience/pull/34"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
 
 <br>
-<sub>Earlier upstream merges same week: <a href="https://github.com/apache/hamilton/pull/1559">apache/hamilton #1559</a> / <a href="https://github.com/apache/hamilton/pull/1560">#1560</a> — 2026-05-03.</sub>
+<sub>Recent upstream merges: <a href="https://github.com/HKUDS/RAG-Anything/pull/275">RAG-Anything #275</a> — 2026-05-11 · <a href="https://github.com/HKUDS/RAG-Anything/pull/261">#261</a> / <a href="https://github.com/HKUDS/RAG-Anything/pull/262">#262</a> — 2026-05-06 · <a href="https://github.com/apache/hamilton/pull/1559">apache/hamilton #1559</a> / <a href="https://github.com/apache/hamilton/pull/1560">#1560</a> — 2026-05-03.</sub>
 
 <br>
-<sub>Snapshot: May 10, 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 21 merged into third-party/upstream repos + 6 merges on Abdeltoto public repos (27 total)</sub>
+<sub>Snapshot: May 27, 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 23 merged into third-party/upstream repos + 6 merges on Abdeltoto public repos (29 total)</sub>
 
 <br><br>
 
@@ -292,9 +292,9 @@ const ABDEL_ATIA = {
 </td>
 <td align="left">
 <b><a href="https://github.com/HKUDS/RAG-Anything">HKUDS/RAG-Anything</a></b><br>
-<img src="https://img.shields.io/badge/2_PRs_Merged-2ea44f?style=flat-square" /><br>
-<sub>Merged upstream improvements to the multimodal RAG ingestion path: replaces the Docling <b>CLI subprocess</b> with the <b>Python API</b> for more reliable PDF parsing (<a href="https://github.com/HKUDS/RAG-Anything/pull/261">#261</a>), and adds an <b>OMML equation extraction</b> utility for DOCX so Word math can flow into downstream pipelines (<a href="https://github.com/HKUDS/RAG-Anything/pull/262">#262</a>).</sub><br>
-<sub><a href="https://github.com/HKUDS/RAG-Anything/pull/261">#261</a> · <a href="https://github.com/HKUDS/RAG-Anything/pull/262">#262</a> — merged 2026-05-06</sub>
+<img src="https://img.shields.io/badge/3_PRs_Merged-2ea44f?style=flat-square" /><br>
+<sub>Merged upstream improvements to the multimodal RAG ingestion path: replaced the Docling <b>CLI subprocess</b> with the <b>Python API</b> for more reliable PDF parsing (<a href="https://github.com/HKUDS/RAG-Anything/pull/261">#261</a>), added an <b>OMML equation extraction</b> utility for DOCX so Word math can flow into downstream pipelines (<a href="https://github.com/HKUDS/RAG-Anything/pull/262">#262</a>), and documented optional public asset URLs plus failure modes (<a href="https://github.com/HKUDS/RAG-Anything/pull/275">#275</a>).</sub><br>
+<sub><a href="https://github.com/HKUDS/RAG-Anything/pull/261">#261</a> · <a href="https://github.com/HKUDS/RAG-Anything/pull/262">#262</a> — merged 2026-05-06 · <a href="https://github.com/HKUDS/RAG-Anything/pull/275">#275</a> — merged 2026-05-11</sub>
 </td>
 </tr>
 </table>
@@ -374,10 +374,10 @@ const ABDEL_ATIA = {
 <img src="https://img.shields.io/badge/Awesome-FC60A8?style=for-the-badge&logo=awesome-lists&logoColor=white" height="40" />
 </td>
 <td align="left">
-<b>Awesome Bioinformatics & Computational Biology</b><br>
-<img src="https://img.shields.io/badge/2_PRs_Merged-2ea44f?style=flat-square" /><br>
-<sub>Enriched two major curated lists used by thousands of researchers — added Scanpy (the standard scRNA-seq toolkit) and EvoDiff (protein generation via diffusion models).</sub><br>
-<sub><a href="https://github.com/danielecook/Awesome-Bioinformatics/pull/127">Awesome-Bioinformatics #127</a> · <a href="https://github.com/inoue0426/awesome-computational-biology/pull/50">awesome-computational-biology #50</a></sub>
+<b>Awesome Bioinformatics, Computational Biology & Neuroscience</b><br>
+<img src="https://img.shields.io/badge/3_PRs_Merged-2ea44f?style=flat-square" /><br>
+<sub>Enriched curated scientific software lists used by researchers — added Scanpy (standard scRNA-seq toolkit), EvoDiff (protein generation via diffusion models), and neuroscience Python tools DeepLabCut, CaImAn, and Elephant.</sub><br>
+<sub><a href="https://github.com/danielecook/Awesome-Bioinformatics/pull/127">Awesome-Bioinformatics #127</a> · <a href="https://github.com/inoue0426/awesome-computational-biology/pull/50">awesome-computational-biology #50</a> · <a href="https://github.com/analyticalmonk/awesome-neuroscience/pull/34">awesome-neuroscience #34</a></sub>
 </td>
 </tr>
 </table>
@@ -1286,7 +1286,7 @@ class DevPhilosophy:
 
 <br>
 
-**Last update:** May 10, 2026
+**Last update:** May 27, 2026
 
 *No GPU was harmed in the making of this profile.*
 
