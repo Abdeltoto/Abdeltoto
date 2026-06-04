@@ -204,8 +204,8 @@ const ABDEL_ATIA = {
 
 <br>
 
-<img src="https://img.shields.io/badge/Merged_PRs-29-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Upstream_OSS-23-00D9FF?style=for-the-badge&labelColor=24292e" />
+<img src="https://img.shields.io/badge/Merged_PRs-30-2ea44f?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Upstream_OSS-24-00D9FF?style=for-the-badge&labelColor=24292e" />
 <img src="https://img.shields.io/badge/Reviews_Posted-5-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
 <img src="https://img.shields.io/badge/Public_repos-84-8B5CF6?style=for-the-badge&labelColor=24292e" />
 
@@ -216,14 +216,17 @@ const ABDEL_ATIA = {
 <br>
 <sub>My OMML→MathML converters (radical/sqrt, group char, phantom, n-ary, eqArr, accents, pre-sub, limits) are in the v1.27.0 stable release notes.</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Last_upstream_merge-2026--05--23_·_awesome--neuroscience__34-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
-<a href="https://github.com/analyticalmonk/awesome-neuroscience/pull/34"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
+<img src="https://img.shields.io/badge/Last_upstream_merge-2026--06--04_·_q2--dada2__191-2ea44f?style=flat-square&logo=git&logoColor=white&labelColor=24292e" />
+<a href="https://github.com/qiime2/q2-dada2/pull/191"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=24292e" /></a>
 
 <br>
-<sub>Recent upstream merges: <a href="https://github.com/HKUDS/RAG-Anything/pull/275">RAG-Anything #275</a> — 2026-05-11 · <a href="https://github.com/HKUDS/RAG-Anything/pull/261">#261</a> / <a href="https://github.com/HKUDS/RAG-Anything/pull/262">#262</a> — 2026-05-06 · <a href="https://github.com/apache/hamilton/pull/1559">apache/hamilton #1559</a> / <a href="https://github.com/apache/hamilton/pull/1560">#1560</a> — 2026-05-03.</sub>
+<sub>Recent upstream merges: <a href="https://github.com/qiime2/q2-dada2/pull/191">q2-dada2 #191</a> — 2026-06-04 · <a href="https://github.com/HKUDS/RAG-Anything/pull/275">RAG-Anything #275</a> — 2026-05-11 · <a href="https://github.com/analyticalmonk/awesome-neuroscience/pull/34">awesome-neuroscience #34</a> — 2026-05-23.</sub>
 
 <br>
-<sub>Snapshot: May 27, 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 23 merged into third-party/upstream repos + 6 merges on Abdeltoto public repos (29 total)</sub>
+<sub>Open upstream PRs: <a href="https://github.com/apache/airflow/pull/67933">apache/airflow #67933</a> · <a href="https://github.com/scipy/scipy/pull/25294">scipy/scipy #25294</a> · <a href="https://github.com/frictionlessdata/frictionless-py/pull/1775">frictionless-py #1775</a> / <a href="https://github.com/frictionlessdata/frictionless-py/pull/1776">#1776</a>.</sub>
+
+<br>
+<sub>Snapshot: June 4, 2026 · Totals from <code>author:Abdeltoto is:pr is:merged</code> · 24 merged into third-party/upstream repos + 6 merges on Abdeltoto public repos (30 total)</sub>
 
 <br><br>
 
@@ -442,6 +445,22 @@ const ABDEL_ATIA = {
 <img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
 <sub>Hardened the thermocycler driver in this hardware-agnostic Python liquid-handling library — raises an explicit error when hold-time data is unavailable instead of silently returning incorrect values, preventing protocol execution against bad state.</sub><br>
 <sub><a href="https://github.com/PyLabRobot/pylabrobot/pull/1010">#1010</a></sub>
+</td>
+</tr>
+</table>
+
+<!-- QIIME 2 -->
+<table>
+<tr>
+<td width="140" align="left" valign="top">
+<br>
+<img src="https://img.shields.io/badge/QIIME_2-4B8BBE?style=for-the-badge&logo=python&logoColor=white" height="40" />
+</td>
+<td align="left">
+<b><a href="https://github.com/qiime2/q2-dada2">qiime2/q2-dada2</a></b> <img src="https://img.shields.io/badge/Microbiome-2ea44f?style=flat-square&labelColor=24292e" /><br>
+<img src="https://img.shields.io/badge/1_PR_Merged-2ea44f?style=flat-square" /><br>
+<sub>Clarified the <code>n_reads_learn</code> parameter help text in the DADA2 QIIME 2 plugin so users understand how many reads are used to train error profiles during denoising.</sub><br>
+<sub><a href="https://github.com/qiime2/q2-dada2/pull/191">#191</a> — merged 2026-06-04</sub>
 </td>
 </tr>
 </table>
@@ -1286,7 +1305,7 @@ class DevPhilosophy:
 
 <br>
 
-**Last update:** May 27, 2026
+**Last update:** June 4, 2026
 
 *No GPU was harmed in the making of this profile.*
 
