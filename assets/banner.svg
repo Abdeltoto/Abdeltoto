@@ -20,12 +20,12 @@
         <animate attributeName="stop-opacity" values="0;0.15;0" dur="10s" repeatCount="indefinite"/>
       </stop>
       <stop offset="50%" stop-color="#d4c4aa" stop-opacity="0.35">
-        <animate attributeName="stop-opacity" values="0.2;0.55;0.2" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="stop-opacity" values="0.25;0.72;0.25" dur="8s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#a89478" stop-opacity="0">
-        <animate attributeName="stop-opacity" values="0;0.15;0" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="stop-opacity" values="0;0.22;0" dur="8s" repeatCount="indefinite"/>
       </stop>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-80 0;80 0;-80 0" dur="16s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-100 0;100 0;-100 0" dur="12s" repeatCount="indefinite"/>
     </linearGradient>
     <linearGradient id="nameFill" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#f3f0ea"/>
@@ -37,12 +37,12 @@
   <rect width="1200" height="280" fill="url(#light)"/>
 
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0; 28 0; 0 0" dur="18s" repeatCount="indefinite"/>
-    <path d="M-40 248 C 180 268, 340 208, 520 238 C 700 268, 860 208, 1040 238 C 1120 252, 1180 242, 1240 248" fill="none" stroke="url(#flow)" stroke-width="1">
-      <animate attributeName="opacity" values="0.3;0.85;0.3" dur="9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 36 0; 0 0" dur="13s" repeatCount="indefinite"/>
+    <path d="M-40 248 C 180 268, 340 208, 520 238 C 700 268, 860 208, 1040 238 C 1120 252, 1180 242, 1240 248" fill="none" stroke="url(#flow)" stroke-width="1.15">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="7s" repeatCount="indefinite"/>
     </path>
-    <path d="M-40 256 C 200 276, 360 216, 540 246 C 720 276, 880 216, 1060 246 C 1140 260, 1180 250, 1240 256" fill="none" stroke="#b8a488" stroke-width="0.5">
-      <animate attributeName="opacity" values="0.06;0.22;0.06" dur="11s" repeatCount="indefinite"/>
+    <path d="M-40 256 C 200 276, 360 216, 540 246 C 720 276, 880 216, 1060 246 C 1140 260, 1180 250, 1240 256" fill="none" stroke="#b8a488" stroke-width="0.65">
+      <animate attributeName="opacity" values="0.1;0.38;0.1" dur="8.5s" repeatCount="indefinite"/>
     </path>
   </g>
 
