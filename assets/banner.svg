@@ -16,9 +16,16 @@
       <stop offset="100%" stop-color="#7a6648" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#a89478" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#d4c4aa" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#a89478" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#a89478" stop-opacity="0">
+        <animate attributeName="stop-opacity" values="0;0.15;0" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#d4c4aa" stop-opacity="0.35">
+        <animate attributeName="stop-opacity" values="0.2;0.55;0.2" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a89478" stop-opacity="0">
+        <animate attributeName="stop-opacity" values="0;0.15;0" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-80 0;80 0;-80 0" dur="16s" repeatCount="indefinite"/>
     </linearGradient>
     <linearGradient id="nameFill" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#f3f0ea"/>
@@ -29,11 +36,20 @@
   <rect width="1200" height="280" fill="url(#canvas)"/>
   <rect width="1200" height="280" fill="url(#light)"/>
 
-  <path d="M-40 248 C 180 268, 340 208, 520 238 C 700 268, 860 208, 1040 238 C 1120 252, 1180 242, 1240 248" fill="none" stroke="url(#flow)" stroke-width="1"/>
-  <path d="M-40 256 C 200 276, 360 216, 540 246 C 720 276, 880 216, 1060 246 C 1140 260, 1180 250, 1240 256" fill="none" stroke="#b8a488" stroke-width="0.5" opacity="0.12"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 28 0; 0 0" dur="18s" repeatCount="indefinite"/>
+    <path d="M-40 248 C 180 268, 340 208, 520 238 C 700 268, 860 208, 1040 238 C 1120 252, 1180 242, 1240 248" fill="none" stroke="url(#flow)" stroke-width="1">
+      <animate attributeName="opacity" values="0.3;0.85;0.3" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-40 256 C 200 276, 360 216, 540 246 C 720 276, 880 216, 1060 246 C 1140 260, 1180 250, 1240 256" fill="none" stroke="#b8a488" stroke-width="0.5">
+      <animate attributeName="opacity" values="0.06;0.22;0.06" dur="11s" repeatCount="indefinite"/>
+    </path>
+  </g>
 
   <line x1="300" y1="32" x2="900" y2="32" stroke="url(#gold)" stroke-width="0.85"/>
-  <circle cx="600" cy="32" r="2" fill="#e2d6c2" opacity="0.8"/>
+  <circle cx="600" cy="32" r="2" fill="#e2d6c2" opacity="0.8">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="7s" repeatCount="indefinite"/>
+  </circle>
 
   <text x="600" y="102" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="68" letter-spacing="19" fill="url(#nameFill)">ABDEL ATIA</text>
 
