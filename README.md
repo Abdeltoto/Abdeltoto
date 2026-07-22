@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="assets/banner.gif" alt="Abdel Atia — PhD, DMV, RAG Architect" width="100%" />
+<img src="assets/banner.gif" alt="Abdel Atia — PhD, DMV, AI Architect" width="100%" />
 
 </div>
 
