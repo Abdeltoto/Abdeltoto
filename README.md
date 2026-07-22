@@ -1,4 +1,8 @@
-﻿<img src="assets/banner.svg" alt="Abdel Atia — vet, PhD, code, chaos" width="100%" />
+﻿<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abdeltoto/Abdeltoto/main/assets/banner.svg" alt="Abdel Atia — vet, PhD, code, chaos" width="100%" />
+
+</div>
 
 <div align="center">
 
