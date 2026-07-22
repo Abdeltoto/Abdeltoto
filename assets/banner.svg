@@ -1,242 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Abdel Atia - vet, PhD, RAG architect">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Abdel Atia">
   <defs>
-    <linearGradient id="bgDeep" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#030712"/>
-      <stop offset="40%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e1b4b"/>
+    <linearGradient id="canvas" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="55%" stop-color="#0d0f14"/>
+      <stop offset="100%" stop-color="#090a0e"/>
     </linearGradient>
 
-    <radialGradient id="auroraA" cx="25%" cy="20%" r="55%">
-      <stop offset="0%" stop-color="#FF6B6B" stop-opacity="0.35">
-        <animate attributeName="stop-opacity" values="0.25;0.45;0.25" dur="7s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#FF6B6B" stop-opacity="0"/>
+    <radialGradient id="light" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#d4c4a8" stop-opacity="0.07"/>
+      <stop offset="55%" stop-color="#d4c4a8" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#d4c4a8" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="auroraB" cx="80%" cy="30%" r="50%">
-      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.4">
-        <animate attributeName="stop-opacity" values="0.3;0.55;0.3" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
-
-    <radialGradient id="auroraC" cx="55%" cy="90%" r="45%">
-      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.28">
-        <animate attributeName="stop-opacity" values="0.18;0.38;0.18" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
-    </radialGradient>
-
-    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="18%" stop-color="#e2e8f0"/>
-      <stop offset="38%" stop-color="#94a3b8">
-        <animate attributeName="offset" values="0.38;0.28;0.38" dur="5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#1e293b">
-        <animate attributeName="offset" values="0.50;0.58;0.50" dur="5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="62%" stop-color="#94a3b8">
-        <animate attributeName="offset" values="0.62;0.72;0.62" dur="5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="82%" stop-color="#e2e8f0"/>
-      <stop offset="100%" stop-color="#ffffff"/>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8a7350" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#c9b896"/>
+      <stop offset="50%" stop-color="#e8dcc8"/>
+      <stop offset="82%" stop-color="#c9b896"/>
+      <stop offset="100%" stop-color="#8a7350" stop-opacity="0"/>
     </linearGradient>
 
-    <linearGradient id="iridescent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FF6B6B" stop-opacity="0.55">
-        <animate attributeName="stop-color" values="#FF6B6B;#8B5CF6;#00D9FF;#FFD21E;#FF6B6B" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.55">
-        <animate attributeName="stop-color" values="#8B5CF6;#00D9FF;#FFD21E;#FF6B6B;#8B5CF6" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0.55">
-        <animate attributeName="stop-color" values="#00D9FF;#FFD21E;#FF6B6B;#8B5CF6;#00D9FF" dur="10s" repeatCount="indefinite"/>
-      </stop>
+    <linearGradient id="goldSoft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b8a88a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#d8ccb8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#b8a88a" stop-opacity="0"/>
+      <animate attributeName="x1" values="0;0.15;0" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0.85;1" dur="14s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="0.42" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#ffffff" stop-opacity="1"/>
-      <stop offset="0.58" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-1400 0" to="1400 0" dur="3.5s" repeatCount="indefinite"/>
+    <linearGradient id="nameFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faf8f5"/>
+      <stop offset="100%" stop-color="#ddd6cc"/>
     </linearGradient>
-
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00D9FF"/>
-      <stop offset="50%" stop-color="#8B5CF6"/>
-      <stop offset="100%" stop-color="#FF6B6B"/>
-    </linearGradient>
-
-    <linearGradient id="frameLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FF6B6B" stop-opacity="0"/>
-      <stop offset="12%" stop-color="#FF6B6B" stop-opacity="1"/>
-      <stop offset="35%" stop-color="#8B5CF6"/>
-      <stop offset="65%" stop-color="#00D9FF"/>
-      <stop offset="88%" stop-color="#2ea44f" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#FFD21E" stop-opacity="0"/>
-    </linearGradient>
-
-    <linearGradient id="borderSpin" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FF6B6B">
-        <animate attributeName="stop-color" values="#FF6B6B;#8B5CF6;#00D9FF;#2ea44f;#FFD21E;#FF6B6B" dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#8B5CF6">
-        <animate attributeName="stop-color" values="#8B5CF6;#00D9FF;#2ea44f;#FFD21E;#FF6B6B;#8B5CF6" dur="12s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#00D9FF">
-        <animate attributeName="stop-color" values="#00D9FF;#2ea44f;#FFD21E;#FF6B6B;#8B5CF6;#00D9FF" dur="12s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <clipPath id="titleClip">
-      <text x="600" y="168" font-family="Helvetica, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="5" text-anchor="middle">ABDEL ATIA</text>
-    </clipPath>
-
-    <clipPath id="tagClip">
-      <text x="600" y="212" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1" text-anchor="middle">I treated lions. Now I merge PRs.</text>
-    </clipPath>
   </defs>
 
-  <!-- background -->
-  <rect width="1200" height="360" rx="28" fill="url(#bgDeep)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#auroraA)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#auroraB)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#auroraC)"/>
-  <rect x="2" y="2" width="1196" height="356" rx="26" fill="none" stroke="url(#borderSpin)" stroke-width="2.5" opacity="0.9"/>
+  <rect width="1200" height="260" fill="url(#canvas)"/>
+  <rect width="1200" height="260" fill="url(#light)"/>
 
-  <!-- subtle grid -->
-  <g opacity="0.07" stroke="#94a3b8" stroke-width="1">
-    <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200 M0 300 H1200"/>
-    <path d="M120 0 V360 M240 0 V360 M360 0 V360 M480 0 V360 M600 0 V360 M720 0 V360 M840 0 V360 M960 0 V360 M1080 0 V360"/>
-  </g>
+  <!-- fluid accent curve -->
+  <path d="M-20 198 C 220 168, 380 228, 600 198 S 980 158, 1220 188" fill="none" stroke="url(#goldSoft)" stroke-width="1" opacity="0.65"/>
+  <path d="M-20 206 C 240 176, 400 236, 620 206 S 960 166, 1220 196" fill="none" stroke="#c9b896" stroke-width="0.5" opacity="0.18"/>
 
-  <!-- frame lines -->
-  <line x1="48" y1="58" x2="1152" y2="58" stroke="url(#frameLine)" stroke-width="1.5">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
-  </line>
-  <line x1="48" y1="302" x2="1152" y2="302" stroke="url(#frameLine)" stroke-width="1.5">
-    <animate attributeName="opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite"/>
-  </line>
+  <!-- top rule -->
+  <line x1="420" y1="72" x2="780" y2="72" stroke="url(#gold)" stroke-width="1"/>
+  <circle cx="600" cy="72" r="2" fill="#e8dcc8" opacity="0.8"/>
 
-  <!-- corner HUD -->
-  <g filter="url(#glow)">
-    <path d="M48 98 L48 58 L88 58" fill="none" stroke="#FF6B6B" stroke-width="2.5">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
-    </path>
-    <path d="M1152 98 L1152 58 L1112 58" fill="none" stroke="#FFD21E" stroke-width="2.5">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" begin="0.6s" repeatCount="indefinite"/>
-    </path>
-    <path d="M48 262 L48 302 L88 302" fill="none" stroke="#8B5CF6" stroke-width="2.5">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" begin="1.2s" repeatCount="indefinite"/>
-    </path>
-    <path d="M1152 262 L1152 302 L1112 302" fill="none" stroke="#00D9FF" stroke-width="2.5">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" begin="1.8s" repeatCount="indefinite"/>
-    </path>
-  </g>
+  <!-- name -->
+  <text x="600" y="138" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', Times, serif"
+        font-size="62" font-weight="400" letter-spacing="14"
+        fill="url(#nameFill)">ABDEL ATIA</text>
 
-  <!-- floating particles -->
-  <g>
-    <circle cx="180" cy="110" r="2.5" fill="#FF6B6B">
-      <animate attributeName="cy" values="110;85;110" dur="5.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="5.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="320" cy="250" r="2" fill="#8B5CF6">
-      <animate attributeName="cy" values="250;225;250" dur="4.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="880" cy="95" r="2.5" fill="#00D9FF">
-      <animate attributeName="cy" values="95;120;95" dur="6.2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="6.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1020" cy="240" r="2" fill="#2ea44f">
-      <animate attributeName="cy" values="240;265;240" dur="5.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="5.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="130" cy="280" r="1.5" fill="#FFD21E">
-      <animate attributeName="cx" values="130;170;130" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="7s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1070" cy="130" r="1.5" fill="#FF6B6B">
-      <animate attributeName="cx" values="1070;1030;1070" dur="6.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="6.5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+  <!-- credentials -->
+  <text x="600" y="172" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif"
+        font-size="13" font-weight="400" letter-spacing="5"
+        fill="#a8a096">PhD  &#183;  DMV  &#183;  RAG Architect</text>
 
-  <!-- mascot left -->
-  <g transform="translate(72 108)" filter="url(#softGlow)">
-    <circle cx="64" cy="64" r="54" fill="#2ea44f" opacity="0.18">
-      <animate attributeName="r" values="52;58;52" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="64" cy="64" r="44" fill="#34d399"/>
-    <circle cx="50" cy="52" r="7" fill="#030712"/>
-    <circle cx="78" cy="52" r="7" fill="#030712"/>
-    <circle cx="52" cy="50" r="2.5" fill="#ffffff"/>
-    <circle cx="80" cy="50" r="2.5" fill="#ffffff"/>
-    <path d="M47 76 Q64 92 81 76" fill="none" stroke="#030712" stroke-width="3" stroke-linecap="round"/>
-    <path d="M104 38 C124 38 134 58 124 75 C114 91 90 91 80 81" fill="none" stroke="#e2e8f0" stroke-width="4"/>
-    <circle cx="124" cy="75" r="8" fill="#94a3b8"/>
-    <text x="64" y="122" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#cbd5e1" font-weight="600">still alive</text>
-  </g>
+  <!-- bottom rule -->
+  <line x1="470" y1="196" x2="730" y2="196" stroke="url(#gold)" stroke-width="0.75" opacity="0.85"/>
 
-  <!-- terminal right -->
-  <g transform="translate(948 118)">
-    <rect x="0" y="0" width="148" height="108" rx="12" fill="#0b1220" stroke="url(#accent)" stroke-width="2"/>
-    <rect x="10" y="12" width="128" height="8" rx="4" fill="#1e293b"/>
-    <circle cx="18" cy="16" r="2.5" fill="#FF6B6B"/>
-    <circle cx="28" cy="16" r="2.5" fill="#FFD21E"/>
-    <circle cx="38" cy="16" r="2.5" fill="#2ea44f"/>
-    <text x="14" y="40" font-family="monospace" font-size="11" fill="#2ea44f">&gt; git merge --ff-only</text>
-    <text x="14" y="58" font-family="monospace" font-size="11" fill="#00D9FF">31 PRs merged</text>
-    <text x="14" y="76" font-family="monospace" font-size="11" fill="#8B5CF6">13 reviews shipped</text>
-    <text x="14" y="94" font-family="monospace" font-size="11" fill="#FF6B6B">CI: probably fine</text>
-    <rect x="128" y="88" width="8" height="14" fill="#2ea44f">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-
-  <!-- hero title -->
-  <g filter="url(#glow)">
-    <text x="600" y="168" font-family="Helvetica, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="5" text-anchor="middle" fill="url(#chrome)" stroke="#030712" stroke-width="1.2">ABDEL ATIA</text>
-    <text x="600" y="168" font-family="Helvetica, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="5" text-anchor="middle" fill="url(#iridescent)" opacity="0.45">ABDEL ATIA</text>
-  </g>
-  <rect x="0" y="95" width="1200" height="95" fill="url(#scan)" clip-path="url(#titleClip)"/>
-
-  <!-- tagline with shimmer -->
-  <text x="600" y="212" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1" text-anchor="middle" fill="url(#accent)">I treated lions. Now I merge PRs.</text>
-  <rect x="0" y="188" width="1200" height="35" fill="url(#scan)" clip-path="url(#tagClip)" opacity="0.35"/>
-
-  <text x="600" y="244" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="6" text-anchor="middle" fill="#94a3b8">PhD &#183; DMV &#183; RAG ARCHITECT &#183; TAB HOARDER</text>
-
-  <!-- pipeline pill -->
-  <rect x="210" y="268" width="780" height="48" rx="24" fill="#0b1220" stroke="url(#frameLine)" stroke-width="1.5" opacity="0.95"/>
-  <text x="600" y="298" text-anchor="middle" font-family="monospace" font-size="14" fill="#e2e8f0">cells -&gt; python -&gt; agents -&gt; upstream repos (usually before breakfast)</text>
-
-  <!-- stat chips -->
-  <g font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">
-    <rect x="430" y="72" width="92" height="26" rx="13" fill="#2ea44f" opacity="0.15" stroke="#2ea44f" stroke-width="1"/>
-    <text x="476" y="89" fill="#2ea44f">31 MERGED</text>
-    <rect x="532" y="72" width="92" height="26" rx="13" fill="#8B5CF6" opacity="0.15" stroke="#8B5CF6" stroke-width="1"/>
-    <text x="578" y="89" fill="#8B5CF6">13 REVIEWS</text>
-    <rect x="634" y="72" width="92" height="26" rx="13" fill="#00D9FF" opacity="0.15" stroke="#00D9FF" stroke-width="1"/>
-    <text x="680" y="89" fill="#00D9FF">25 UPSTREAM</text>
-  </g>
+  <!-- motto -->
+  <text x="600" y="224" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', Times, serif"
+        font-size="15" font-style="italic" font-weight="400"
+        fill="#8f887d">Automate the boring. Amplify the human.</text>
 </svg>
