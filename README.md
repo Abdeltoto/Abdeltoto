@@ -106,6 +106,7 @@ class AbdelAtia:
 <br>
 
 <img src="https://img.shields.io/badge/🚀_Release-SuperDoc_v1.27.0-FF6B6B?style=flat-square&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/905★-FFC700?style=flat-square&labelColor=0f172a" />
 <a href="https://github.com/superdoc-dev/superdoc/releases/tag/v1.27.0"><img src="https://img.shields.io/badge/view_release-6366F1?style=flat-square&labelColor=0f172a" /></a>
 <br>
 <sub>OMML→MathML stack (radicals, n-ary, eqArr, accents…) shipped in stable release notes — 2026-04-17</sub>
@@ -113,6 +114,7 @@ class AbdelAtia:
 <br>
 
 <img src="https://img.shields.io/badge/Last_merge-SCHNAPPs__%238_·_2026--06--20-2ea44f?style=flat-square&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/26★-FFC700?style=flat-square&labelColor=0f172a" />
 <a href="https://github.com/C3BI-pasteur-fr/UTechSCB-SCHNAPPs/pull/8"><img src="https://img.shields.io/badge/view_PR-6366F1?style=flat-square&labelColor=0f172a" /></a>
 
 </div>
@@ -124,7 +126,7 @@ class AbdelAtia:
 <tr>
 <td width="50%" valign="top">
 
-**⭐ [superdoc-dev/superdoc](https://github.com/superdoc-dev/superdoc)** — 8 PRs merged  
+**⭐ [superdoc-dev/superdoc](https://github.com/superdoc-dev/superdoc)** <img src="https://img.shields.io/badge/905★-FFC700?style=flat-square&labelColor=0f172a" /> — 8 PRs merged  
 <a href="https://github.com/superdoc-dev/superdoc"><img src="assets/superdoc-logo.jpg" alt="SuperDoc" height="36" /></a>
 
 Built the OMML → MathML layer: equation arrays, matrices, n-ary operators, group chars, phantoms, accents, pre-sub-superscripts, box/borderBox. Word math renders natively in the browser.
@@ -134,7 +136,7 @@ Built the OMML → MathML layer: equation arrays, matrices, n-ary operators, gro
 </td>
 <td width="50%" valign="top">
 
-**⭐ [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** — 3 PRs merged  
+**⭐ [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** <img src="https://img.shields.io/badge/22K★-FFC700?style=flat-square&labelColor=0f172a" /> — 3 PRs merged  
 <a href="https://github.com/HKUDS/RAG-Anything"><img src="assets/rag-anything-logo.png" alt="RAG-Anything" height="36" /></a>
 
 Multimodal RAG ingestion: Docling CLI → Python API ([#261](https://github.com/HKUDS/RAG-Anything/pull/261)), OMML equation extraction for DOCX ([#262](https://github.com/HKUDS/RAG-Anything/pull/262)), public asset URL docs ([#275](https://github.com/HKUDS/RAG-Anything/pull/275)).
@@ -150,32 +152,34 @@ Multimodal RAG ingestion: Docling CLI → Python API ([#261](https://github.com/
 
 <br>
 
-| Project | PRs | What shipped |
-|---------|:---:|--------------|
-| [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 3 | Docling API, OMML extract, asset URL docs |
-| [SuperDoc](https://github.com/superdoc-dev/superdoc) | 8 | Full OMML→MathML conversion stack |
-| [palantir-mcp](https://github.com/palantir/palantir-mcp) | 1 | Windows `shell: true` fix ([#25](https://github.com/palantir/palantir-mcp/pull/25)) |
-| [DeepCritical](https://github.com/DeepCritical/DeepCritical) | 1 | MAFFT MCP server ([#231](https://github.com/DeepCritical/DeepCritical/pull/231)) |
-| [ProBioPred](https://github.com/microDM/ProBioPred) | 1 | Modern `pyproject.toml` scaffolding ([#1](https://github.com/microDM/ProBioPred/pull/1)) |
-| Awesome lists | 3 | Scanpy, EvoDiff, DeepLabCut, CaImAn, Elephant |
-| [eLabFTW](https://github.com/elabftw/elabftw) | 1 | ELN account-creation security ([#6786](https://github.com/elabftw/elabftw/pull/6786)) |
-| [SENAITE](https://github.com/senaite/senaite.com) | 1 | Docker quick-start docs ([#2](https://github.com/senaite/senaite.com/pull/2)) |
-| [gsd-for-cursor](https://github.com/rmindel/gsd-for-cursor) | 1 | Fixed hooks path `~/.cursor/` ([#3](https://github.com/rmindel/gsd-for-cursor/pull/3)) |
-| [PyLabRobot](https://github.com/PyLabRobot/pylabrobot) | 1 | Thermocycler hold-time error ([#1010](https://github.com/PyLabRobot/pylabrobot/pull/1010)) |
-| [q2-dada2](https://github.com/qiime2/q2-dada2) | 1 | `n_reads_learn` help text ([#191](https://github.com/qiime2/q2-dada2/pull/191)) |
-| [SCHNAPPs](https://github.com/C3BI-pasteur-fr/UTechSCB-SCHNAPPs) | 1 | Fix `scExOrg` in sample data ([#8](https://github.com/C3BI-pasteur-fr/UTechSCB-SCHNAPPs/pull/8)) |
-| [Apache Hamilton](https://github.com/apache/hamilton) | 2 | Async builder typing + docs ([#1559](https://github.com/apache/hamilton/pull/1559), [#1560](https://github.com/apache/hamilton/pull/1560)) |
-| [vllm-omni_AA](https://github.com/Abdeltoto/vllm-omni_AA) | 1 | L5 stability test framework ([#1](https://github.com/Abdeltoto/vllm-omni_AA/pull/1)) |
+| Project | ★ | PRs | What shipped |
+|---------|:-:|:-:|:-------------|
+| [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | <img src="https://img.shields.io/badge/22K-FFC700?style=flat-square&labelColor=0f172a" /> | 3 | Docling API, OMML extract, asset URL docs |
+| [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) | <img src="https://img.shields.io/badge/4.2K-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | Added Scanpy, EvoDiff |
+| [Apache Hamilton](https://github.com/apache/hamilton) | <img src="https://img.shields.io/badge/2.6K-FFC700?style=flat-square&labelColor=0f172a" /> | 2 | Async builder typing + docs ([#1559](https://github.com/apache/hamilton/pull/1559), [#1560](https://github.com/apache/hamilton/pull/1560)) |
+| [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) | <img src="https://img.shields.io/badge/1.7K-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | DeepLabCut, CaImAn, Elephant |
+| [eLabFTW](https://github.com/elabftw/elabftw) | <img src="https://img.shields.io/badge/1.4K-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | ELN account-creation security ([#6786](https://github.com/elabftw/elabftw/pull/6786)) |
+| [SuperDoc](https://github.com/superdoc-dev/superdoc) | <img src="https://img.shields.io/badge/905-FFC700?style=flat-square&labelColor=0f172a" /> | 8 | Full OMML→MathML conversion stack |
+| [PyLabRobot](https://github.com/PyLabRobot/pylabrobot) | <img src="https://img.shields.io/badge/483-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | Thermocycler hold-time error ([#1010](https://github.com/PyLabRobot/pylabrobot/pull/1010)) |
+| [awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) | <img src="https://img.shields.io/badge/146-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | Curated comp-bio tools |
+| [gsd-for-cursor](https://github.com/rmindel/gsd-for-cursor) | <img src="https://img.shields.io/badge/84-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | Fixed hooks path `~/.cursor/` ([#3](https://github.com/rmindel/gsd-for-cursor/pull/3)) |
+| [DeepCritical](https://github.com/DeepCritical/DeepCritical) | <img src="https://img.shields.io/badge/35-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | MAFFT MCP server ([#231](https://github.com/DeepCritical/DeepCritical/pull/231)) |
+| [SCHNAPPs](https://github.com/C3BI-pasteur-fr/UTechSCB-SCHNAPPs) | <img src="https://img.shields.io/badge/26-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | Fix `scExOrg` in sample data ([#8](https://github.com/C3BI-pasteur-fr/UTechSCB-SCHNAPPs/pull/8)) |
+| [q2-dada2](https://github.com/qiime2/q2-dada2) | <img src="https://img.shields.io/badge/24-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | `n_reads_learn` help text ([#191](https://github.com/qiime2/q2-dada2/pull/191)) |
+| [palantir-mcp](https://github.com/palantir/palantir-mcp) | <img src="https://img.shields.io/badge/12-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | Windows `shell: true` fix ([#25](https://github.com/palantir/palantir-mcp/pull/25)) |
+| [ProBioPred](https://github.com/microDM/ProBioPred) | <img src="https://img.shields.io/badge/2-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | Modern `pyproject.toml` scaffolding ([#1](https://github.com/microDM/ProBioPred/pull/1)) |
+| [vllm-omni_AA](https://github.com/Abdeltoto/vllm-omni_AA) | <img src="https://img.shields.io/badge/1-FFC700?style=flat-square&labelColor=0f172a" /> | 1 | L5 stability test framework ([#1](https://github.com/Abdeltoto/vllm-omni_AA/pull/1)) |
+| [SENAITE](https://github.com/senaite/senaite.com) | <img src="https://img.shields.io/badge/0-64748b?style=flat-square&labelColor=0f172a" /> | 1 | Docker quick-start docs ([#2](https://github.com/senaite/senaite.com/pull/2)) |
 
 <br>
 
-**Recent upstream merges:** [SCHNAPPs #8](https://github.com/C3BI-pasteur-fr/UTechSCB-SCHNAPPs/pull/8) · 2026-06-20 · [q2-dada2 #191](https://github.com/qiime2/q2-dada2/pull/191) · 2026-06-04 · [awesome-neuroscience #34](https://github.com/analyticalmonk/awesome-neuroscience/pull/34) · 2026-05-23
+**Recent upstream merges:** [SCHNAPPs #8](https://github.com/C3BI-pasteur-fr/UTechSCB-SCHNAPPs/pull/8) <img src="https://img.shields.io/badge/26★-FFC700?style=flat-square&labelColor=0f172a" /> · 2026-06-20 · [q2-dada2 #191](https://github.com/qiime2/q2-dada2/pull/191) <img src="https://img.shields.io/badge/24★-FFC700?style=flat-square&labelColor=0f172a" /> · 2026-06-04 · [awesome-neuroscience #34](https://github.com/analyticalmonk/awesome-neuroscience/pull/34) <img src="https://img.shields.io/badge/1.7K★-FFC700?style=flat-square&labelColor=0f172a" /> · 2026-05-23
 
-**Open upstream PRs:** [frictionless-py #1775](https://github.com/frictionlessdata/frictionless-py/pull/1775) / [#1776](https://github.com/frictionlessdata/frictionless-py/pull/1776) · [biopython #5176](https://github.com/biopython/biopython/pull/5176)
+**Open upstream PRs:** [frictionless-py #1775](https://github.com/frictionlessdata/frictionless-py/pull/1775) / [#1776](https://github.com/frictionlessdata/frictionless-py/pull/1776) <img src="https://img.shields.io/badge/834★-FFC700?style=flat-square&labelColor=0f172a" /> · [biopython #5176](https://github.com/biopython/biopython/pull/5176) <img src="https://img.shields.io/badge/5.1K★-FFC700?style=flat-square&labelColor=0f172a" />
 
-**Closed without merge (reopenable):** [airflow #67933](https://github.com/apache/airflow/pull/67933) · [scipy #25294](https://github.com/scipy/scipy/pull/25294)
+**Closed without merge (reopenable):** [airflow #67933](https://github.com/apache/airflow/pull/67933) <img src="https://img.shields.io/badge/46K★-FFC700?style=flat-square&labelColor=0f172a" /> · [scipy #25294](https://github.com/scipy/scipy/pull/25294) <img src="https://img.shields.io/badge/15K★-FFC700?style=flat-square&labelColor=0f172a" />
 
-<sub>Totals from <code>author:Abdeltoto is:pr is:merged</code></sub>
+<sub>Totals from <code>author:Abdeltoto is:pr is:merged</code> · ★ counts live from GitHub — Jul 2026</sub>
 
 </details>
 
@@ -185,7 +189,7 @@ Multimodal RAG ingestion: Docling CLI → Python API ([#261](https://github.com/
 <br>
 
 <details>
-<summary><b>scikit-learn</b> (63K★) — 2 reviews</summary>
+<summary><b>scikit-learn/scikit-learn</b> <img src="https://img.shields.io/badge/67K★-FFC700?style=flat-square&labelColor=0f172a" /> — 2 reviews</summary>
 
 - [#33819](https://github.com/scikit-learn/scikit-learn/pull/33819) — DOC: `alpha_per_target` vs `cv` in RidgeCV
 - [#34168](https://github.com/scikit-learn/scikit-learn/pull/34168) — DOC: `rich` dependency for ProgressBar
@@ -193,21 +197,21 @@ Multimodal RAG ingestion: Docling CLI → Python API ([#261](https://github.com/
 </details>
 
 <details>
-<summary><b>pandas</b> (46K★) — 1 review</summary>
+<summary><b>pandas-dev/pandas</b> <img src="https://img.shields.io/badge/49K★-FFC700?style=flat-square&labelColor=0f172a" /> — 1 review</summary>
 
 - [#65738](https://github.com/pandas-dev/pandas/pull/65738) — DOC: fix outdated matplotlib link *(approved)*
 
 </details>
 
 <details>
-<summary><b>apache/airflow</b> (41K★) — 1 review</summary>
+<summary><b>apache/airflow</b> <img src="https://img.shields.io/badge/46K★-FFC700?style=flat-square&labelColor=0f172a" /> — 1 review</summary>
 
 - [#67905](https://github.com/apache/airflow/pull/67905) — Trigger DAG params grid layout
 
 </details>
 
 <details>
-<summary><b>RAG-Anything</b> (17K★) — 4 reviews</summary>
+<summary><b>HKUDS/RAG-Anything</b> <img src="https://img.shields.io/badge/22K★-FFC700?style=flat-square&labelColor=0f172a" /> — 4 reviews</summary>
 
 - [#258](https://github.com/HKUDS/RAG-Anything/pull/258) — forward `system_prompt` in `aquery_with_multimodal`
 - [#247](https://github.com/HKUDS/RAG-Anything/pull/247) — pass chunk storages to `merge_nodes_and_edges`
