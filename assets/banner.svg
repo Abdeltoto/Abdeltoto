@@ -4,8 +4,8 @@
       <stop offset="0%" stop-color="#080809"/>
       <stop offset="100%" stop-color="#030303"/>
     </linearGradient>
-    <radialGradient id="light" cx="50%" cy="38%" r="62%">
-      <stop offset="0%" stop-color="#e8dcc8" stop-opacity="0.05"/>
+    <radialGradient id="light" cx="50%" cy="40%" r="68%">
+      <stop offset="0%" stop-color="#e8dcc8" stop-opacity="0.06"/>
       <stop offset="100%" stop-color="#e8dcc8" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
@@ -29,18 +29,18 @@
   <rect width="1200" height="280" fill="url(#canvas)"/>
   <rect width="1200" height="280" fill="url(#light)"/>
 
-  <path d="M-40 228 C 180 248, 340 188, 520 218 C 700 248, 860 188, 1040 218 C 1120 232, 1180 222, 1240 228" fill="none" stroke="url(#flow)" stroke-width="1"/>
-  <path d="M-40 236 C 200 256, 360 196, 540 226 C 720 256, 880 196, 1060 226 C 1140 240, 1180 230, 1240 236" fill="none" stroke="#b8a488" stroke-width="0.5" opacity="0.12"/>
+  <path d="M-40 248 C 180 268, 340 208, 520 238 C 700 268, 860 208, 1040 238 C 1120 252, 1180 242, 1240 248" fill="none" stroke="url(#flow)" stroke-width="1"/>
+  <path d="M-40 256 C 200 276, 360 216, 540 246 C 720 276, 880 216, 1060 246 C 1140 260, 1180 250, 1240 256" fill="none" stroke="#b8a488" stroke-width="0.5" opacity="0.12"/>
 
-  <line x1="460" y1="64" x2="740" y2="64" stroke="url(#gold)" stroke-width="0.75"/>
-  <circle cx="600" cy="64" r="1.5" fill="#e2d6c2" opacity="0.75"/>
+  <line x1="340" y1="38" x2="860" y2="38" stroke="url(#gold)" stroke-width="0.85"/>
+  <circle cx="600" cy="38" r="2" fill="#e2d6c2" opacity="0.8"/>
 
-  <text x="600" y="108" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="44" letter-spacing="16" fill="url(#nameFill)">ABDEL ATIA</text>
+  <text x="600" y="98" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="62" letter-spacing="18" fill="url(#nameFill)">ABDEL ATIA</text>
 
-  <text x="600" y="134" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10" letter-spacing="6" fill="#7a746c">PhD  &#183;  DMV  &#183;  RAG Architect</text>
+  <text x="600" y="128" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="7" fill="#7a746c">PhD  &#183;  DMV  &#183;  RAG Architect</text>
 
-  <line x1="500" y1="156" x2="700" y2="156" stroke="url(#gold)" stroke-width="0.5" opacity="0.6"/>
+  <line x1="420" y1="148" x2="780" y2="148" stroke="url(#gold)" stroke-width="0.55" opacity="0.65"/>
 
-  <text x="600" y="196" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="24" font-style="italic" fill="#ddd6cc">Automate the boring.</text>
-  <text x="600" y="226" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="24" font-style="italic" fill="#a8a096">Amplify the human.</text>
+  <text x="600" y="188" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="32" font-style="italic" fill="#ddd6cc">Automate the boring.</text>
+  <text x="600" y="228" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="32" font-style="italic" fill="#a8a096">Amplify the human.</text>
 </svg>
