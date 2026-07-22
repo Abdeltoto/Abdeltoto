@@ -1,68 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Abdel Atia">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Abdel Atia">
   <defs>
     <linearGradient id="canvas" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#111318"/>
-      <stop offset="55%" stop-color="#0d0f14"/>
-      <stop offset="100%" stop-color="#090a0e"/>
+      <stop offset="0%" stop-color="#080809"/>
+      <stop offset="100%" stop-color="#030303"/>
     </linearGradient>
 
-    <radialGradient id="light" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#d4c4a8" stop-opacity="0.07"/>
-      <stop offset="55%" stop-color="#d4c4a8" stop-opacity="0.02"/>
-      <stop offset="100%" stop-color="#d4c4a8" stop-opacity="0"/>
+    <radialGradient id="light" cx="50%" cy="38%" r="62%">
+      <stop offset="0%" stop-color="#e8dcc8" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#e8dcc8" stop-opacity="0"/>
     </radialGradient>
 
     <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8a7350" stop-opacity="0"/>
-      <stop offset="18%" stop-color="#c9b896"/>
-      <stop offset="50%" stop-color="#e8dcc8"/>
-      <stop offset="82%" stop-color="#c9b896"/>
-      <stop offset="100%" stop-color="#8a7350" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#7a6648" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#b8a488"/>
+      <stop offset="50%" stop-color="#e2d6c2"/>
+      <stop offset="78%" stop-color="#b8a488"/>
+      <stop offset="100%" stop-color="#7a6648" stop-opacity="0"/>
     </linearGradient>
 
-    <linearGradient id="goldSoft" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#b8a88a" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#d8ccb8" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#b8a88a" stop-opacity="0"/>
-      <animate attributeName="x1" values="0;0.15;0" dur="14s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="1;0.85;1" dur="14s" repeatCount="indefinite"/>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a89478" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#d4c4aa" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#a89478" stop-opacity="0"/>
+      <animate attributeName="x1" values="0;0.12;0" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0.88;1" dur="18s" repeatCount="indefinite"/>
     </linearGradient>
 
     <linearGradient id="nameFill" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#faf8f5"/>
-      <stop offset="100%" stop-color="#ddd6cc"/>
+      <stop offset="0%" stop-color="#f3f0ea"/>
+      <stop offset="100%" stop-color="#c8bfb2"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="260" fill="url(#canvas)"/>
-  <rect width="1200" height="260" fill="url(#light)"/>
+  <rect width="1200" height="280" fill="url(#canvas)"/>
+  <rect width="1200" height="280" fill="url(#light)"/>
 
-  <!-- fluid accent curve -->
-  <path d="M-20 198 C 220 168, 380 228, 600 198 S 980 158, 1220 188" fill="none" stroke="url(#goldSoft)" stroke-width="1" opacity="0.65"/>
-  <path d="M-20 206 C 240 176, 400 236, 620 206 S 960 166, 1220 196" fill="none" stroke="#c9b896" stroke-width="0.5" opacity="0.18"/>
+  <path d="M-40 228 C 180 248, 340 188, 520 218 C 700 248, 860 188, 1040 218 C 1120 232, 1180 222, 1240 228" fill="none" stroke="url(#flow)" stroke-width="1"/>
+  <path d="M-40 236 C 200 256, 360 196, 540 226 C 720 256, 880 196, 1060 226 C 1140 240, 1180 230, 1240 236" fill="none" stroke="#b8a488" stroke-width="0.5" opacity="0.12"/>
 
-  <!-- top rule -->
-  <line x1="420" y1="72" x2="780" y2="72" stroke="url(#gold)" stroke-width="1"/>
-  <circle cx="600" cy="72" r="2" fill="#e8dcc8" opacity="0.8"/>
+  <line x1="460" y1="64" x2="740" y2="64" stroke="url(#gold)" stroke-width="0.75"/>
+  <circle cx="600" cy="64" r="1.5" fill="#e2d6c2" opacity="0.75"/>
 
-  <!-- name -->
-  <text x="600" y="138" text-anchor="middle"
+  <text x="600" y="108" text-anchor="middle"
         font-family="Georgia, 'Times New Roman', Times, serif"
-        font-size="62" font-weight="400" letter-spacing="14"
+        font-size="44" font-weight="400" letter-spacing="16"
         fill="url(#nameFill)">ABDEL ATIA</text>
 
-  <!-- credentials -->
-  <text x="600" y="172" text-anchor="middle"
+  <text x="600" y="134" text-anchor="middle"
         font-family="Helvetica, Arial, sans-serif"
-        font-size="13" font-weight="400" letter-spacing="5"
-        fill="#a8a096">PhD  &#183;  DMV  &#183;  RAG Architect</text>
+        font-size="10" font-weight="400" letter-spacing="6"
+        fill="#7a746c">PhD  &#183;  DMV  &#183;  RAG Architect</text>
 
-  <!-- bottom rule -->
-  <line x1="470" y1="196" x2="730" y2="196" stroke="url(#gold)" stroke-width="0.75" opacity="0.85"/>
+  <line x1="500" y1="156" x2="700" y2="156" stroke="url(#gold)" stroke-width="0.5" opacity="0.6"/>
 
-  <!-- motto -->
-  <text x="600" y="224" text-anchor="middle"
+  <text x="600" y="196" text-anchor="middle"
         font-family="Georgia, 'Times New Roman', Times, serif"
-        font-size="15" font-style="italic" font-weight="400"
-        fill="#8f887d">Automate the boring. Amplify the human.</text>
+        font-size="24" font-style="italic" font-weight="400"
+        fill="#ddd6cc">Automate the boring.</text>
+  <text x="600" y="226" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', Times, serif"
+        font-size="24" font-style="italic" font-weight="400"
+        fill="#a8a096">Amplify the human.</text>
 </svg>
